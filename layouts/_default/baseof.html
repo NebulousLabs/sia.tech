@@ -9,10 +9,11 @@
 </head>
 <body>
   <!-- TODO: google analytics -->
-  <!-- TODO: site-wide header -->
+  {{ partial "header.html" . }}
   <main>
     {{ block "main" . }}{{ end }}
   </main>
-  <!-- TODO: site-wide footer -->
+  {{ partial "footer.html" . }}
+  <!-- TODO: cloudflare email obfuscation JS? -->
 </body>
 </html>
