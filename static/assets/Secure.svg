@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="44px" height="58px" viewBox="0 0 44 58" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12072) - http://www.bohemiancoding.com/sketch -->
+    <title>Secure</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Desktop-(&gt;1200px)" sketch:type="MSArtboardGroup" transform="translate(-202.000000, -2099.000000)" fill="#00CBA0">
+            <g id="Why-sia" sketch:type="MSLayerGroup" transform="translate(0.000000, 1375.000000)">
+                <g id="Secure" transform="translate(202.250000, 724.000000)" sketch:type="MSShapeGroup">
+                    <path d="M9.66666667,14.5 C9.66666667,7.83725 15.0848333,2.41666667 21.75,2.41666667 C28.41275,2.41666667 33.8333333,7.83725 33.8333333,14.5 L33.8333333,21.75 L9.66666667,21.75 L9.66666667,14.5 Z M19.3333333,36.25 C19.3333333,34.916 20.416,33.8333333 21.75,33.8333333 C23.0815833,33.8333333 24.1666667,34.916 24.1666667,36.25 C24.1666667,37.1393333 23.6760833,37.9126667 22.9583333,38.3283333 L22.9583333,44.7083333 C22.9583333,45.3729167 22.4145833,45.9166667 21.75,45.9166667 C21.083,45.9166667 20.5416667,45.3729167 20.5416667,44.7083333 L20.5416667,38.3283333 C19.8215,37.9126667 19.3333333,37.1393333 19.3333333,36.25 L19.3333333,36.25 Z M0,58 L43.5,58 L43.5,21.75 L36.25,21.75 L36.25,14.5 C36.25,6.50325 29.7443333,0 21.75,0 C13.75325,0 7.25,6.50325 7.25,14.5 L7.25,21.75 L0,21.75 L0,58 Z" id="Fill-319"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

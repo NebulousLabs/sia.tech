@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12072) - http://www.bohemiancoding.com/sketch -->
+    <title>faq-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Get-started" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Desktop-(&gt;1200px)" sketch:type="MSArtboardGroup" transform="translate(-501.000000, -1368.000000)" fill="#00CBA0">
+            <g id="Discover-More" sketch:type="MSLayerGroup" transform="translate(0.000000, 1153.000000)">
+                <path d="M526,240.93 L526,246 C526,246.554 525.55,247 525,247 C524.448,247 524,246.554 524,246 L524,240 C524,239.448 524.448,239 525,239 C527.756,239 530,236.758 530,234 C530,231.242 527.756,229 525,229 C522.242,229 520,231.242 520,234 C520,234.554 519.55,235 519,235 C518.448,235 518,234.554 518,234 C518,230.142 521.138,227 525,227 C528.86,227 532,230.142 532,234 C532,237.52 529.386,240.442 526,240.93 M525,253 C523.894,253 523,252.106 523,251 C523,249.896 523.894,249 525,249 C526.102,249 527,249.896 527,251 C527,252.106 526.102,253 525,253 M525,215 C511.766,215 501,225.766 501,239 C501,252.234 511.766,263 525,263 C538.232,263 549,252.234 549,239 C549,225.766 538.232,215 525,215" id="faq-icon" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>

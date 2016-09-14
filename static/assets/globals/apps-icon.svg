@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="48px" height="46px" viewBox="0 0 48 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12072) - http://www.bohemiancoding.com/sketch -->
+    <title>apps-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Get-started" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Desktop-(&gt;1200px)" sketch:type="MSArtboardGroup" transform="translate(-831.000000, -1368.000000)" fill="#00CBA0">
+            <g id="Discover-More" sketch:type="MSLayerGroup" transform="translate(0.000000, 1153.000000)">
+                <g id="apps-icon" transform="translate(831.000000, 215.000000)" sketch:type="MSShapeGroup">
+                    <path d="M34.2857143,33.7901714 L25.1428571,28.3044571 L25.1428571,39.3147429 L34.2857143,45.1958857 L34.2857143,33.7901714 Z" id="Fill-1404"></path>
+                    <path d="M22.8571429,28.3035429 L13.7142857,33.7892571 L13.7142857,45.1949714 L22.8571429,39.3138286 L22.8571429,28.3035429 Z" id="Fill-1405"></path>
+                    <path d="M25.1428571,24.1963429 L36.5714286,16.8729143 L36.5714286,8.64662857 L25.1428571,15.5037714 L25.1428571,24.1963429 Z" id="Fill-1406"></path>
+                    <path d="M22.8571429,15.5044571 L11.4285714,8.64731429 L11.4285714,16.8736 L22.8571429,24.1970286 L22.8571429,15.5044571 Z" id="Fill-1407"></path>
+                    <path d="M12.5714286,31.8102857 L21.8331429,26.2514286 L10.4342857,18.9508571 L1.12,24.9417143 L12.5714286,31.8102857 Z" id="Fill-1408"></path>
+                    <path d="M11.4285714,33.7901714 L0,26.9330286 L0,37.2210286 C0,37.6096 0.198857143,37.9730286 0.523428571,38.1833143 L11.4285714,45.1958857 L11.4285714,33.7901714 Z" id="Fill-1409"></path>
+                    <path d="M36.5714286,33.7901714 L36.5714286,45.1958857 L47.4765714,38.1833143 C47.8011429,37.9730286 48,37.6096 48,37.2210286 L48,26.9330286 L36.5714286,33.7901714 Z" id="Fill-1410"></path>
+                    <path d="M37.5648,18.9508571 L26.1682286,26.2514286 L35.4276571,31.8102857 L46.8790857,24.9417143 L37.5648,18.9508571 Z" id="Fill-1411"></path>
+                    <path d="M24,13.5245714 L35.4285714,6.66742857 L24.5874286,0.162285714 C24.2262857,-0.0525714286 23.7737143,-0.0525714286 23.4125714,0.162285714 L12.5714286,6.66742857 L24,13.5245714 Z" id="Fill-1412"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
