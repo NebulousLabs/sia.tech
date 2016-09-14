@@ -3,9 +3,11 @@
 <head>
   <meta charset="utf-8">
   <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
-  <!-- TODO: viewport, css -->
+  <link rel="stylesheet" type="text/css" href="/css/style.css">
+  <!-- TODO: viewport -->
 </head>
 <body>
+  <!-- TODO: google analytics -->
   <!-- TODO: site-wide header -->
   <main>
     {{ block "main" . }}{{ end }}
