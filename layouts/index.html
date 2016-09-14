@@ -1,0 +1,8 @@
+{{ define "main" }}
+  <!-- Workaround to let us write the index page in the content dir. See https://github.com/spf13/hugo/issues/330 -->
+  {{ range .Data.Pages }}
+    {{ if eq .Type "index" }}
+      {{ .Content }}
+    {{ end }}
+  {{ end }}
+{{ end }}

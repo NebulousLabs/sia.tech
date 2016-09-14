@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
+  <!-- TODO: viewport, css -->
+</head>
+<body>
+  <!-- TODO: site-wide header -->
+  <main>
+    {{ block "main" . }}{{ end }}
+  </main>
+  <!-- TODO: site-wide footer -->
+</body>
+</html>
