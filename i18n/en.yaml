@@ -25,7 +25,21 @@
 - id: header_getsiacoin
   translation: "GET SIACOIN"
 
-### TODO: discover ###
+### discover ###
+- id: discover_header
+  translation: "Discover more"
+
+- id: discover_whitepaper
+  translation: "Whitepaper"
+
+- id: discover_blog
+  translation: "Blog"
+
+- id: discover_explorer
+  translation: "Blockchain Explorer"
+
+- id: discover_devdocs
+  translation: "Developer Docs"
 
 ### footer ###
 - id: footer_navheader
@@ -137,3 +151,34 @@
 
 - id: index_emailbtn
   translation: "Sign up"
+
+# URL: /about/index.html
+### header ###
+- id: about_header
+  translation: "About Us"
+
+- id: about_subheader
+  translation: "OUR MISSION"
+
+### paragraphs ###
+- id: about_p1
+  translation: "The idea of Sia was originally conceived at HackMIT 2013. What if you could liberate the unused storage space of the world and unite it into a worldwide free market for data?"
+
+- id: about_p2
+  translation: "Sia leverages the capacity of blockchain technology to enable distributed networks to reach consensus in a secure and trustless way. Cryptographically secured smart contracts ensure the encryption and transfer of data with no possibility for a third party to interfere in any way."
+
+- id: about_p3
+  translation: "Sia is a new approach to cloud storage platforms. Instead of all datacenters being owned and operated by a single company, Sia opens the floodgates and allows anyone to make money by renting out their hard drive. Data integrity is protected using redundancy and cryptography."
+
+- id: about_p4
+  translation: "The promise of Sia is a decentralized network of datacenters that, taken together, comprise the world's fastest, cheapest, and most secure cloud storage platform. Today, being a major cloud storage player requires having datacenters, building trust within the market, reaching customers, and competing with giants such as Amazon, Google, and Microsoft."
+
+- id: about_p5
+  translation: "Breaking into this market is a multi-billion dollar endeavor. The long term goal of Sia is to be the backbone storage layer of the Internet."
+
+- id: about_p6
+  translation: "We believe data should be free. We aim to liberate the unused bits of the world and construct the largest storage superserver on the planet."
+
+### contact ###
+- id: about_contact
+  translation: "Contact"
