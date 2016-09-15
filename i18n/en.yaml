@@ -1,0 +1,139 @@
+# Titles
+- id: title_about
+  translation: "About"
+
+- id: title_apps
+  translation: "Apps"
+
+- id: title_faq
+  translation: "FAQ"
+
+- id: title_getsiacoin
+  translation: "Get Siacoin"
+
+- id: title_getstarted
+  translation: "Get Started"
+
+- id: title_roadmap
+  translation: "Roadmap"
+
+# Partials
+### header ###
+- id: header_community
+  translation: "Community"
+
+- id: header_getsiacoin
+  translation: "GET SIACOIN"
+
+### TODO: discover ###
+
+### footer ###
+- id: footer_navheader
+  translation: "What is Sia?"
+
+- id: footer_moreheader
+  translation: "More about Sia"
+
+- id: footer_docs
+  translation: "Docs"
+
+- id: footer_blog
+  translation: "Blog"
+
+- id: footer_forum
+  translation: "Forum"
+
+- id: footer_siatalk
+  translation: "#siatalk on irc.freenode.net"
+
+- id: footer_backedby
+  translation: "is backed by"
+
+- id: footer_questions
+  translation: "Questions about Sia? Get in touch!"
+
+- id: footer_contact
+  translation: "Contact"
+
+- id: footer_like
+  translation: "Like us"
+
+- id: footer_follow
+  translation: "Follow us"
+
+# URL: /index.html
+### big header ###
+- id: index_bigheader1
+  translation: "Enterprise-Grade"
+
+- id: index_bigheader2
+  translation: "Collaborative Cloud"
+
+- id: index_bigheader3
+  translation: "for Data Storage"
+
+- id: index_downloadbtn
+  translation: "Download now"
+
+- id: index_videobtn
+  translation: "Watch video"
+
+- id: index_gettingstarted
+  translation: "Need help getting started?"
+
+### info section ###
+- id: index_infoheader
+  translation: "Sia blows traditional storage out of the cloud"
+
+- id: index_infosubheader
+  translation: "AND BACK INTO YOUR HANDS"
+
+- id: index_infosection1h
+  translation: "Economy"
+
+- id: index_infosection1p
+  translation: "Sia is a shared economy. Acquire, use, and trade SiaCoin according to your role and requirements. Participate as a user, farmer, miner, and node operator."
+
+- id: index_infosection2h
+  translation: "Distributed"
+
+- id: index_infosection2p
+  translation: "Decentralization means your data is stored across multiple nodes and tracked by automated smart contracts. There is no central point of failure."
+
+- id: index_infosection3h
+  translation: "Build"
+
+- id: index_infosection3p
+  translation: "Build and connect your own apps to Sia to leverage its storage capacity and features. What you pay and what you get are adjusted in real time."
+
+### explorer stats section ###
+- id: index_statsheader
+  translation: "Network Pulse"
+
+- id: index_stat1h
+  translation: "Total File Contracts"
+
+- id: index_stat2h
+  translation: "Total Contract Size"
+
+- id: index_stat2unit
+  translation: "TB"
+
+- id: index_stat3h
+  translation: "Total Siacoins"
+
+- id: index_stat2unit
+  translation: "Billion"
+
+- id: index_morestats
+  translation: "more stats"
+
+### mailing list ###
+- id: index_mailheader
+  translation: "Sign up for Sia announcements"
+
+- id: index_emailform
+  translation: "Email"
+
+- id: index_emailbtn
+  translation: "Sign up"
