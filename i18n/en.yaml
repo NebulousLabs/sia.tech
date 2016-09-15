@@ -502,3 +502,23 @@
   translation: "Can I share files with others on Sia?"
 - id: faq_files7a
   translation: "Yes. Files can be shared publically and privately. All files uploaded to the Sia network are erasure coded and then encrypted. Someone will only be able to decrypt and fetch the files if they have metadata about the files. This metadata is stored in something called a ‘.sia’ or a ‘siafile’. By sharing the siafile associated with a file that’s been uploaded to Sia, you give someone the ability to download that file. To share files privately, you can give the siafiles to people you trust. They will be able to download the file, and as long as they don’t share it, nobody else will. You can share files publicly by putting the associated siafiles in a public place."
+
+
+# URL: /get-siacoin.html
+### header ###
+- id: getsiacoin_header
+  translation: "Preferred Exchanges"
+
+- id: getsiacoin_subheader
+  translation: "BUY AND TRADE SIACOIN"
+
+### exchanges ###
+
+- id: getsiacoin_poloniex
+  translation: "Poloniex is a US-based cryptocurrency exchange offering maximum security and advanced trading features. Start trading in minutes. All it takes is a few simple steps."
+
+- id: getsiacoin_yunbi
+  translation: "YUNBI is a future oriented exchange for blockchain assets. Founded in Beijing, 2013, and built with the code released by Peatio Open Source Project, YUNBI adheres to the principles of integrity, transparency and being open-sourced, offering customers a safe and easy trading platform."
+
+- id: getsiacoin_btn
+  translation: "Get Siacoin"
