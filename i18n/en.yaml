@@ -17,6 +17,7 @@
 - id: title_roadmap
   translation: "Roadmap"
 
+
 # Partials
 ### header ###
 - id: header_community
@@ -74,6 +75,7 @@
 
 - id: footer_follow
   translation: "Follow us"
+
 
 # URL: /index.html
 ### big header ###
@@ -152,6 +154,7 @@
 - id: index_emailbtn
   translation: "Sign up"
 
+
 # URL: /about/index.html
 ### header ###
 - id: about_header
@@ -182,3 +185,34 @@
 ### contact ###
 - id: about_contact
   translation: "Contact"
+
+
+# URL: /about/milestones.html
+### header ###
+- id: milestones_header
+  translation: "Roadmap"
+
+- id: milestones_subheader
+  translation: "MILESTONES AND GOALS"
+
+### milestones ###
+- id: milestones_idea
+  translation: "October 2013: Idea"
+
+- id: milestones_angel
+  translation: "June 2014: Angel Investment"
+
+- id: milestones_whitepaper
+  translation: "November 2014: Whitepaper"
+
+- id: milestones_launch
+  translation: "June 2015: Sia Network Launches"
+
+- id: milestones_v1
+  translation: "June 2016: Sia Version 1"
+
+- id: milestones_exchanges
+  translation: "July 2016: Sia on Poloniex, YUNBI, Bitsquare, and ShapeShift"
+
+- id: milestones_funding2016
+  translation: "August 2016: Nebulous Raises $750k for Sia"
