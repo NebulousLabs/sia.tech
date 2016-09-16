@@ -1070,20 +1070,19 @@ main > section .collapse-expand .panel-body { padding: 1rem; border: 2px solid #
 main > section .collapse-expand .panel-group { padding: 0 0 1rem 0; }
 main > section.tabs .nav-tabs { display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; text-align: center; background-color: transparent; margin: 0; color: #878687; border-bottom: none; }
 main > section.tabs .nav-tabs li { padding: 1.1rem 2rem 0 2rem; }
-main > section.tabs .nav-tabs li a p { font-size: 1rem; font-weight: 700; color: #878687; }
+main > section.tabs .nav-tabs li a { font-size: 1rem; font-weight: 700; color: #878687; }
 main > section.tabs .nav-tabs li a h4 { text-align: center; color: #878687; }
 main > section.tabs .nav-tabs li a #screen { fill: #878687; }
-main > section.tabs .nav-tabs li a:hover { color: #00CBA0; -webkit-transition: all linear .25s; -o-transition: all linear .25s; transition: all linear .25s; }
-main > section.tabs .nav-tabs li a:hover p { color: #00CBA0; }
+main > section.tabs .nav-tabs li a:hover { color: #00CBA0; }
 main > section.tabs .nav-tabs li a:hover h4 { color: #00CBA0; }
 main > section.tabs .nav-tabs li a:hover #screen { fill: #00CBA0; }
 main > section.tabs .nav-tabs li.active { background-color: #00CBA0; color: #F5F5F5; }
 main > section.tabs .nav-tabs li.active:after { top: 100%; left: 50%; border: solid transparent; content: " "; height: 0; width: 0; position: absolute; pointer-events: none; border-color: rgba(81, 213, 200, 0); border-top-color: #00CBA0; border-width: 30px; margin-left: -30px; }
 main > section.tabs .nav-tabs li.active h4 { color: #F5F5F5; }
-main > section.tabs .nav-tabs li.active p { color: #F5F5F5; }
+main > section.tabs .nav-tabs li.active a { color: #F5F5F5; }
 main > section.tabs .nav-tabs li.active #screen { fill: #F5F5F5 !important; }
 main > section.tabs .nav-tabs li.active a:hover h4 { color: #F5F5F5; }
-main > section.tabs .nav-tabs li.active a:hover p { color: #F5F5F5; }
+main > section.tabs .nav-tabs li.active a:hover { color: #F5F5F5; }
 main > section.tabs .tab-content { background-color: #0B0E16; padding: 5rem 0; margin-bottom: -5rem; vertical-align: middle; height: auto; }
 main > section.tabs .tab-content h1 { color: #00CBA0; text-align: left; padding: 0 0 3rem 0; }
 main > section.tabs .tab-content h3 { color: #eceeef; margin-left: 2.25rem; margin-top: .5rem; }
