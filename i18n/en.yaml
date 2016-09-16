@@ -522,3 +522,98 @@
 
 - id: getsiacoin_btn
   translation: "Get Siacoin"
+
+
+# URL: /get-started.html
+### header ###
+- id: getstarted_header
+  translation: "Get Started"
+
+- id: getstarted_subheader
+  translation: "YOUR PLACE IN THE ECOSYSTEM"
+
+### store ###
+- id: getstarted_storeiconh
+  translation: "Store"
+
+- id: getstarted_storeiconp
+  translation: "I want to use Sia to store my data"
+
+- id: getstarted_storeh
+  translation: "To Store Siacoin"
+
+- id: getstarted_storestep1
+  translation: "Download"
+- id: getstarted_storestep1link
+  translation: "Sia Homebase"
+
+- id: getstarted_storestep2
+  translation: "Get"
+- id: getstarted_storestep2link
+  translation: "Siacoin"
+
+- id: getstarted_storestep3
+  translation: "Store your files"
+
+### farm ###
+- id: getstarted_farmiconh
+  translation: "Farm"
+
+- id: getstarted_farmiconp
+  translation: "I want to farm my storage space for Siacoin"
+
+- id: getstarted_farmh
+  translation: "To Farm Siacoin"
+
+- id: getstarted_farmstep1
+  translation: "Download"
+- id: getstarted_farmstep1link
+  translation: "Sia Homebase"
+
+- id: getstarted_farmstep2
+  translation: "Create a storage offer"
+
+- id: getstarted_farmstep3
+  translation: "Get Siacoin with file contracts"
+
+### mine ###
+- id: getstarted_mineiconh
+  translation: "Mine"
+
+- id: getstarted_mineiconp
+  translation: "I want to mine Siacoin and secure the blockchain"
+
+- id: getstarted_mineh
+  translation: "To Mine Siacoin"
+
+- id: getstarted_minestep1
+  translation: "Download"
+- id: getstarted_minestep1link
+  translation: "Sia Miner"
+
+- id: getstarted_minestep2
+  translation: "Help secure the network"
+
+- id: getstarted_minestep3
+  translation: "Receive Siacoin"
+
+### develop ###
+- id: getstarted_developiconh
+  translation: "Develop"
+
+- id: getstarted_developiconp
+  translation: "I want to use Sia for my applications"
+
+- id: getstarted_developh
+  translation: "To Develop on Sia"
+
+- id: getstarted_developstep1
+  translation: "Join our"
+
+- id: getstarted_developstep2
+  translation: "Consult our"
+- id: getstarted_developstep2link
+  translation: "documentation"
+
+- id: getstarted_developstep3
+  translation: "Use Sia for your applications"
