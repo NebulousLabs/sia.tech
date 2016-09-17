@@ -543,14 +543,10 @@
   translation: "To Store Siacoin"
 
 - id: getstarted_storestep1
-  translation: "Download"
-- id: getstarted_storestep1link
-  translation: "Sia Homebase"
+  translation: "Download <a href=\"../apps\">Sia Homebase</a>"
 
 - id: getstarted_storestep2
-  translation: "Get"
-- id: getstarted_storestep2link
-  translation: "Siacoin"
+  translation: "Get <a href=\"../get-siacoin\">Siacoin</a>"
 
 - id: getstarted_storestep3
   translation: "Store your files"
@@ -566,9 +562,7 @@
   translation: "To Farm Siacoin"
 
 - id: getstarted_farmstep1
-  translation: "Download"
-- id: getstarted_farmstep1link
-  translation: "Sia Homebase"
+  translation: "Download <a href=\"../apps\">Sia Homebase</a>"
 
 - id: getstarted_farmstep2
   translation: "Create a storage offer"
@@ -587,9 +581,7 @@
   translation: "To Mine Siacoin"
 
 - id: getstarted_minestep1
-  translation: "Download"
-- id: getstarted_minestep1link
-  translation: "Sia Miner"
+  translation: "Download <a href=\"../apps\">Sia Miner</a>"
 
 - id: getstarted_minestep2
   translation: "Help secure the network"
@@ -611,9 +603,7 @@
   translation: "Join our"
 
 - id: getstarted_developstep2
-  translation: "Consult our"
-- id: getstarted_developstep2link
-  translation: "documentation"
+  translation: "Consult our <a href=\"https://github.com/NebulousLabs/Sia/tree/master/doc\">documentation</a>"
 
 - id: getstarted_developstep3
   translation: "Use Sia for your applications"
