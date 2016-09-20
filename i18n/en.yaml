@@ -138,7 +138,7 @@
 - id: index_stat3h
   translation: "Total Siacoins"
 
-- id: index_stat2unit
+- id: index_stat3unit
   translation: "Billion"
 
 - id: index_morestats
