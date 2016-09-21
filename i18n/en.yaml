@@ -1,3 +1,7 @@
+# Language name
+- id: en
+  translation: "English"
+
 # Titles
 - id: title_about
   translation: "About"
