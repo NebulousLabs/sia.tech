@@ -1,6 +1,8 @@
-# Language name
+# Language names TODO: find a better way to do this.
 - id: en
   translation: "English"
+- id: fr
+  translation: "Français"
 
 # Titles
 - id: title_about

@@ -8,3 +8,5 @@ DefaultContentLanguage = "en"
 [Languages]
   [Languages.en]
     weight = 1
+  [Languages.fr]
+    weight = 2
