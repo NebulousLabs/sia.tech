@@ -1,0 +1,139 @@
+# Titles
+- id: title_about
+  translation: "À propos"
+
+- id: title_apps
+  translation: "Apps" # TODO: i18n: is this translation okay?
+
+- id: title_faq
+  translation: "FAQ" # TODO: i18n: is this translation okay?
+
+- id: title_getsiacoin
+  translation: "Obtenez des Siacoin"
+
+- id: title_getstarted
+  translation: "Commencer maintenant"
+
+- id: title_roadmap
+  translation: "Calendrier de Lancement"
+
+
+# Partials
+### header ###
+- id: header_community
+  translation: "Communauté"
+
+- id: header_getsiacoin
+  translation: "Obtenez des Siacoin"
+
+### footer ###
+- id: footer_navheader
+  translation: "Qu'est-ce que Sia?"
+
+- id: footer_moreheader
+  translation: "En savoir plus sur Sia"
+
+- id: footer_docs
+  translation: "Docs" # TODO: i18n: is this translation okay?
+
+- id: footer_blog
+  translation: "Blog" # TODO: i18n: is this translation okay?
+
+- id: footer_forum
+  translation: "Forum" # TODO: i18n: is this translation okay?
+
+- id: footer_siatalk
+  translation: "#siatalk sur irc.freenode.net"
+
+- id: footer_backedby
+  translation: "est soutenue par"
+
+- id: footer_questions
+  translation: "Questions sur Sia? Entrer en contact!"
+
+- id: footer_contact
+  translation: "Contact" # TODO: is this translation okay?
+
+- id: footer_like
+  translation: "Aimez-nous"
+
+- id: footer_follow
+  translation: "Suivez-nous"
+
+
+# URL: /index.html
+### big header ###
+- id: index_bigheader1
+  translation: "Enterprise-Grade" # TODO: i18n: is this translation okay?
+
+- id: index_bigheader2
+  translation: "Nuage Collaborative"
+
+- id: index_bigheader3
+  translation: "pour le stockage de données"
+
+- id: index_downloadbtn
+  translation: "Télécharger maintenant"
+
+- id: index_videobtn
+  translation: "Watch video" # TODO: i18n: translate this
+
+- id: index_gettingstarted
+  translation: "Besoin d'aide pour commencer?"
+
+### info section ###
+- id: index_infoheader
+  translation: "Sia détruit le destockage traditionnel sur le nuage"
+
+- id: index_infosubheader
+  translation: "et le retourne dans vos mains"
+
+- id: index_infosection1h
+  translation: "Économie"
+
+- id: index_infosection1p
+  translation: "Sia est une économie partagée. Acquérir, utiliser et échanger des SiaCoins selon votre rôle et vos exigences. Participer en tant qu'utilisateur, agriculteur, mineur, et opérateur de noeud."
+
+- id: index_infosection2h
+  translation: "Distribué"
+
+- id: index_infosection2p
+  translation: "La décentralisation signifie que vos données sont stockées sur plusieurs nœuds et suivis par des contrats intelligents automatisés. Il n'y a pas de point central de l'échec."
+
+- id: index_infosection3h
+  translation: "Construire"
+
+- id: index_infosection3p
+  translation: "Construire et connecter vos propres applications à Sia pour tirer partie de sa capacité de stockage et de ces fonctionnalités. Ce que vous payez et ce que vous obtenez sont ajustés en temps réel."
+
+### explorer stats section ###
+- id: index_statsheader
+  translation: "Réseau Pulse" # TODO: i18n: is this translation okay?
+
+- id: index_stat1h
+  translation: "Total des contrats de fichiers"
+
+- id: index_stat2h
+  translation: "Taille totale des Contrats"
+
+- id: index_stat2unit
+  translation: "TB"
+
+- id: index_stat3h
+  translation: "Nombre total de Siacoins"
+
+- id: index_stat3unit
+  translation: "Milliard"
+
+- id: index_morestats
+  translation: "plus de statistiques"
+
+### mailing list ###
+- id: index_mailheader
+  translation: "Inscrivez-vous pour les annonces Sia"
+
+- id: index_emailform
+  translation: "Courriel"
+
+- id: index_emailbtn
+  translation: "Inscrivez-vous"
