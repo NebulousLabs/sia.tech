@@ -16,6 +16,13 @@
                     {{ i18n .Lang }}<span class="caret"></span>
                   </a>
                   <ul class="dropdown-menu" aria-labelledby="#nav-item-locale">
+                    {{ range .Translations }}
+                      <li class="dropdown-item ">
+                        <a href="/{{ .Lang }}/" class="nav-link skip-menu-prefix" >
+                          {{ i18n .Lang }}
+                        </a>
+                      </li>
+                    {{ end }}
                   </ul>
                 </li>
               
