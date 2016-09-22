@@ -92,4 +92,4 @@ Content pages do not render templates. Therefore we cannot call `{{ i18n "string
 
 The index page is not typically a content page. We use the workaround described in https://github.com/spf13/hugo/issues/330.
 
-Hugo removes the <p></p> tags that surround shortcodes. See issue #33. To get around this we surround the shortcodes with a space.
+Hugo removes the `<p></p>` tags that surround shortcodes. See issue #33. To get around this we surround the shortcodes with a space.
