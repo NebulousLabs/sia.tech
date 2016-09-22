@@ -26,6 +26,22 @@
 - id: header_getsiacoin
   translation: "Obtenez des Siacoin"
 
+### discover ###
+- id: discover_header
+  translation: "En découvrir plus"
+
+- id: discover_whitepaper
+  translation: "Livre blanc"
+
+- id: discover_blog
+  translation: "Blog" # TODO: i18n: is this translation okay?
+
+- id: discover_explorer
+  translation: "Blockchain Explorateur"
+
+- id: discover_devdocs
+  translation: "Docs du Développeur"
+
 ### footer ###
 - id: footer_navheader
   translation: "Qu'est-ce que Sia?"
@@ -137,3 +153,35 @@
 
 - id: index_emailbtn
   translation: "Inscrivez-vous"
+
+
+# URL: /about/index.html
+### header ###
+- id: about_header
+  translation: "À propos de nous"
+
+- id: about_subheader
+  translation: "Notre mission"
+
+### paragraphs ###
+- id: about_p1
+  translation: " L'idée de Sia a été conçu à l'origine à HackMIT 2013. Si nous pouvions libérer l'espace de stockage pour les données inutilisées partout dans monde et l’unir dans un marché libre pour monde entier?"
+
+- id: about_p2
+  translation: "Sia tire une partie de sa capacité de la technologie blockchain pour permettre aux réseaux distribués de parvenir à un consensus de manière sécurisée et sans avoir moins de confiance. Cryptographiquement sécurisés, des contrats intelligents assurent le chiffrement et le transfert des données sans possibilité pour un tiers d'interférer en aucune façon."
+
+- id: about_p3
+  translation: "Sia est une nouvelle approche pour les plates-formes de stockage en nuage. Au lieu que tous les centres de données soient détenus et exploités par une seule entreprise, Sia ouvre les écluses et permet à quiconque de faire de l'argent en louant leur disque dur. L'intégrité des données est protégée en utilisant la redondance et la cryptographie."
+
+- id: about_p4
+  translation: "La promesse de Sia est un réseau décentralisé de centres de données qui, ensemble, constituent la plus rapide, moins chère et la plus sécuritaire plate-forme de stockage en nuage dans le monde. Aujourd'hui, être un acteur majeur de stockage en nuage exige d'avoir des centres de données, se construire de la confiance dans le marché, atteindre des clients et en concurrencer avec des géants comme Amazon, Google et Microsoft."
+
+- id: about_p5
+  translation: "Pénétrer ce marché est un multi-milliards effort de dollar. L'objectif à long terme de Sia est d'être la couche de stockage d'épine dorsale de l'Internet."
+
+- id: about_p6
+  translation: "Nous croyons que les données devraient être libres. Notre objectif est de libérer les fragements inutilisés du monde et de construire le plus grand super-server de stockage sur la planète."
+
+### contact ###
+- id: about_contact
+  translation: "Contact" # TODO: i18n: is this translation okay?
