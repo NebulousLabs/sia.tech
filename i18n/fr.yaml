@@ -185,3 +185,34 @@
 ### contact ###
 - id: about_contact
   translation: "Contact" # TODO: i18n: is this translation okay?
+
+
+# URL: /about/milestones.html
+### header ###
+- id: milestones_header
+  translation: "Calendrier de Lancement"
+
+- id: milestones_subheader
+  translation: "Étapes et objectifs"
+
+### milestones ###
+- id: milestones_idea
+  translation: "Octobre 2013: Idée"
+
+- id: milestones_angel
+  translation: "Juin 2014: Investissement Ange"
+
+- id: milestones_whitepaper
+  translation: "Novembre 2014: Livre blanc"
+
+- id: milestones_launch
+  translation: "June 2015: Sia Network Launches"
+
+- id: milestones_v1
+  translation: "Juin 2016: Sia Version 1"
+
+- id: milestones_exchanges
+  translation: "Julliet 2016: Sia sur Poloniex, YUNBI, Bitsquare, et ShapeShift"
+
+- id: milestones_funding2016
+  translation: "August 2016: Nebulous Raises $750k for Sia" # TODO: i18n: translate this
