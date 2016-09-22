@@ -216,3 +216,59 @@
 
 - id: milestones_funding2016
   translation: "August 2016: Nebulous Raises $750k for Sia" # TODO: i18n: translate this
+
+
+# URL: /apps/index.html
+### header ###
+- id: apps_header
+  translation: "Apps" # TODO: i18n: is this translation okay?
+
+- id: apps_subheader
+  translation: "Téléchargez les dernières versions"
+
+### sia apps ###
+- id: apps_sia1
+  translation: "Stockez vos information et data"
+
+- id: apps_sia2
+  translation: "Le porte-monnaie officielle pour Siacoin"
+
+- id: apps_sia3
+  translation: "Louez votre espace de stockage et recevez des Siacoins"
+
+- id: apps_sia4
+  translation: "Vérifiez et relayez les transactions"
+
+- id: apps_sia5
+  translation: "Sécuriser le réseau"
+
+- id: apps_download
+  translation: "Télécharger"
+
+- id: apps_miner
+  translation: "Mineur"
+
+- id: apps_miner1
+  translation: "Vérifiez et relayez les transactions"
+
+- id: apps_miner2
+  translation: "Fixer le blockchain et recevez des Siacoin"
+
+- id: apps_altminer
+  translation: "Mineur Alterné"
+
+- id: apps_altminer1
+  translation: "Un mineur de GPU pour Sia en Go."
+
+### built on sia ###
+- id: apps_builtheader
+  translation: "Construit sur Sia"
+
+- id: apps_explorerh
+  translation: "Block explorateur"
+
+- id: apps_explorerp
+  translation: "Sia Blockchain Explorateur."
+
+- id: apps_cryptip
+  translation: "DAPP plate-forme utilise Sia en tant que couche de stockage."
