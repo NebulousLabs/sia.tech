@@ -502,3 +502,23 @@
   translation: "Puis-je partager des fichiers avec d'autres sur Sia?"
 - id: faq_files7a
   translation: "Oui. Les fichiers peuvent être partagés publiquement et en privé. Tous les fichiers téléchargés sur le réseau Sia sont codés avec l'effacement codé puis crypté. Une personne sera en mesure de décrypter et récupérer les fichiers si elle a pas des métadonnées sur les fichiers. Ces métadonnées sont stockées dans ce qu'on appelle un «.sia» ou un «siafile». En partageant le siafile associé à un fichier qui a été téléchargé sur Sia, vous donnez à quelqu'un la possibilité de télécharger ce fichier. Pour partager des fichiers privés, vous pouvez donner les siafiles à des personnes de confiance. Ils seront en mesure de télécharger le fichier, et aussi longtemps qu'ils ne le partagent pas, personne d'autre ne le pourra. Vous pouvez partager des fichiers publics en mettant les siafiles associés dans un lieu public."
+
+
+# URL: /get-siacoin.html
+### header ###
+- id: getsiacoin_header
+  translation: "Les Échanges Préférés"
+
+- id: getsiacoin_subheader
+  translation: "Achetez et échangez siacoin"
+
+### exchanges ###
+
+- id: getsiacoin_poloniex
+  translation: "Poloniex est un échange de crypto-monnaie américaine offrant un maximum de sécurité et des fonctions de négociation de pointe. Vous pouvez commencer à négocier en quelques minutes. Il y a seulement quelques étapes à prendre."
+
+- id: getsiacoin_yunbi
+  translation: "Yunbi est un échange orientée vers le futur pour les actifs blockchain. Fondée à Beijing en 2013, et construit avec le code publié par Peatio Open Source Project, Yunbi adhère aux principes d'intégrité, de transparence et d'être une source ouverte, offrant à ses clients une plateforme de d'échange sécuritaire et facile."
+
+- id: getsiacoin_btn
+  translation: "Obtenez des Siacoin"
