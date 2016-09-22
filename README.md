@@ -90,3 +90,5 @@ Hugo supports multiple ways of defining translations for a page. The most obviou
 Content pages do not render templates. Therefore we cannot call `{{ i18n "string_id" }}` from content pages. Hugo has [shortcodes](https://gohugo.io/extras/shortcodes/) to work around this. The i18n shortcode in `layouts/shortcodes/i18n.html` allows us to call `{{% i18n "string_id" }}`.
 
 The index page is not typically a content page. We use the workaround described in https://github.com/spf13/hugo/issues/330.
+
+Hugo removes the <p></p> tags that surround shortcodes. See issue #33. To get around this we surround the shortcodes with a space.
