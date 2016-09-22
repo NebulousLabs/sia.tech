@@ -39,10 +39,11 @@ See PR #n as an example.
 2. Create a feature-branch.
 3. Add the language to the `Languages` section of `config.toml`.
 4. Create the file `i18n/<langauge-prefix>.yaml`. This file will be where you write the translations. It may be helpful to copy `i18n/en.yaml` and then change the translations.
-5. Write the translated text in the `translation` field of each id. Be sure to escape strings as necessary (see commit _ as an example).
-6. Commit the change. If there is a corresponding "translation needed" issue, [close the issue in the commit message](https://help.github.com/articles/closing-issues-via-commit-messages/).
-7. Add yourself to the CONTRIBUTORS file.
-8. Open a PR with the label "i18n".
+5. Add the language name in that language to the top of `i18n/en.yaml`.
+6. Write the translated text in the `translation` field of each id. Be sure to escape strings as necessary (see commit _ as an example).
+7. Commit the change. If there is a corresponding "translation needed" issue, [close the issue in the commit message](https://help.github.com/articles/closing-issues-via-commit-messages/).
+8. Add yourself to the CONTRIBUTORS file.
+9. Open a PR with the label "i18n".
 
 See PR #n as an example.
 
