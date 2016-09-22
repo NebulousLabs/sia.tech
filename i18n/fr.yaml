@@ -522,3 +522,88 @@
 
 - id: getsiacoin_btn
   translation: "Obtenez des Siacoin"
+
+
+# URL: /get-started.html
+### header ###
+- id: getstarted_header
+  translation: "Commencer maintenant"
+
+- id: getstarted_subheader
+  translation: "Trouver votre place dans l'écosystème"
+
+### store ###
+- id: getstarted_storeiconh
+  translation: "Magasin" # TODO: i18n: is this translation correct? It seems to be the wrong translation of store (this translation seems to mean shop, not storage)
+
+- id: getstarted_storeiconp
+  translation: "Je veux utiliser Sia pour stocker mes données"
+
+- id: getstarted_storeh
+  translation: "Emmagasiner mes Siacoins" # TODO: i18n: is this translation correct? It seems to be the wrong translation of store (see TODO for "Magasin" above)
+
+- id: getstarted_storestep1
+  translation: "Télécharger <a href=\"../apps\">Sia Homebase</a>"
+
+- id: getstarted_storestep2
+  translation: "Obtenez <a href=\"../get-siacoin\">Siacoin</a>"
+
+- id: getstarted_storestep3
+  translation: "Stockez vos fichiers"
+
+### farm ###
+- id: getstarted_farmiconh
+  translation: "Agriculturer"
+
+- id: getstarted_farmiconp
+  translation: "Je veux cultiver mon espace de stockage pour des SiaCoins"
+
+- id: getstarted_farmh
+  translation: "Agriculturez des Siacoins"
+
+- id: getstarted_farmstep1
+  translation: "Télécharger <a href=\"../apps\">Sia Homebase</a>"
+
+- id: getstarted_farmstep2
+  translation: "Créez une offre de stockage"
+
+- id: getstarted_farmstep3
+  translation: "Obtenez Siacoin avec des contrats de fichiers"
+
+### mine ###
+- id: getstarted_mineiconh
+  translation: "Miner"
+
+- id: getstarted_mineiconp
+  translation: "Je veux miner des SiaCoins et sécuriser le blockchain"
+
+- id: getstarted_mineh
+  translation: "Pour Miner des Siacoin"
+
+- id: getstarted_minestep1
+  translation: "Télécharger <a href=\"../apps\">Sia Miner</a>"
+
+- id: getstarted_minestep2
+  translation: "Sécuriser le réseau"
+
+- id: getstarted_minestep3
+  translation: "Recevez des Siacoin"
+
+### develop ###
+- id: getstarted_developiconh
+  translation: "Développer"
+
+- id: getstarted_developiconp
+  translation: "Je veux utiliser Sia pour mes applications"
+
+- id: getstarted_developh
+  translation: "Pour Développer sur Siacoin"
+
+- id: getstarted_developstep1
+  translation: "Joignez-vous à notre"
+
+- id: getstarted_developstep2
+  translation: "Consultez notre <a href=\"https://github.com/NebulousLabs/Sia/tree/master/doc\">documentation</a>"
+
+- id: getstarted_developstep3
+  translation: "Utilisez Sia pour vos applications"
