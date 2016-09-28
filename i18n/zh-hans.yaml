@@ -341,7 +341,7 @@
 - id: faq_siacoins4q
   translation: "有多少细亚币存在？"
 - id: faq_siacoins4a
-  translation: "现在每个区块可以制造300，000个细亚币。创始区块高度为0。当高度达到270，000的时候，所有的区块都会有30，000个细亚币。你可以在这个网站（explore.siacoin.com）查到现在有多少细亚币被找到。"
+  translation: "现在每个区块可以制造300，000个细亚币。创始区块高度为0。当高度达到270，000的时候，所有的区块都会有30，000个细亚币。你可以在这个网站（explore.sia.tech）查到现在有多少细亚币被找到。"
 
 - id: faq_siacoins5q
   translation: "储存数据的费用是多少？"
