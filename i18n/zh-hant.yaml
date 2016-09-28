@@ -1,0 +1,609 @@
+# Titles
+- id: title_about
+  translation: "關于"
+
+- id: title_apps
+  translation: "應用"
+
+- id: title_faq
+  translation: "經常問到的問題"
+
+- id: title_getsiacoin
+  translation: "取得細亞幣"
+
+- id: title_getstarted
+  translation: "開始"
+
+- id: title_roadmap
+  translation: "路線圖"
+
+
+# Partials
+### header ###
+- id: header_community
+  translation: "社區"
+
+- id: header_getsiacoin
+  translation: "取得細亞幣"
+
+### discover ###
+- id: discover_header
+  translation: "發現更多"
+
+- id: discover_whitepaper
+  translation: "白皮書"
+
+- id: discover_blog
+  translation: "部落格"
+
+- id: discover_explorer
+  translation: "區塊鏈探索者"
+
+- id: discover_devdocs
+  translation: "研發者的文件"
+
+### footer ###
+- id: footer_navheader
+  translation: "什麽是細亞？"
+
+- id: footer_moreheader
+  translation: "更多關于細亞"
+
+- id: footer_docs
+  translation: "文件"
+
+- id: footer_blog
+  translation: "部落格"
+
+- id: footer_forum
+  translation: "論壇"
+
+- id: footer_siatalk
+  translation: "#siatalk on irc.freenode.net" # TODO: i18n: translate this.
+
+- id: footer_backedby
+  translation: "被支持"
+
+- id: footer_questions
+  translation: "有問題？與我們聯系！"
+
+- id: footer_contact
+  translation: "聯系"
+
+- id: footer_like
+  translation: "喜歡我們"
+
+- id: footer_follow
+  translation: "追隨我們"
+
+
+# URL: /index.html
+### big header ###
+- id: index_bigheader1
+  translation: "企業級"
+
+- id: index_bigheader2
+  translation: "合作的雲端"
+
+- id: index_bigheader3
+  translation: "爲了數據儲存"
+
+- id: index_downloadbtn
+  translation: "現在下載"
+
+- id: index_videobtn
+  translation: "Watch video" # TODO: i18n: translate this.
+
+- id: index_gettingstarted
+  translation: "你需要幫助來啓動嗎？"
+
+### info section ###
+- id: index_infoheader
+  translation: "細亞可以把傳統的儲存踢出雲端"
+
+- id: index_infosubheader
+  translation: "回到你的手上"
+
+- id: index_infosection1h
+  translation: "經濟體"
+
+- id: index_infosection1p
+  translation: "細亞是個共享的經濟體。你可以根據你的角色和要求來取得，使用，和交易細亞幣。你可以是個用戶，耕種者，礦工和節點管理者。"
+
+- id: index_infosection2h
+  translation: "分散的"
+
+- id: index_infosection2p
+  translation: "去中心化意味著你的數據分布儲存在多個節點然後由自動智能合約來跟蹤。不會有單點崩潰。"
+
+- id: index_infosection3h
+  translation: "構建"
+
+- id: index_infosection3p
+  translation: "構建和把你自己的應用和細亞相連來利用它的儲存能力和功能來以小博大。你所付和你所得到的在第一時間被調整。"
+
+### explorer stats section ###
+- id: index_statsheader
+  translation: "網絡脈搏"
+
+- id: index_stat1h
+  translation: "所有文件合同"
+
+- id: index_stat2h
+  translation: "所有合同大小"
+
+- id: index_stat2unit
+  translation: "TB" # TODO: i18n: is this translation correct?
+
+- id: index_stat3h
+  translation: "細亞幣總數"
+
+- id: index_stat3unit
+  translation: "十億"
+
+- id: index_morestats
+  translation: "更多的數據"
+
+### mailing list ###
+- id: index_mailheader
+  translation: "登錄可以收取細亞的宣告"
+
+- id: index_emailform
+  translation: "電郵"
+
+- id: index_emailbtn
+  translation: "登錄"
+
+
+# URL: /about/index.html
+### header ###
+- id: about_header
+  translation: "關于我們"
+
+- id: about_subheader
+  translation: "我們的任務"
+
+### paragraphs ###
+- id: about_p1
+  translation: "細亞這個主意是在2013年的HackMIT上誕生的。假如你可以把全世界沒有用到的儲存空間釋放出來然後把它融合在一起來提供一個自由的世界性的數據儲存？"
+
+- id: about_p2
+  translation: "細亞利用了區塊鏈技術來讓分布式的網路安全而沒有信托地達成一個共識。用密碼學強化的智能合約保證了數據的加密和傳送不可能被第三方來幹擾。"
+
+- id: about_p3
+  translation: "細亞是雲端儲存的一個新的方法。不同于一個單一的公司擁有和管理數據中心，細亞打開了閘門讓任何人都可以出租他的硬盤空間來賺錢。"
+
+- id: about_p4
+  translation: "細亞是一個去中心化的數據中心網絡，這個網絡總體是世界上最快，最便宜，也是最安全的雲端儲存平台。今天，要想成爲一個主要的雲端儲存玩家必須要擁有數據中心，在市場裏建立信心， 追求客戶，與亞馬遜，谷歌，微軟這樣的巨頭競爭。"
+
+- id: about_p5
+  translation: "打開這個市場是個幾十億的努力。細亞的長期計劃是成爲互聯網儲存層的脊梁骨。"
+
+- id: about_p6
+  translation: "我們認爲數據存儲應該是免費的。我們想要釋放全世界沒有用到的空間然後建立起世界上最大的超級儲存伺服器。"
+
+### contact ###
+- id: about_contact
+  translation: "聯系"
+
+
+# URL: /about/milestones.html
+### header ###
+- id: milestones_header
+  translation: "路線圖"
+
+- id: milestones_subheader
+  translation: "關鍵裏程碑和目標"
+
+### milestones ###
+- id: milestones_idea
+  translation: "2013年十月：主意"
+
+- id: milestones_angel
+  translation: "2014 6 月：天使投資" #TODO: i18n: is this translation correct?
+
+- id: milestones_whitepaper
+  translation: "2014 年 11 月：白皮書" #TODO: i18n: is this translation correct?
+
+- id: milestones_launch
+  translation: "2015 6 月：細亞網絡啓動" #TODO: i18n: is this translation correct?
+
+- id: milestones_v1
+  translation: "2016年6月：細亞 V1" #TODO: i18n: is this translation correct?
+
+- id: milestones_exchanges
+  translation: "July 2016: Sia on Poloniex, YUNBI, Bitsquare, and ShapeShift" # TODO: i18n: translate this.
+
+- id: milestones_funding2016
+  translation: "August 2016: Nebulous Raises $750k for Sia" # TODO: i18n: translate this.
+
+
+# URL: /apps/index.html
+### header ###
+- id: apps_header
+  translation: "應用"
+
+- id: apps_subheader
+  translation: "下載最新的發布版本"
+
+### sia apps ###
+- id: apps_sia1
+  translation: "儲存你的數據"
+
+- id: apps_sia2
+  translation: "細亞的官方錢包軟件"
+
+- id: apps_sia3
+  translation: "租用你的儲存空間然後收取細亞幣"
+
+- id: apps_sia4
+  translation: "證實和接力交易"
+
+- id: apps_sia5
+  translation: "保護網絡"
+
+- id: apps_download
+  translation: "下載"
+
+- id: apps_miner
+  translation: "挖礦"
+
+- id: apps_miner1
+  translation: "證實和接力交易"
+
+- id: apps_miner2
+  translation: "保護區塊鏈然後得到細亞幣"
+
+- id: apps_altminer
+  translation: "另類的礦工"
+
+- id: apps_altminer1
+  translation: "一個GPU 細亞礦工在 Go裏"
+
+### built on sia ###
+- id: apps_builtheader
+  translation: "在細亞上所建"
+
+- id: apps_explorerh
+  translation: "區塊探查者"
+
+- id: apps_explorerp
+  translation: "細亞區塊鏈探查者"
+
+- id: apps_cryptip
+  translation: "大浦平台使用細亞作爲它的儲存層。"
+
+
+# URL: /faq.html
+### header ###
+
+- id: faq_header
+  translation: "經常問到的問題"
+
+- id: faq_subheader
+  translation: "你需要知道的東西"
+
+### sia ###
+
+- id: faq_siah
+  translation: "細亞"
+
+- id: faq_sia1q
+  translation: "文件是如何安全地儲存在細亞的網絡上的？"
+- id: faq_sia1a
+  translation: "細亞使用一個抹去密碼，加密，和區塊鏈的組合來保證文件在網絡裏是安全的。沒有托管服務可以看到托管文件裏的內容，然後文件可以經受大型的網絡斷線而不會被破壞。"
+
+- id: faq_sia2q
+  translation: "如果一個文件托管者斷線怎麽辦？"
+- id: faq_sia2a
+  translation: "細亞使用Reed Solomon的抹去密碼，這意味著即使有大比例的文件托管者斷線也不會造成文件的破壞。"
+
+- id: faq_sia3q
+  translation: "細亞有多穩定？"
+- id: faq_sia3a
+  translation: "細亞的共識協議被徹底地評估過，所以不太可能在未來做大幅度改變。6月7號啓動之後，細亞共識協議沒有發現有重大的薄弱點。客戶端現在還在Beta。所有重大的bug都被消除了，但用戶體驗還是可能有令人不愉快和令人挫折的因素存在。可能還有剩余的bug讓幣和文件冒風險。所以要謹慎使用，沒有保證。重啓軟件通常是解決沒有想到問題的一個辦法。"
+
+- id: faq_sia4q
+  translation: "什麽是文件合同？"
+- id: faq_sia4a
+  translation: "一个文件合同让一个托管者和一个租用者对于一个文件达成协议；托管者同意在一段时间内储存一个文件，然后收取一定的费用。租用者一开始付所有的币，区块链作为第三方托管。如果托管者保存了文件然后最后发了一个储存的证明，他就会取得付款。反之，这些支付会被退回给租用者。所有的支付都用细亚自己的币完成。"
+
+- id: faq_sia5q
+  translation: "我可以爲細亞貢獻代碼或是在上面開發嗎？"
+- id: faq_sia5a
+  translation: "是的。我們很歡迎。細亞的代碼都是100%的開源碼，可以在github上找到。我們特別感謝bitspill,fornax,autumnalscooter的幫助，和其他研發人員解決問題或是提交拉下的請求。"
+
+- id: faq_sia6q
+  translation: "細亞和星雲實驗室的區別在哪裏？"
+- id: faq_sia6a
+  translation: "星雲實驗室是公司，細亞是産品。"
+
+### siacoins ###
+
+- id: faq_siacoinsh
+  translation: "細亞幣"
+
+- id: faq_siacoins1q
+  translation: "細亞幣和比特幣之間的區別在哪裏？"
+- id: faq_siacoins1a
+  translation: "細亞使用一個加密數字貨幣，細亞幣，來實行去中心化支付。細亞幣可以被想象成比特幣的一個延伸然後再加上文件合同的支持。像比特幣一樣，細亞幣也使用區塊鏈，然後用工作量證明來驅動挖礦。但是，細亞幣和比特幣不是競爭對手。比特幣是個普遍型的貨幣，細亞幣只存在細亞網絡中。"
+
+- id: faq_siacoins2q
+  translation: "爲什麽細亞需要它自己的貨幣？爲什麽不用像Paypal這類的支付處理？"
+- id: faq_siacoins2a
+  translation: "這将大大增加客戶支付托管者的難度。此外，細亞制造了大量的微小支付交易（比如像1分），傳統的支付體系沒有這種功能。最後使用區塊鏈技術可以讓合同被密碼學所保護。"
+
+- id: faq_siacoins3q
+  translation: "我怎樣才能得到細亞幣？"
+- id: faq_siacoins3a
+  translation: "你先需要比特幣才能得到細亞幣。最普通得到細亞幣的辦法是上Poloniex。其他還有在Bitcoin talk上和我們在Slack上的交易渠道。"
+
+- id: faq_siacoins4q
+  translation: "有多少細亞幣存在？"
+- id: faq_siacoins4a
+  translation: "現在每個區塊可以制造300，000個細亞幣。創始區塊高度爲0。當高度達到270，000的時候，所有的區塊都會有30，000個細亞幣。你可以在這個網站（explore.sia.tech）查到現在有多少細亞幣被找到。"
+
+- id: faq_siacoins5q
+  translation: "儲存數據的費用是多少？"
+- id: faq_siacoins5a
+  translation: "價格是由一個自由市場裏的用戶和提供者所決定的。在2016年1月，每TB數據的月費是$2.25。"
+
+- id: faq_siacoins6q
+  translation: "細亞幣與細亞資金的區別在哪裏？"
+- id: faq_siacoins6a
+  translation: "這兩個是完全不同的資産。細亞資金給你一部分的接管者的收入。如果你買了$200的細亞資金，這意味著在細亞資金存在的時候，你可以把這$200拿回（再加上利息）。如果細亞達到它想占據雲端儲存的領導地位的目標後，每份細亞資金可以爲每位擁有者帶來$10,000到$250,000的收益。這個優惠是代表了細亞可能永遠也不會變得那麽大的風險。細亞幣是用來在細亞網絡裏買儲存，它的基本價值從那裏來。"
+
+### wallet ###
+
+- id: faq_walleth
+  translation: "錢包使用"
+
+- id: faq_wallet1q
+  translation: "錢包加密是如何工作的？"
+- id: faq_wallet1a
+  translation: "如果你第一次用細亞，你需要啓動一個錢包。你可以在應用裏點擊“制造錢包”。你會得到一個安全的29個字的密碼，你需要這個密碼來打開錢包。如果你丟失了你的錢包文件，你可以使用這個29字來取回你在錢包裏的細亞幣。"
+
+- id: faq_wallet2q
+  translation: "什麽是鎖住錢包？"
+- id: faq_wallet2a
+  translation: "鎖住是加密的一部分。當你第一次打開一個錢包的時候，它是被鎖住的。裏面的幣不能被用。礦工，文件管理員和接管者也被禁用。"
+
+- id: faq_wallet3q
+  translation: "我可以用我自己的密碼嗎？"
+- id: faq_wallet3a
+  translation: "現在你還不能使用你自己的密碼。人們通常過高估計自己制造很強密碼的能力，有許多人的幣被偷，因爲他們的密碼很弱。爲了這個原因，在默認的細亞軟件裏，不支持用戶自己産生的密碼。"
+
+- id: faq_wallet4q
+  translation: "一個黑客有可能偷我的幣嗎？"
+- id: faq_wallet4a
+  translation: "當一個錢包被解鎖後，私鑰只存在于記憶裏。所有的私人數據用錢包的密碼來加密然後再儲存在硬盤上。"
+
+- id: faq_wallet5q
+  translation: "爲什麽有一個地址的清單？"
+- id: faq_wallet5a
+  translation: "大多數錢包每次向用戶展示不同的地址。我們只是一次性展示出來。每次交易用不同的地址是個好的方法。"
+
+- id: faq_wallet6q
+  translation: "爲什麽每個交易後我的余額沒有被更新？"
+- id: faq_wallet6a
+  translation: "你的交易會進入下一個區塊。每塊之間的時間差是十分鍾。此外，如果你的錢包是新的，他可能還沒有下載完區塊頭。"
+
+- id: faq_wallet7q
+  translation: "錢包用戶是匿名的嗎？"
+- id: faq_wallet7a
+  translation: "是的。大多數是的。技術上講，它是沒有限制的。細亞沒有要求任何個人信息來使用它的服務。"
+
+- id: faq_wallet8q
+  translation: "我要多頻繁地備份我的錢包？"
+- id: faq_wallet8a
+  translation: "沒有必要。只要你儲存你的種子/密碼在一個安全的地方。千萬不要丟失了它們。"
+
+### host ###
+
+- id: faq_hosth
+  translation: "接管者用途"
+
+- id: faq_host1q
+  translation: "我如何成爲一個托管者？"
+- id: faq_host1a
+  translation: "第一步是把你的port發過來。一旦你發來你的port，你就可以宣布你是一個托管者然後就可以開始收集文件合同。這個宣布需要幾個小時才能傳到整個網絡。"
+
+- id: faq_host2q
+  translation: "我怎樣才可以發送我的ports?"
+- id: faq_host2a
+  translation: "需要被發送的ports是：9981和：9982。最新型號的Sia包括upnp，它可以自動把ports發送給大多數人但它不是每人都可以用。portforward.com上有更多的信息。"
+
+- id: faq_host3q
+  translation: "細亞說我的ports沒有被發送出去，但它們確實被送出去了。"
+- id: faq_host3a
+  translation: "細亞有時會誤認爲你的ports沒有被發送出去。爲了繞過這個問題，你可以使用‘siac'來宣布一個特定的統一資源定位。這個宣布不會證實你的ports被發送出去，這樣一來就繞過了這個錯誤。"
+
+- id: faq_host4q
+  translation: "我沒有收到任何合同。"
+- id: faq_host4a
+  translation: "如果你沒有得到任何的文件合同，那很可能你的要價太高了，你的錢包被鎖住了，你的ports沒有被發送出去，或是你從來沒有正確地宣布托管者。"
+
+- id: faq_host5q
+  translation: "我應該要價多少？"
+- id: faq_host5a
+  translation: "在網絡上有些粗糙的工具來估算有競爭力的儲存價格。任何在每GB 100個細亞幣一個月的價格是不太可能得到儲存合同的。"
+
+- id: faq_host6q
+  translation: "托管者會爲上傳的內容負責嗎？"
+- id: faq_host6a
+  translation: "因爲文件是加密的，托管者不可能知道他們托管文件的內容所以他們不應該爲那些文件負責。但是如果托管者收到一個DMCA拿下的要求，那托管者就有責任來默認執行。"
+
+### miner ###
+
+- id: faq_minerh
+  translation: "礦工用途"
+
+- id: faq_miner1q
+  translation: "有礦池嗎？"
+- id: faq_miner1a
+  translation: "沒有。但至少有兩個礦池在開發中。一個正式的礦池在開發中，至少有一個第三方在爲細亞開發一個礦池。現在還不知道何時可以完成。"
+
+- id: faq_miner2q
+  translation: "我應該買什麽卡？"
+- id: faq_miner2a
+  translation: "AMD卡比Nvidia卡要好用許多。Fury X 也是一個既廉價有有效的卡。"
+
+- id: faq_miner3q
+  translation: "單獨挖區塊需要多長時間？"
+- id: faq_miner3a
+  translation: "根據顯卡，每個顯卡可以預計每個月挖2到10個區塊，有很大的變動。"
+
+- id: faq_miner4q
+  translation: "我挖了一個區塊但我的余額還是0。"
+- id: faq_miner4a
+  translation: "與比特幣相像，你挖的幣要等到144區塊後才能使用。基本上，這大約是24小時。但是函數計算率的波動可以導致證實會延長。"
+
+- id: faq_miner5q
+  translation: "細亞用哪個函數計算算法？"
+- id: faq_miner5a
+  translation: "細亞用BLAKE2b，和一個 GPU礦工軟件的實施。你可以在我們的Github上下載。"
+
+### files ###
+
+- id: faq_filesh
+  translation: "文件"
+
+- id: faq_files1q
+  translation: "我如何上載文件？"
+- id: faq_files1a
+  translation: "在界面裏，點擊在你錢包軟件右上角的一個文件圖標。"
+
+- id: faq_files2q
+  translation: "我上傳了一些文件但他們沒有顯示出來。"
+- id: faq_files2a
+  translation: "你可以在command line上運行’siac'。Siac是個command line 公用程序你可以從Sia repo上下載。使用教材可以從這裏找到。"
+
+- id: faq_files3q
+  translation: "當我上載到Sia後，我可以把一個文件刪除嗎？"
+- id: faq_files3a
+  translation: "快來了！"
+
+- id: faq_files4q
+  translation: "我怎樣下載文件？"
+- id: faq_files4a
+  translation: "點擊文件然後一個下載的圖示會在右上方彈出。"
+
+- id: faq_files5q
+  translation: "我可以看到多少次一個文件被下載？"
+- id: faq_files5a
+  translation: "不行。因爲下載在區塊鏈之外進行。有些托管者可能報告在一個文件上的活動，但是這個托管者可以輕易地對這些數據撒謊。其他的平台像是太陽魚共享平台可能有辦法追蹤這類的數據比如像下載。"
+
+- id: faq_files6q
+  translation: "其他人可以在細亞上看到我的文件嗎？"
+- id: faq_files6a
+  translation: "不行。所有上載的文件首先會被加碼抹去然後加密。只有那些有文件元數據的人才可以看到原始文件。作爲一個額外的保護，一些信息像准確的文件大小也不會被那些沒有元數據的人看到。"
+
+- id: faq_files7q
+  translation: "我可以在細亞上和其他人分享文件嗎？"
+- id: faq_files7a
+  translation: "是的。文件可以被公開地和私下分享。所有的文件上載到細亞網絡上都被加碼抹去然後再被加密。只有有元數據的人才可以解密和取出文件。這個元數據貯存在那些叫做 ‘.sia'或是'siafile'裏。當你分享了與上載到Sia裏文件有關的細亞文件的時候，你就給他下載的權利。如果私下分享的話，你可以把這些細亞文件給那些你相信的人。他們可以下載文件，只要他們不分享它，沒人可以看到。你還可以公開地分享這些文件如果你把細亞文件放在一個公共的地方。"
+
+
+# URL: /get-siacoin.html
+### header ###
+- id: getsiacoin_header
+  translation: "指定的交易所"
+
+- id: getsiacoin_subheader
+  translation: "買賣細亞幣"
+
+### exchanges ###
+
+- id: getsiacoin_poloniex
+  translation: "Poloniex 是一家位于美國的數字貨幣交易所。它提供最大限度的安全性和高級的交易功能。你可以在幾分鍾內進行交易。只需要簡單幾步。"
+
+- id: getsiacoin_yunbi
+  translation: "雲幣是一個區塊鏈資産未來交易所。2013年成立于北京，是用Peatio 開源碼項目所發布的代碼建立的。雲幣堅持正直，透明和開源等原則。向客戶提供一個安全和簡單的交易平台。"
+
+- id: getsiacoin_btn
+  translation: "取得細亞幣"
+
+
+# URL: /get-started.html
+### header ###
+- id: getstarted_header
+  translation: "開始"
+
+- id: getstarted_subheader
+  translation: "你在生態系統裏的位置。"
+
+### store ###
+- id: getstarted_storeiconh
+  translation: "儲存"
+
+- id: getstarted_storeiconp
+  translation: "我想用細亞來儲存我的數據"
+
+- id: getstarted_storeh
+  translation: "儲存細亞幣"
+
+- id: getstarted_storestep1
+  translation: "下載<a href=\"../apps\">細亞基地</a>"
+
+- id: getstarted_storestep2
+  translation: "拿到<a href=\"../get-siacoin\">細亞幣</a>"
+
+- id: getstarted_storestep3
+  translation: "儲存你的文件"
+
+### farm ###
+- id: getstarted_farmiconh
+  translation: "礦場"
+
+- id: getstarted_farmiconp
+  translation: "我想包租我的儲存空間來換取細亞幣"
+
+- id: getstarted_farmh
+  translation: "細亞幣礦場"
+
+- id: getstarted_farmstep1
+  translation: "下載<a href=\"../apps\">細亞基地</a>"
+
+- id: getstarted_farmstep2
+  translation: "制造一個儲存的邀請"
+
+- id: getstarted_farmstep3
+  translation: "得到細亞幣用文件合同"
+
+### mine ###
+- id: getstarted_mineiconh
+  translation: "挖礦"
+
+- id: getstarted_mineiconp
+  translation: "我想挖细亚币和保护区块链"
+
+- id: getstarted_mineh
+  translation: "挖細亞幣"
+
+- id: getstarted_minestep1
+  translation: "下載<a href=\"../apps\">細亞礦工</a>"
+
+- id: getstarted_minestep2
+  translation: "帮助我们来保护网络"
+
+- id: getstarted_minestep3
+  translation: "收取細亞幣"
+
+### develop ###
+- id: getstarted_developiconh
+  translation: "研發"
+
+- id: getstarted_developiconp
+  translation: "我想用細亞來開發我的應用"
+
+- id: getstarted_developh
+  translation: "開發細亞幣"
+
+- id: getstarted_developstep1
+  translation: "加入我們"
+
+- id: getstarted_developstep2
+  translation: "咨詢我們在<a href=\"https://github.com/NebulousLabs/Sia/tree/master/doc\">的文檔資料</a>"
+
+- id: getstarted_developstep3
+  translation: "用細亞來開發你的應用"
