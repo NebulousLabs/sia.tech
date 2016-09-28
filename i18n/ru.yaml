@@ -1,0 +1,609 @@
+# Titles
+- id: title_about
+  translation: "О проекте"
+
+- id: title_apps
+  translation: "Приложения"
+
+- id: title_faq
+  translation: "FAQ" #TODO: i18n: is this translation correct?
+
+- id: title_getsiacoin
+  translation: "Получить саякойны"
+
+- id: title_getstarted
+  translation: "С чего начать"
+
+- id: title_roadmap
+  translation: "Дорожная карта"
+
+
+# Partials
+### header ###
+- id: header_community
+  translation: "Сообщество"
+
+- id: header_getsiacoin
+  translation: "ПОЛУЧИТЬ САЯКОЙНЫ"
+
+### discover ###
+- id: discover_header
+  translation: "Узнайте больше"
+
+- id: discover_whitepaper
+  translation: "Описание концепции"
+
+- id: discover_blog
+  translation: "Блог"
+
+- id: discover_explorer
+  translation: "Обозреватель блоков"
+
+- id: discover_devdocs
+  translation: "Документы для разработчиков"
+
+### footer ###
+- id: footer_navheader
+  translation: "Что такое Sia?"
+
+- id: footer_moreheader
+  translation: "Подробнее о Sia"
+
+- id: footer_docs
+  translation: "Документы"
+
+- id: footer_blog
+  translation: "Блог"
+
+- id: footer_forum
+  translation: "Форум"
+
+- id: footer_siatalk
+  translation: "#siatalk на irc.freenode.net"
+
+- id: footer_backedby
+  translation: "поддерживается"
+
+- id: footer_questions
+  translation: "Вопросы о Sia? Свяжитесь с нами!"
+
+- id: footer_contact
+  translation: "Адрес"
+
+- id: footer_like
+  translation: "Like us" # TODO: i18n: user rejected all automatically found translations
+
+- id: footer_follow
+  translation: "Follow us" # TODO: i18n: user rejected all automatically found translations
+
+
+# URL: /index.html
+### big header ###
+- id: index_bigheader1
+  translation: "Высочайшее качество"
+
+- id: index_bigheader2
+  translation: "Совместная работа в облаке"
+
+- id: index_bigheader3
+  translation: "для хранения данных"
+
+- id: index_downloadbtn
+  translation: "Скачать сейчас"
+
+- id: index_videobtn
+  translation: "Watch video" # TODO: i18n: unable to find translation for this
+
+- id: index_gettingstarted
+  translation: "Нужна помощь, чтобы начать?"
+
+### info section ###
+- id: index_infoheader
+  translation: "Sia ломает представления об облачных хранилищах"
+
+- id: index_infosubheader
+  translation: "И ВОЗВРАЩАЕТ ДАННЫЕ В ВАШИ РУКИ"
+
+- id: index_infosection1h
+  translation: "Экономика"
+
+- id: index_infosection1p
+  translation: "Sia - это экономика совместного потребления. Покупайте, используйте и торгуйте саякойнами в зависимости от вашей роли и необходимых задач. Участвуйте в качестве пользователя, хостера, майнера или оператора узла."
+
+- id: index_infosection2h
+  translation: "Распределенная"
+
+- id: index_infosection2p
+  translation: "Децентрализация означает что ваши данные хранятся на нескольких узлах и отслеживаются с помощью автоматизированных умных контрактов. Таким образом, не существует проблемы единой точки отказа."
+
+- id: index_infosection3h
+  translation: "Разработка"
+
+- id: index_infosection3p
+  translation: "Разрабатывайте и подключайте ваши приложения к Sia, для того чтобы полностью использовать возможности хранения. Вы можете увидеть как ваши затраты и доходы корректируются в режиме реального времени."
+
+### explorer stats section ###
+- id: index_statsheader
+  translation: "Статистика сети"
+
+- id: index_stat1h
+  translation: "Всего файловых контрактов"
+
+- id: index_stat2h
+  translation: "Общий размер контрактов"
+
+- id: index_stat2unit
+  translation: "TB"
+
+- id: index_stat3h
+  translation: "Всего саякойнов"
+
+- id: index_stat3unit
+  translation: "Миллиард"
+
+- id: index_morestats
+  translation: "подробная статистика"
+
+### mailing list ###
+- id: index_mailheader
+  translation: "Подписаться на обновления Sia"
+
+- id: index_emailform
+  translation: "Email" # TODO: i18n: user rejected all automatically found translations
+
+- id: index_emailbtn
+  translation: "Регистрация"
+
+
+# URL: /about/index.html
+### header ###
+- id: about_header
+  translation: "О нас"
+
+- id: about_subheader
+  translation: "НАШИ ЦЕЛИ"
+
+### paragraphs ###
+- id: about_p1
+  translation: "The idea of Sia was originally conceived at HackMIT 2013. What if you could liberate the unused storage space of the world and unite it into a worldwide free market for data?" # TODO: i18n: unable to find translation for this
+
+- id: about_p2
+  translation: "Sia leverages the capacity of blockchain technology to enable distributed networks to reach consensus in a secure and trustless way. Cryptographically secured smart contracts ensure the encryption and transfer of data with no possibility for a third party to interfere in any way." # TODO: i18n: unable to find translation for this
+
+- id: about_p3
+  translation: "Sia is a new approach to cloud storage platforms. Instead of all datacenters being owned and operated by a single company, Sia opens the floodgates and allows anyone to make money by renting out their hard drive. Data integrity is protected using redundancy and cryptography." # TODO: i18n: unable to find translation for this
+
+- id: about_p4
+  translation: "The promise of Sia is a decentralized network of datacenters that, taken together, comprise the world's fastest, cheapest, and most secure cloud storage platform. Today, being a major cloud storage player requires having datacenters, building trust within the market, reaching customers, and competing with giants such as Amazon, Google, and Microsoft." # TODO: i18n: unable to find translation for this
+
+- id: about_p5
+  translation: "Breaking into this market is a multi-billion dollar endeavor. The long term goal of Sia is to be the backbone storage layer of the Internet." # TODO: i18n: unable to find translation for this
+
+- id: about_p6
+  translation: "We believe data should be free. We aim to liberate the unused bits of the world and construct the largest storage superserver on the planet." # TODO: i18n: unable to find translation for this
+
+### contact ###
+- id: about_contact
+  translation: "Адрес"
+
+
+# URL: /about/milestones.html
+### header ###
+- id: milestones_header
+  translation: "Дорожная карта"
+
+- id: milestones_subheader
+  translation: "ВЕХИ И ЦЕЛИ"
+
+### milestones ###
+- id: milestones_idea
+  translation: "Октябрь 2013: Идея"
+
+- id: milestones_angel
+  translation: "Июнь 2014: Ангельские инвестиции"
+
+- id: milestones_whitepaper
+  translation: "Ноябрь 2014: Описание концепции"
+
+- id: milestones_launch
+  translation: "Июнь 2015: Запуск сети Sia"
+
+- id: milestones_v1
+  translation: "Июнь 2016: Версия 1 Sia"
+
+- id: milestones_exchanges
+  translation: "July 2016: Sia on Poloniex, YUNBI, Bitsquare, and ShapeShift" # TODO: i18n: user rejected all automatically found translations
+
+- id: milestones_funding2016
+  translation: "August 2016: Nebulous Raises $750k for Sia" # TODO: i18n: user rejected all automatically found translations
+
+
+# URL: /apps/index.html
+### header ###
+- id: apps_header
+  translation: "Приложения"
+
+- id: apps_subheader
+  translation: "СКАЧАТЬ ПОСЛЕДНЮЮ ВЕРСИЮ"
+
+### sia apps ###
+- id: apps_sia1
+  translation: "Храните данные"
+
+- id: apps_sia2
+  translation: "Официальный кошелёк для саякойнов"
+
+- id: apps_sia3
+  translation: "Сдавайте в аренду ваше дисковое пространство и получайте саякойны"
+
+- id: apps_sia4
+  translation: "Проверяйте и проводите транзакции"
+
+- id: apps_sia5
+  translation: "Поддерживайте безопасность сети"
+
+- id: apps_download
+  translation: "Скачать"
+
+- id: apps_miner
+  translation: "Miner" # TODO: i18n: unable to find translation for this
+
+- id: apps_miner1
+  translation: "Проверяйте и проводите транзакции"
+
+- id: apps_miner2
+  translation: "Обеспечивайте безопасность блокчейна и получайте саякойны"
+
+- id: apps_altminer
+  translation: "Alternate Miner" # TODO: i18n: unable to find translation for this
+
+- id: apps_altminer1
+  translation: "GPU майнер для Sia на Go."
+
+### built on sia ###
+- id: apps_builtheader
+  translation: "Построено на Sia"
+
+- id: apps_explorerh
+  translation: "Обозреватель блоков"
+
+- id: apps_explorerp
+  translation: "Обозреватель блоков Sia."
+
+- id: apps_cryptip
+  translation: "Платформа DAPP, использующая Sia в качестве хранилища данных."
+
+
+# URL: /faq.html
+### header ###
+
+- id: faq_header
+  translation: "Часто задаваемые вопросы"
+
+- id: faq_subheader
+  translation: "О ТОМ ЧТО ВАС ИНТЕРЕСУЕТ"
+
+### sia ###
+
+- id: faq_siah
+  translation: "Sia"
+
+- id: faq_sia1q
+  translation: "Как файлы безопасно хранятся в сети Sia?"
+- id: faq_sia1a
+  translation: "Сиа использует комбинацию кодирования с коррекцией многократных ошибок, шифрования и блокчейна для обеспечения сохранности файлов в сети. Ни один хост не может видеть файлы, которые он хранит и файлы не испортятся даже при отказе большой части сети."
+
+- id: faq_sia2q
+  translation: "Что происходит, если хост отключается?"
+- id: faq_sia2a
+  translation: "Sia использует кодирование с коррекцией многократных ошибок, так что файл останется целым даже если большой процент хостов отключится."
+
+- id: faq_sia3q
+  translation: "Насколько стабильна Sia?"
+- id: faq_sia3a
+  translation: "Протокол консенсуса Sia был тщательно проверен и вряд ли сильно изменится в будущем. В протоколе не было найдено никаких серьёзных уязвимостей с его запуска 7 июня. Клиентское ПО решительно может считаться бетой. Большинство серьёзных багов было исправлено, но всё ещё остаются шероховатости в интерфейсе пользователя. Также могут присутствовать давнишние баги, которые могут угрожать средствам и файлам пользователей. Используйте с осторожностью. Нет никаких гарантий на ПО. Перезапуск обычно помогает устранить проблемы в работе."
+
+- id: faq_sia4q
+  translation: "Что такое файловый контракт?"
+- id: faq_sia4a
+  translation: "A file contract enables a host and a renter to make an agreement about a file; the host agrees to store a file for some duration of time, and then gets paid some money for doing so. The renter pays all of the coins up front, and the blockchain acts as escrow. If the host keeps the file and submits a proof of storage at the end, the host will get the payment. Otherwise, (depending on the terms of the contract), the payment is returned to the uploader. All payments need to be made in Sia’s local currency, the siacoin." # TODO: i18n: unable to find translation for this
+
+- id: faq_sia5q
+  translation: "Можно ли участвовать в развитии Sia и создании приложений с его использованием?"
+- id: faq_sia5a
+  translation: "Да! Нам очень бы этого хотелось. Весь код Sia на 100% открыт и может быть найден на нашем гитхабе. Особая благодарность bitspill, fornax, autumnalscooter и pmknutsen за помощь и другим разработчикам, которые создавали тикеты и отправляли пулл-реквесты."
+
+- id: faq_sia6q
+  translation: "В чём разница между Sia и Nebulous Labs?"
+- id: faq_sia6a
+  translation: "Nebulous Labs is the company, Sia is the product." # TODO: i18n: unable to find translation for this
+
+### siacoins ###
+
+- id: faq_siacoinsh
+  translation: "Саякойны"
+
+- id: faq_siacoins1q
+  translation: "В чём разница между саякойнами и биткойнами?"
+- id: faq_siacoins1a
+  translation: "Sia uses a cryptocurrency, Siacoin, to enable decentralized payments. Siacoin can be thought of as an extension to Bitcoin that adds support for file contracts. Like Bitcoin, Siacoin uses a blockchain, and is powered by \"proof-of-work\" mining. However, Siacoin and Bitcoin are not in direct competition. Bitcoin is a general-purpose currency, while Siacoin exists only to enable the Sia network." # TODO: i18n: unable to find translation for this
+
+- id: faq_siacoins2q
+  translation: "Зачем Sia нужна своя собственная валюта? Разве нельзя было использовать платёжную систему вроде PayPal?"
+- id: faq_siacoins2a
+  translation: "Это затруднило бы платежи от клиента к хосту. Вдобавок, Sia создаёт большой объём очень маленьких транзакций (т.е. микроплатежей; скажем, меньше 1¢), для которых традиционные платёжные системы не предназначены. Наконец, использование блокчейна позволяет обеспечить соблюдение контрактов криптографически безопасным образом."
+
+- id: faq_siacoins3q
+  translation: "Как я могу получить саякойны?"
+- id: faq_siacoins3a
+  translation: "Вам нужны биткойны чтобы приобрести саякойны. Самое частое место приобритения саякойнов - Poloniex. Также есть торговая тема на bitcointalk и торговый канал в нашем slack."
+
+- id: faq_siacoins4q
+  translation: "Сколько саякойнов будет существовать?"
+- id: faq_siacoins4a
+  translation: "The number of siacoins created each block is (300,000 - height). The genesis block has a height of 0. After height 270,000, all blocks will have a reward of 30,000 siacoins. The current number of siacoins can be found at explore.sia.tech" # TODO: i18n: unable to find translation for this
+
+- id: faq_siacoins5q
+  translation: "Сколько стоит хранение данных?"
+- id: faq_siacoins5a
+  translation: "Цена определяется свободным рынком пользователей и поставщиков. На январь 2016, цена хранения была около $2.25/TB/месяц с шестикратной избыточностью."
+
+- id: faq_siacoins6q
+  translation: "В чём разница между саякойнами и саяфондами?"
+- id: faq_siacoins6a
+  translation: "Это два разных актива. Саяфонды обеспечивают вам доступ к части дохода хостов. Если вы покупаете саяфонд за $200, это значит, что за время жизни саяфонда вы ожидаете получить назад $200 (плюс проценты). Если Sia достигнет своей цели доминирования на рынке облачного хранения, каждый саяфонд заработает где-то между $10,000 и $250,000 для владельца. Дисконт определяется риском, что Sia никогда не вырастет до таких размеров. Саякойны используются для покупки места для хранения в сети Sia и их стоимость определяется исходя из этого."
+
+### wallet ###
+
+- id: faq_walleth
+  translation: "Использование кошелька"
+
+- id: faq_wallet1q
+  translation: "Как работает шифрование кошелька?"
+- id: faq_wallet1a
+  translation: "The first time you run Sia, you will need to initialize a wallet. You can click 'Create Wallet' in the app. You will be given a secure 29 word passphrase that will be needed to unlock the wallet in the future. If you ever lose your wallet file, you can use the 29 word phrase to recover siacoins that had been in the wallet." # TODO: i18n: user rejected all automatically found translations
+
+- id: faq_wallet2q
+  translation: "Что такое блокировка кошелька?"
+- id: faq_wallet2a
+  translation: "Блокировка — это часть шифрования. Когда вы впервые открываете кошелёк, он будет заблокирван. Средства не могут быть потрачены, когда кошелёк заблокирован. Майнер, файловый менеджер и хост также будут отключены, пока кошелёк заблокирован."
+
+- id: faq_wallet3q
+  translation: "Могу ли я выбрать свой собственный пароль?"
+- id: faq_wallet3a
+  translation: "В данный момент вы не можете выбрать свой собственный пароль. Люди обычно переоценивают свою способность создавать стойкие пароли и многие люди потеряли средства из-за кражи в результате использования слабого пароля. Из-за этого поддержка задаваемых пользователем паролей отсутствует в стандартном ПО Sia."
+
+- id: faq_wallet4q
+  translation: "Может ли хакер украсть мои средства?"
+- id: faq_wallet4a
+  translation: "Приватные ключи существуют в памяти только пока кошелёк разблокирован. Все приватные ключи шифруются с использованием пароля кошелька перед сохранением на диск."
+
+- id: faq_wallet5q
+  translation: "Почему адресов целый список?"
+- id: faq_wallet5a
+  translation: "Большинство кошельков показывают пользователю разные адреса поочерёдно. Мы просто показываем их все сразу. Лучше использовать новый адрес для каждой транзакции."
+
+- id: faq_wallet6q
+  translation: "Почему мой баланс не обновился после транзакции?"
+- id: faq_wallet6a
+  translation: "Your transaction will be included in the next block. The time it takes to mine each block is targeted at 10 minutes. Additionally, if your wallet is new, it may still be behind in downloading block headers." # TODO: i18n: unable to find translation for this
+
+- id: faq_wallet7q
+  translation: "Анонимны ли пользователи кошельков?"
+- id: faq_wallet7a
+  translation: "Yes, for the most part. Technically it's permissionless - Sia does not require any personal information for use of any of its services." # TODO: i18n: unable to find translation for this
+
+- id: faq_wallet8q
+  translation: "Как часто мне стоит архивировать мой кошелёк?"
+- id: faq_wallet8a
+  translation: "There's no need to, as long as you have stored your seed / passphrase in a secure location. Don't lose that!" # TODO: i18n: unable to find translation for this
+
+### host ###
+
+- id: faq_hosth
+  translation: "Работа хостом"
+
+- id: faq_host1q
+  translation: "Как стать хостом?"
+- id: faq_host1a
+  translation: "Первый шаг — перенаправление портов. Когда ваши порты будут перенаправлены, вы можете анонсировать хост и начать получать файловые контракты. Распространение анонса по сети может занять несколько часов."
+
+- id: faq_host2q
+  translation: "Как мне перенаправить порты?"
+- id: faq_host2a
+  translation: "По умолчанию порты для перенаправления — 9981 и 9982. Последние версии Sia поддерживает upnp — протокол для автоматической переадресации портов. Это сработает для большинства пользователей, но не для всех. Вы можете найти больше информации на portforward.com."
+
+- id: faq_host3q
+  translation: "Sia говорит, что мои порты не перенаправлены, а на самом деле они перенаправлены."
+- id: faq_host3a
+  translation: "Sia sometimes falsely believes that your ports are not forwarded. To get around this, you can use 'siac' to announce a specific url. This announcement does not verify that your ports are forwarded, allowing you to get around the error." # TODO: i18n: user rejected all automatically found translations
+
+- id: faq_host4q
+  translation: "Я не получаю никаких контрактов."
+- id: faq_host4a
+  translation: "Если вы не получили ни одного файлового контракта, вероятнее всего это связано с тем, что  ваша цена слишком высока, ваш кошелек заблокирован, ваши порты не перенаправлены или вы не анонсировали хост должным образом."
+
+- id: faq_host5q
+  translation: "Какую цену мне использовать?"
+- id: faq_host5a
+  translation: "Существуют некоторые грубые инструменты для оценки конкурентоспособности цен на хранения в сети. Все цены выше 100 саякойнов/GB в месяц вряд ли смогут рассчитывать на получение контрактов на хранение."
+
+- id: faq_host6q
+  translation: "Могут ли хосты быть привлечены к ответственности за содержимое загружаемого контента?"
+- id: faq_host6a
+  translation: "Because the files are encrypted, hosts cannot know what files they are hosting and thus cannot be held accountable for hosting those files. However, if the host receives a DMCA takedown request then it is the host's responsibility to acquiesce." # TODO: i18n: unable to find translation for this
+
+### miner ###
+
+- id: faq_minerh
+  translation: "Майнинг"
+
+- id: faq_miner1q
+  translation: "Существует ли пул для майнинга?"
+- id: faq_miner1a
+  translation: "Нет, но в настоящий момент в стадии разработки находятся как минимум 2 пула для майнинга. Один из разрабатываемых пулов - официальный, второй - разрабатывается третьей стороной для Sia. Таким образом, официального прогноза по времени готовности пула нет."
+
+- id: faq_miner2q
+  translation: "Какую карту мне следует приобрести?"
+- id: faq_miner2a
+  translation: "Карты AMD, как правило, работают гораздо лучше карт Nvidia. Fury X считается хорошим вариантом в соотношении цена/качество."
+
+- id: faq_miner3q
+  translation: "Как долго займёт майнинг блоков в одиночку?"
+- id: faq_miner3a
+  translation: "Depending on the card, each video card can expect to mine between 2 and 10 blocks per month, with very high variance." # TODO: i18n: user rejected all automatically found translations
+
+- id: faq_miner4q
+  translation: "Я добыл блок, но мой баланс по-прежнему равен 0"
+- id: faq_miner4a
+  translation: "Также как и с Биткойнами, добытые вами Сиакойны нельзя будет израсходовать на протяжении 144 блоков. Как правило, это около 24 часов, однако колебание мощности сети иногда может привести к увеличению времени подтверждения."
+
+- id: faq_miner5q
+  translation: "Какой алгоритм хэширования использует Sia?"
+- id: faq_miner5a
+  translation: "Sia использует BLAKE2b и версия GPU майнера доступна для скачивания на нашем Github."
+
+### files ###
+
+- id: faq_filesh
+  translation: "Файлы"
+
+- id: faq_files1q
+  translation: "Как мне загрузить файл?"
+- id: faq_files1a
+  translation: "В GUI кликните на значок папки в верхнем правом углу вашего кошелька."
+
+- id: faq_files2q
+  translation: "Я загрузил несколько файлов, но они не показываются"
+- id: faq_files2a
+  translation: "You can try running 'siac' in the command line. Siac is a command line utility that you can download from the Sia repo. Tutorials on how to use it can be found here as well. https://github.com/NebulousLabs/Sia/releases/latest" # TODO: i18n: user rejected all automatically found translations
+
+- id: faq_files3q
+  translation: "Как мне удалить файл после загрузки в Sia?"
+- id: faq_files3a
+  translation: "Скоро будет!"
+
+- id: faq_files4q
+  translation: "Как мне скачать файл?"
+- id: faq_files4a
+  translation: "Нажмите на файл и значок загрузки появится в правом верхнем углу."
+
+- id: faq_files5q
+  translation: "Могу ли я видеть сколько раз был загружен файл?"
+- id: faq_files5a
+  translation: "Нет, так как загрузка происходит за пределами блокчейна. Некоторые хосты сообщают о своей статистике  работы с файлом, им ничего не стоит соврать. Другие платформы, наподобие  Sunfish, могут иметь методы для отслеживания таких метрик как загрузки."
+
+- id: faq_files6q
+  translation: "Могут ли другие видеть мои файлы в Sia?"
+- id: faq_files6a
+  translation: "Нет. Все загруженные siad файлы сначала кодируются с избыточностью, а затем шифруются. Только кто-либо с доступом к метаданным файла сможет посмотреть оригинальный файл. В качестве дополнительной защиты, информация вроде точного размера файла также скрыта от всех, кто не знает метаданных."
+
+- id: faq_files7q
+  translation: "Могу ли я делиться файлами с другими в системе Sia?"
+- id: faq_files7a
+  translation: "Yes. Files can be shared publically and privately. All files uploaded to the Sia network are erasure coded and then encrypted. Someone will only be able to decrypt and fetch the files if they have metadata about the files. This metadata is stored in something called a ‘.sia’ or a ‘siafile’. By sharing the siafile associated with a file that’s been uploaded to Sia, you give someone the ability to download that file. To share files privately, you can give the siafiles to people you trust. They will be able to download the file, and as long as they don’t share it, nobody else will. You can share files publicly by putting the associated siafiles in a public place." # TODO: i18n: user rejected all automatically found translations
+
+
+# URL: /get-siacoin.html
+### header ###
+- id: getsiacoin_header
+  translation: "Рекомендуемые биржи"
+
+- id: getsiacoin_subheader
+  translation: "КУПИТЬ И ТОРГОВАТЬ САЯКОЙНАМИ"
+
+### exchanges ###
+
+- id: getsiacoin_poloniex
+  translation: "Poloniex — американская биржа для торговли криптовалютами, предлагающая максимальную безопасность и широкие возможности торговли. Простой процесс регистрации, возможность начать торговлю уже через несколько минут."
+
+- id: getsiacoin_yunbi
+  translation: "YUNBI — ориентированная на будущее биржа для торговли активами блокчейнов. Основанна в Пекине в 2013 году и построенна на коде, выпущенным Peatio Open Source Project. YUNBI придерживается принципов честности и прозрачности, и, как проект на открытом коде, предлагает пользователям простую и безопасную платформу для торговли."
+
+- id: getsiacoin_btn
+  translation: "Получить саякойны"
+
+
+# URL: /get-started.html
+### header ###
+- id: getstarted_header
+  translation: "С чего начать"
+
+- id: getstarted_subheader
+  translation: "ВАШЕ МЕСТО В ЭКОСИСТЕМЕ"
+
+### store ###
+- id: getstarted_storeiconh
+  translation: "Хранение"
+
+- id: getstarted_storeiconp
+  translation: "Я хочу использовать Sia для хранения моих данных"
+
+- id: getstarted_storeh
+  translation: "To Store Siacoin" # TODO: i18n: unable to find translation for this
+
+- id: getstarted_storestep1
+  translation: "Download <a href=\"../apps\">Sia Homebase</a>" # TODO: i18n: unable to find translation for this
+
+- id: getstarted_storestep2
+  translation: "Get <a href=\"../get-siacoin\">Siacoin</a>" # TODO: i18n: unable to find translation for this
+
+- id: getstarted_storestep3
+  translation: "Храните ваши файлы"
+
+### farm ###
+- id: getstarted_farmiconh
+  translation: "Хостинг"
+
+- id: getstarted_farmiconp
+  translation: "I want to farm my storage space for Siacoin" # TODO: i18n: unable to find translation for this
+
+- id: getstarted_farmh
+  translation: "To Farm Siacoin" # TODO: i18n: unable to find translation for this
+
+- id: getstarted_farmstep1
+  translation: "Download <a href=\"../apps\">Sia Homebase</a>" # TODO: i18n: unable to find translation for this
+
+- id: getstarted_farmstep2
+  translation: "Предложить оферту для хранения данных"
+
+- id: getstarted_farmstep3
+  translation: "Get Siacoin with file contracts" # TODO: i18n: unable to find translation for this
+
+### mine ###
+- id: getstarted_mineiconh
+  translation: "Майнинг"
+
+- id: getstarted_mineiconp
+  translation: "I want to mine Siacoin and secure the blockchain" # TODO: i18n: unable to find translation for this
+
+- id: getstarted_mineh
+  translation: "To Mine Siacoin" # TODO: i18n: unable to find translation for this
+
+- id: getstarted_minestep1
+  translation: "Download <a href=\"../apps\">Sia Miner</a>" # TODO: i18n: unable to find translation for this
+
+- id: getstarted_minestep2
+  translation: "Способствуйте безопасности сети"
+
+- id: getstarted_minestep3
+  translation: "Receive Siacoin" # TODO: i18n: unable to find translation for this
+
+### develop ###
+- id: getstarted_developiconh
+  translation: "Разработка"
+
+- id: getstarted_developiconp
+  translation: "Я хочу использовать Sia для моих приложений"
+
+- id: getstarted_developh
+  translation: "To Develop on Sia" # TODO: i18n: unable to find translation for this
+
+- id: getstarted_developstep1
+  translation: "Join our" # TODO: i18n: unable to find translation for this
+
+- id: getstarted_developstep2
+  translation: "Consult our <a href=\"https://github.com/NebulousLabs/Sia/tree/master/doc\">documentation</a>" # TODO: i18n: unable to find translation for this
+
+- id: getstarted_developstep3
+  translation: "Используйте Sia для ваших приложений"

@@ -3,6 +3,8 @@
   translation: "English"
 - id: fr
   translation: "Français"
+- id: ru
+  translation: "Русский"
 - id: zh-hans
   translation: "中文"
 - id: zh-hant
