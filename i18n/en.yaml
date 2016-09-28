@@ -5,6 +5,8 @@
   translation: "Français"
 - id: zh-hans
   translation: "中文"
+- id: zh-hant
+  translation: "繁體中文"
 
 # Titles
 - id: title_about
