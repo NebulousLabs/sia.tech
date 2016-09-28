@@ -59,7 +59,7 @@
   translation: "論壇"
 
 - id: footer_siatalk
-  translation: "#siatalk on irc.freenode.net" # TODO: i18n: user rejected all automatically found translations
+  translation: "#siatalk on irc.freenode.net" # TODO: i18n: translate this.
 
 - id: footer_backedby
   translation: "被支持"
@@ -92,7 +92,7 @@
   translation: "現在下載"
 
 - id: index_videobtn
-  translation: "Watch video" # TODO: i18n: unable to find translation for this
+  translation: "Watch video" # TODO: i18n: translate this.
 
 - id: index_gettingstarted
   translation: "你需要幫助來啓動嗎？"
@@ -133,7 +133,7 @@
   translation: "所有合同大小"
 
 - id: index_stat2unit
-  translation: "TB" # TODO: i18n: user rejected all automatically found translations
+  translation: "TB" # TODO: i18n: is this translation correct?
 
 - id: index_stat3h
   translation: "細亞幣總數"
@@ -165,22 +165,22 @@
 
 ### paragraphs ###
 - id: about_p1
-  translation: "The idea of Sia was originally conceived at HackMIT 2013. What if you could liberate the unused storage space of the world and unite it into a worldwide free market for data?" # TODO: i18n: unable to find translation for this
+  translation: "細亞這個主意是在2013年的HackMIT上誕生的。假如你可以把全世界沒有用到的儲存空間釋放出來然後把它融合在一起來提供一個自由的世界性的數據儲存？"
 
 - id: about_p2
-  translation: "Sia leverages the capacity of blockchain technology to enable distributed networks to reach consensus in a secure and trustless way. Cryptographically secured smart contracts ensure the encryption and transfer of data with no possibility for a third party to interfere in any way." # TODO: i18n: unable to find translation for this
+  translation: "細亞利用了區塊鏈技術來讓分布式的網路安全而沒有信托地達成一個共識。用密碼學強化的智能合約保證了數據的加密和傳送不可能被第三方來幹擾。"
 
 - id: about_p3
-  translation: "Sia is a new approach to cloud storage platforms. Instead of all datacenters being owned and operated by a single company, Sia opens the floodgates and allows anyone to make money by renting out their hard drive. Data integrity is protected using redundancy and cryptography." # TODO: i18n: unable to find translation for this
+  translation: "細亞是雲端儲存的一個新的方法。不同于一個單一的公司擁有和管理數據中心，細亞打開了閘門讓任何人都可以出租他的硬盤空間來賺錢。"
 
 - id: about_p4
-  translation: "The promise of Sia is a decentralized network of datacenters that, taken together, comprise the world's fastest, cheapest, and most secure cloud storage platform. Today, being a major cloud storage player requires having datacenters, building trust within the market, reaching customers, and competing with giants such as Amazon, Google, and Microsoft." # TODO: i18n: unable to find translation for this
+  translation: "細亞是一個去中心化的數據中心網絡，這個網絡總體是世界上最快，最便宜，也是最安全的雲端儲存平台。今天，要想成爲一個主要的雲端儲存玩家必須要擁有數據中心，在市場裏建立信心， 追求客戶，與亞馬遜，谷歌，微軟這樣的巨頭競爭。"
 
 - id: about_p5
-  translation: "Breaking into this market is a multi-billion dollar endeavor. The long term goal of Sia is to be the backbone storage layer of the Internet." # TODO: i18n: unable to find translation for this
+  translation: "打開這個市場是個幾十億的努力。細亞的長期計劃是成爲互聯網儲存層的脊梁骨。"
 
 - id: about_p6
-  translation: "We believe data should be free. We aim to liberate the unused bits of the world and construct the largest storage superserver on the planet." # TODO: i18n: unable to find translation for this
+  translation: "我們認爲數據存儲應該是免費的。我們想要釋放全世界沒有用到的空間然後建立起世界上最大的超級儲存伺服器。"
 
 ### contact ###
 - id: about_contact
@@ -212,10 +212,10 @@
   translation: "2016年6月：細亞 V1" #TODO: i18n: is this translation correct?
 
 - id: milestones_exchanges
-  translation: "July 2016: Sia on Poloniex, YUNBI, Bitsquare, and ShapeShift" # TODO: i18n: user rejected all automatically found translations
+  translation: "July 2016: Sia on Poloniex, YUNBI, Bitsquare, and ShapeShift" # TODO: i18n: translate this.
 
 - id: milestones_funding2016
-  translation: "August 2016: Nebulous Raises $750k for Sia" # TODO: i18n: user rejected all automatically found translations
+  translation: "August 2016: Nebulous Raises $750k for Sia" # TODO: i18n: translate this.
 
 
 # URL: /apps/index.html
@@ -246,7 +246,7 @@
   translation: "下載"
 
 - id: apps_miner
-  translation: "Miner" # TODO: i18n: unable to find translation for this
+  translation: "挖礦"
 
 - id: apps_miner1
   translation: "證實和接力交易"
@@ -255,7 +255,7 @@
   translation: "保護區塊鏈然後得到細亞幣"
 
 - id: apps_altminer
-  translation: "Alternate Miner" # TODO: i18n: unable to find translation for this
+  translation: "另類的礦工"
 
 - id: apps_altminer1
   translation: "一個GPU 細亞礦工在 Go裏"
@@ -306,7 +306,7 @@
 - id: faq_sia4q
   translation: "什麽是文件合同？"
 - id: faq_sia4a
-  translation: "A file contract enables a host and a renter to make an agreement about a file; the host agrees to store a file for some duration of time, and then gets paid some money for doing so. The renter pays all of the coins up front, and the blockchain acts as escrow. If the host keeps the file and submits a proof of storage at the end, the host will get the payment. Otherwise, (depending on the terms of the contract), the payment is returned to the uploader. All payments need to be made in Sia’s local currency, the siacoin." # TODO: i18n: unable to find translation for this
+  translation: "一个文件合同让一个托管者和一个租用者对于一个文件达成协议；托管者同意在一段时间内储存一个文件，然后收取一定的费用。租用者一开始付所有的币，区块链作为第三方托管。如果托管者保存了文件然后最后发了一个储存的证明，他就会取得付款。反之，这些支付会被退回给租用者。所有的支付都用细亚自己的币完成。"
 
 - id: faq_sia5q
   translation: "我可以爲細亞貢獻代碼或是在上面開發嗎？"
@@ -316,7 +316,7 @@
 - id: faq_sia6q
   translation: "細亞和星雲實驗室的區別在哪裏？"
 - id: faq_sia6a
-  translation: "Nebulous Labs is the company, Sia is the product." # TODO: i18n: unable to find translation for this
+  translation: "星雲實驗室是公司，細亞是産品。"
 
 ### siacoins ###
 
@@ -326,7 +326,7 @@
 - id: faq_siacoins1q
   translation: "細亞幣和比特幣之間的區別在哪裏？"
 - id: faq_siacoins1a
-  translation: "Sia uses a cryptocurrency, Siacoin, to enable decentralized payments. Siacoin can be thought of as an extension to Bitcoin that adds support for file contracts. Like Bitcoin, Siacoin uses a blockchain, and is powered by \"proof-of-work\" mining. However, Siacoin and Bitcoin are not in direct competition. Bitcoin is a general-purpose currency, while Siacoin exists only to enable the Sia network." # TODO: i18n: unable to find translation for this
+  translation: "細亞使用一個加密數字貨幣，細亞幣，來實行去中心化支付。細亞幣可以被想象成比特幣的一個延伸然後再加上文件合同的支持。像比特幣一樣，細亞幣也使用區塊鏈，然後用工作量證明來驅動挖礦。但是，細亞幣和比特幣不是競爭對手。比特幣是個普遍型的貨幣，細亞幣只存在細亞網絡中。"
 
 - id: faq_siacoins2q
   translation: "爲什麽細亞需要它自己的貨幣？爲什麽不用像Paypal這類的支付處理？"
@@ -341,7 +341,7 @@
 - id: faq_siacoins4q
   translation: "有多少細亞幣存在？"
 - id: faq_siacoins4a
-  translation: "The number of siacoins created each block is (300,000 - height). The genesis block has a height of 0. After height 270,000, all blocks will have a reward of 30,000 siacoins. The current number of siacoins can be found at explore.sia.tech" # TODO: i18n: unable to find translation for this
+  translation: "現在每個區塊可以制造300，000個細亞幣。創始區塊高度爲0。當高度達到270，000的時候，所有的區塊都會有30，000個細亞幣。你可以在這個網站（explore.sia.tech）查到現在有多少細亞幣被找到。"
 
 - id: faq_siacoins5q
   translation: "儲存數據的費用是多少？"
@@ -386,17 +386,17 @@
 - id: faq_wallet6q
   translation: "爲什麽每個交易後我的余額沒有被更新？"
 - id: faq_wallet6a
-  translation: "Your transaction will be included in the next block. The time it takes to mine each block is targeted at 10 minutes. Additionally, if your wallet is new, it may still be behind in downloading block headers." # TODO: i18n: unable to find translation for this
+  translation: "你的交易會進入下一個區塊。每塊之間的時間差是十分鍾。此外，如果你的錢包是新的，他可能還沒有下載完區塊頭。"
 
 - id: faq_wallet7q
   translation: "錢包用戶是匿名的嗎？"
 - id: faq_wallet7a
-  translation: "Yes, for the most part. Technically it's permissionless - Sia does not require any personal information for use of any of its services." # TODO: i18n: unable to find translation for this
+  translation: "是的。大多數是的。技術上講，它是沒有限制的。細亞沒有要求任何個人信息來使用它的服務。"
 
 - id: faq_wallet8q
   translation: "我要多頻繁地備份我的錢包？"
 - id: faq_wallet8a
-  translation: "There's no need to, as long as you have stored your seed / passphrase in a secure location. Don't lose that!" # TODO: i18n: unable to find translation for this
+  translation: "沒有必要。只要你儲存你的種子/密碼在一個安全的地方。千萬不要丟失了它們。"
 
 ### host ###
 
@@ -431,7 +431,7 @@
 - id: faq_host6q
   translation: "托管者會爲上傳的內容負責嗎？"
 - id: faq_host6a
-  translation: "Because the files are encrypted, hosts cannot know what files they are hosting and thus cannot be held accountable for hosting those files. However, if the host receives a DMCA takedown request then it is the host's responsibility to acquiesce." # TODO: i18n: unable to find translation for this
+  translation: "因爲文件是加密的，托管者不可能知道他們托管文件的內容所以他們不應該爲那些文件負責。但是如果托管者收到一個DMCA拿下的要求，那托管者就有責任來默認執行。"
 
 ### miner ###
 
@@ -476,7 +476,7 @@
 - id: faq_files2q
   translation: "我上傳了一些文件但他們沒有顯示出來。"
 - id: faq_files2a
-  translation: "You can try running 'siac' in the command line. Siac is a command line utility that you can download from the Sia repo. Tutorials on how to use it can be found here as well. https://github.com/NebulousLabs/Sia/releases/latest" # TODO: i18n: user rejected all automatically found translations
+  translation: "你可以在command line上運行’siac'。Siac是個command line 公用程序你可以從Sia repo上下載。使用教材可以從這裏找到。"
 
 - id: faq_files3q
   translation: "當我上載到Sia後，我可以把一個文件刪除嗎？"
@@ -540,13 +540,13 @@
   translation: "我想用細亞來儲存我的數據"
 
 - id: getstarted_storeh
-  translation: "To Store Siacoin" # TODO: i18n: unable to find translation for this
+  translation: "儲存細亞幣"
 
 - id: getstarted_storestep1
-  translation: "Download <a href=\"../apps\">Sia Homebase</a>" # TODO: i18n: unable to find translation for this
+  translation: "下載<a href=\"../apps\">細亞基地</a>"
 
 - id: getstarted_storestep2
-  translation: "Get <a href=\"../get-siacoin\">Siacoin</a>" # TODO: i18n: unable to find translation for this
+  translation: "拿到<a href=\"../get-siacoin\">細亞幣</a>"
 
 - id: getstarted_storestep3
   translation: "儲存你的文件"
@@ -556,38 +556,38 @@
   translation: "礦場"
 
 - id: getstarted_farmiconp
-  translation: "I want to farm my storage space for Siacoin" # TODO: i18n: unable to find translation for this
+  translation: "我想包租我的儲存空間來換取細亞幣"
 
 - id: getstarted_farmh
-  translation: "To Farm Siacoin" # TODO: i18n: unable to find translation for this
+  translation: "細亞幣礦場"
 
 - id: getstarted_farmstep1
-  translation: "Download <a href=\"../apps\">Sia Homebase</a>" # TODO: i18n: unable to find translation for this
+  translation: "下載<a href=\"../apps\">細亞基地</a>"
 
 - id: getstarted_farmstep2
   translation: "制造一個儲存的邀請"
 
 - id: getstarted_farmstep3
-  translation: "Get Siacoin with file contracts" # TODO: i18n: unable to find translation for this
+  translation: "得到細亞幣用文件合同"
 
 ### mine ###
 - id: getstarted_mineiconh
   translation: "挖礦"
 
 - id: getstarted_mineiconp
-  translation: "I want to mine Siacoin and secure the blockchain" # TODO: i18n: unable to find translation for this
+  translation: "我想挖细亚币和保护区块链"
 
 - id: getstarted_mineh
-  translation: "To Mine Siacoin" # TODO: i18n: unable to find translation for this
+  translation: "挖細亞幣"
 
 - id: getstarted_minestep1
-  translation: "Download <a href=\"../apps\">Sia Miner</a>" # TODO: i18n: unable to find translation for this
+  translation: "下載<a href=\"../apps\">細亞礦工</a>"
 
 - id: getstarted_minestep2
   translation: "帮助我们来保护网络"
 
 - id: getstarted_minestep3
-  translation: "Receive Siacoin" # TODO: i18n: unable to find translation for this
+  translation: "收取細亞幣"
 
 ### develop ###
 - id: getstarted_developiconh
@@ -597,13 +597,13 @@
   translation: "我想用細亞來開發我的應用"
 
 - id: getstarted_developh
-  translation: "To Develop on Sia" # TODO: i18n: unable to find translation for this
+  translation: "開發細亞幣"
 
 - id: getstarted_developstep1
-  translation: "Join our" # TODO: i18n: unable to find translation for this
+  translation: "加入我們"
 
 - id: getstarted_developstep2
-  translation: "Consult our <a href=\"https://github.com/NebulousLabs/Sia/tree/master/doc\">documentation</a>" # TODO: i18n: unable to find translation for this
+  translation: "咨詢我們在<a href=\"https://github.com/NebulousLabs/Sia/tree/master/doc\">的文檔資料</a>"
 
 - id: getstarted_developstep3
   translation: "用細亞來開發你的應用"
