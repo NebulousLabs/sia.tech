@@ -1,0 +1,609 @@
+# Titles
+- id: title_about
+  translation: "关于"
+
+- id: title_apps
+  translation: "应用"
+
+- id: title_faq
+  translation: "经常问到的问题"
+
+- id: title_getsiacoin
+  translation: "取得细亚币"
+
+- id: title_getstarted
+  translation: "开始"
+
+- id: title_roadmap
+  translation: "路线图"
+
+
+# Partials
+### header ###
+- id: header_community
+  translation: "社区"
+
+- id: header_getsiacoin
+  translation: "取得细亚币"
+
+### discover ###
+- id: discover_header
+  translation: "发现更多"
+
+- id: discover_whitepaper
+  translation: "白皮书"
+
+- id: discover_blog
+  translation: "部落格"
+
+- id: discover_explorer
+  translation: "区块链探索者"
+
+- id: discover_devdocs
+  translation: "研发者的文件"
+
+### footer ###
+- id: footer_navheader
+  translation: "什么是细亚？"
+
+- id: footer_moreheader
+  translation: "更多关于细亚"
+
+- id: footer_docs
+  translation: "文件"
+
+- id: footer_blog
+  translation: "部落格"
+
+- id: footer_forum
+  translation: "论坛"
+
+- id: footer_siatalk
+  translation: "#siatalk on irc.freenode.net" # TODO: i18n: translate this.
+
+- id: footer_backedby
+  translation: "被支持"
+
+- id: footer_questions
+  translation: "有问题？与我们联系！"
+
+- id: footer_contact
+  translation: "联系"
+
+- id: footer_like
+  translation: "喜欢我们"
+
+- id: footer_follow
+  translation: "追随我们"
+
+
+# URL: /index.html
+### big header ###
+- id: index_bigheader1
+  translation: "企业级"
+
+- id: index_bigheader2
+  translation: "合作的云端"
+
+- id: index_bigheader3
+  translation: "为了数据储存"
+
+- id: index_downloadbtn
+  translation: "现在下载"
+
+- id: index_videobtn
+  translation: "Watch video" # TODO: i18n: translate this.
+
+- id: index_gettingstarted
+  translation: "你需要帮助来启动吗？"
+
+### info section ###
+- id: index_infoheader
+  translation: "细亚可以把传统的储存踢出云端"
+
+- id: index_infosubheader
+  translation: "回到你的手上"
+
+- id: index_infosection1h
+  translation: "经济体"
+
+- id: index_infosection1p
+  translation: "细亚是个共享的经济体。你可以根据你的角色和要求来取得，使用，和交易细亚币。你可以是个用户，耕种者，矿工和节点管理者。"
+
+- id: index_infosection2h
+  translation: "分散的"
+
+- id: index_infosection2p
+  translation: "去中心化意味着你的数据分布储存在多个节点然后由自动智能合约来跟踪。不会有单点崩溃。"
+
+- id: index_infosection3h
+  translation: "构建"
+
+- id: index_infosection3p
+  translation: "构建和把你自己的应用和细亚相连来利用它的储存能力和功能来以小博大。你所付和你所得到的在第一时间被调整。"
+
+### explorer stats section ###
+- id: index_statsheader
+  translation: "网络脉搏"
+
+- id: index_stat1h
+  translation: "所有文件合同"
+
+- id: index_stat2h
+  translation: "所有合同大小"
+
+- id: index_stat2unit
+  translation: "TB" # TODO: i18n: is this translation correct?
+
+- id: index_stat3h
+  translation: "细亚币总数"
+
+- id: index_stat3unit
+  translation: "十亿"
+
+- id: index_morestats
+  translation: "更多的数据"
+
+### mailing list ###
+- id: index_mailheader
+  translation: "登录可以收取细亚的宣告"
+
+- id: index_emailform
+  translation: "电邮"
+
+- id: index_emailbtn
+  translation: "登录"
+
+
+# URL: /about/index.html
+### header ###
+- id: about_header
+  translation: "关于我们"
+
+- id: about_subheader
+  translation: "我们的任务"
+
+### paragraphs ###
+- id: about_p1
+  translation: "细亚这个主意是在2013年的HackMIT上诞生的。假如你可以把全世界没有用到的储存空间释放出来然后把它融合在一起来提供一个自由的世界性的数据储存？"
+
+- id: about_p2
+  translation: "细亚利用了区块链技术来让分布式的网路安全而没有信托地达成一个共识。用密码学强化的智能合约保证了数据的加密和传送不可能被第三方来干扰。"
+
+- id: about_p3
+  translation: "细亚是云端储存的一个新的方法。不同于一个单一的公司拥有和管理数据中心，细亚打开了闸门让任何人都可以出租他的硬盘空间来赚钱。"
+
+- id: about_p4
+  translation: "细亚是一个去中心化的数据中心网络，这个网络总体是世界上最快，最便宜，也是最安全的云端储存平台。今天，要想成为一个主要的云端储存玩家必须要拥有数据中心，在市场里建立信心， 追求客户，与亚马逊，谷歌，微软这样的巨头竞争。"
+
+- id: about_p5
+  translation: "打开这个市场是个几十亿的努力。细亚的长期计划是成为互联网储存层的脊梁骨。"
+
+- id: about_p6
+  translation: "我们认为数据存储应该是免费的。我们想要释放全世界没有用到的空间然后建立起世界上最大的超级储存伺服器。"
+
+### contact ###
+- id: about_contact
+  translation: "联系"
+
+
+# URL: /about/milestones.html
+### header ###
+- id: milestones_header
+  translation: "路线图"
+
+- id: milestones_subheader
+  translation: "关键里程碑和目标"
+
+### milestones ###
+- id: milestones_idea
+  translation: "2013年十月：主意"
+
+- id: milestones_angel
+  translation: "2014 6 月：天使投资" #TODO: i18n: is this translation correct?
+
+- id: milestones_whitepaper
+  translation: "2014 年 11 月：白皮书" #TODO: i18n: is this translation correct?
+
+- id: milestones_launch
+  translation: "2015 6 月：细亚网络启动" #TODO: i18n: is this translation correct?
+
+- id: milestones_v1
+  translation: "2016年6月：细亚 V1" #TODO: i18n: is this translation correct?
+
+- id: milestones_exchanges
+  translation: "July 2016: Sia on Poloniex, YUNBI, Bitsquare, and ShapeShift" # TODO: i18n: translate this.
+
+- id: milestones_funding2016
+  translation: "August 2016: Nebulous Raises $750k for Sia" # TODO: i18n: translate this.
+
+
+# URL: /apps/index.html
+### header ###
+- id: apps_header
+  translation: "应用"
+
+- id: apps_subheader
+  translation: "下载最新的发布版本"
+
+### sia apps ###
+- id: apps_sia1
+  translation: "储存你的数据"
+
+- id: apps_sia2
+  translation: "细亚的官方钱包软件"
+
+- id: apps_sia3
+  translation: "租用你的储存空间然后收取细亚币"
+
+- id: apps_sia4
+  translation: "证实和接力交易"
+
+- id: apps_sia5
+  translation: "保护网络"
+
+- id: apps_download
+  translation: "下载"
+
+- id: apps_miner
+  translation: "挖矿"
+
+- id: apps_miner1
+  translation: "证实和接力交易"
+
+- id: apps_miner2
+  translation: "保护区块链然后得到细亚币"
+
+- id: apps_altminer
+  translation: "另类的矿工"
+
+- id: apps_altminer1
+  translation: "一个GPU 细亚矿工在 Go里"
+
+### built on sia ###
+- id: apps_builtheader
+  translation: "在细亚上所建"
+
+- id: apps_explorerh
+  translation: "区块探查者"
+
+- id: apps_explorerp
+  translation: "细亚区块链探查者"
+
+- id: apps_cryptip
+  translation: "大浦平台使用细亚作为它的储存层。"
+
+
+# URL: /faq.html
+### header ###
+
+- id: faq_header
+  translation: "经常问到的问题"
+
+- id: faq_subheader
+  translation: "你需要知道的东西"
+
+### sia ###
+
+- id: faq_siah
+  translation: "细亚"
+
+- id: faq_sia1q
+  translation: "文件是如何安全地储存在细亚的网络上的？"
+- id: faq_sia1a
+  translation: "细亚使用一个抹去密码，加密，和区块链的组合来保证文件在网络里是安全的。没有托管服务可以看到托管文件里的内容，然后文件可以经受大型的网络断线而不会被破坏。"
+
+- id: faq_sia2q
+  translation: "如果一个文件托管者断线怎么办？"
+- id: faq_sia2a
+  translation: "细亚使用Reed Solomon的抹去密码，这意味着即使有大比例的文件托管者断线也不会造成文件的破坏。"
+
+- id: faq_sia3q
+  translation: "细亚有多稳定？"
+- id: faq_sia3a
+  translation: "细亚的共识协议被彻底地评估过，所以不太可能在未来做大幅度改变。6月7号启动之后，细亚共识协议没有发现有重大的薄弱点。客户端现在还在Beta。所有重大的bug都被消除了，但用户体验还是可能有令人不愉快和令人挫折的因素存在。可能还有剩余的bug让币和文件冒风险。所以要谨慎使用，没有保证。重启软件通常是解决没有想到问题的一个办法。"
+
+- id: faq_sia4q
+  translation: "什么是文件合同？"
+- id: faq_sia4a
+  translation: "一个文件合同让一个托管者和一个租用者对于一个文件达成协议；托管者同意在一段时间内储存一个文件，然后收取一定的费用。租用者一开始付所有的币，区块链作为第三方托管。如果托管者保存了文件然后最后发了一个储存的证明，他就会取得付款。反之，这些支付会被退回给租用者。所有的支付都用细亚自己的币完成。"
+
+- id: faq_sia5q
+  translation: "我可以为细亚贡献代码或是在上面开发吗？"
+- id: faq_sia5a
+  translation: "是的。我们很欢迎。细亚的代码都是100%的开源码，可以在github上找到。我们特别感谢bitspill,fornax,autumnalscooter的帮助，和其他研发人员解决问题或是提交拉下的请求。"
+
+- id: faq_sia6q
+  translation: "细亚和星云实验室的区别在哪里？"
+- id: faq_sia6a
+  translation: "星云实验室是公司，细亚是产品。"
+
+### siacoins ###
+
+- id: faq_siacoinsh
+  translation: "细亚币"
+
+- id: faq_siacoins1q
+  translation: "细亚币和比特币之间的区别在哪里？"
+- id: faq_siacoins1a
+  translation: "细亚使用一个加密数字货币，细亚币，来实行去中心化支付。细亚币可以被想象成比特币的一个延伸然后再加上文件合同的支持。像比特币一样，细亚币也使用区块链，然后用工作量证明来驱动挖矿。但是，细亚币和比特币不是竞争对手。比特币是个普遍型的货币，细亚币只存在细亚网络中。"
+
+- id: faq_siacoins2q
+  translation: "为什么细亚需要它自己的货币？为什么不用像Paypal这类的支付处理？"
+- id: faq_siacoins2a
+  translation: "这大大增加客户支付托管者的难度。此外，细亚制造了大量的微小支付交易（比如像1分），传统的支付体系没有这种功能。最后使用区块链技术可以让合同被密码学所保护。"
+
+- id: faq_siacoins3q
+  translation: "我怎样才能得到细亚币？"
+- id: faq_siacoins3a
+  translation: "你先需要比特币才能得到细亚币。最普通得到细亚币的办法是上Poloniex。其他还有在Bitcoin talk上和我们在Slack上的交易渠道。"
+
+- id: faq_siacoins4q
+  translation: "有多少细亚币存在？"
+- id: faq_siacoins4a
+  translation: "现在每个区块可以制造300，000个细亚币。创始区块高度为0。当高度达到270，000的时候，所有的区块都会有30，000个细亚币。你可以在这个网站（explore.siacoin.com）查到现在有多少细亚币被找到。"
+
+- id: faq_siacoins5q
+  translation: "储存数据的费用是多少？"
+- id: faq_siacoins5a
+  translation: "价格是由一个自由市场里的用户和提供者所决定的。在2016年1月，每TB数据的月费是$2.25。"
+
+- id: faq_siacoins6q
+  translation: "细亚币与细亚资金的区别在哪里？"
+- id: faq_siacoins6a
+  translation: "这两个是完全不同的资产。细亚资金给你一部分的接管者的收入。如果你买了$200的细亚资金，这意味着在细亚资金存在的时候，你可以把这$200拿回（再加上利息）。如果细亚达到它想占据云端储存的领导地位的目标后，每份细亚资金可以为每位拥有者带来$10,000到$250,000的收益。这个优惠是代表了细亚可能永远也不会变得那么大的风险。细亚币是用来在细亚网络里买储存，它的基本价值从那里来。"
+
+### wallet ###
+
+- id: faq_walleth
+  translation: "钱包使用"
+
+- id: faq_wallet1q
+  translation: "钱包加密是如何工作的？"
+- id: faq_wallet1a
+  translation: "如果你第一次用细亚，你需要启动一个钱包。你可以在应用里点击“制造钱包”。你会得到一个安全的29个字的密码，你需要这个密码来打开钱包。如果你丢失了你的钱包文件，你可以使用这个29字来取回你在钱包里的细亚币。"
+
+- id: faq_wallet2q
+  translation: "什么是锁住钱包？"
+- id: faq_wallet2a
+  translation: "锁住是加密的一部分。当你第一次打开一个钱包的时候，它是被锁住的。里面的币不能被用。矿工，文件管理员和接管者也被禁用。"
+
+- id: faq_wallet3q
+  translation: "我可以用我自己的密码吗？"
+- id: faq_wallet3a
+  translation: "现在你还不能使用你自己的密码。人们通常过高估计自己制造很强密码的能力，有许多人的币被偷，因为他们的密码很弱。为了这个原因，在默认的细亚软件里，不支持用户自己产生的密码。"
+
+- id: faq_wallet4q
+  translation: "一个黑客有可能偷我的币吗？"
+- id: faq_wallet4a
+  translation: "当一个钱包被解锁后，私钥只存在于记忆里。所有的私人数据用钱包的密码来加密然后再储存在硬盘上。"
+
+- id: faq_wallet5q
+  translation: "为什么有一个地址的清单？"
+- id: faq_wallet5a
+  translation: "大多数钱包每次向用户展示不同的地址。我们只是一次性展示出来。每次交易用不同的地址是个好的方法。"
+
+- id: faq_wallet6q
+  translation: "为什么每个交易后我的余额没有被更新？"
+- id: faq_wallet6a
+  translation: "你的交易会进入下一个区块。每块之间的时间差是十分钟。此外，如果你的钱包是新的，他可能还没有下载完区块头。"
+
+- id: faq_wallet7q
+  translation: "钱包用户是匿名的吗？"
+- id: faq_wallet7a
+  translation: "是的。大多数是的。技术上讲，它是没有限制的。细亚没有要求任何个人信息来使用它的服务。"
+
+- id: faq_wallet8q
+  translation: "我要多频繁地备份我的钱包？"
+- id: faq_wallet8a
+  translation: "没有必要。只要你储存你的种子/密码在一个安全的地方。千万不要丢失了它们。"
+
+### host ###
+
+- id: faq_hosth
+  translation: "接管者用途"
+
+- id: faq_host1q
+  translation: "我如何成为一个托管者？"
+- id: faq_host1a
+  translation: "第一步是把你的port发过来。一旦你发来你的port，你就可以宣布你是一个托管者然后就可以开始收集文件合同。这个宣布需要几个小时才能传到整个网络。"
+
+- id: faq_host2q
+  translation: "我怎样才可以发送我的ports?"
+- id: faq_host2a
+  translation: "需要被发送的ports是：9981和：9982。最新型号的Sia包括upnp，它可以自动把ports发送给大多数人但它不是每人都可以用。portforward.com上有更多的信息。"
+
+- id: faq_host3q
+  translation: "细亚说我的ports没有被发送出去，但它们确实被送出去了。"
+- id: faq_host3a
+  translation: "细亚有时会误认为你的ports没有被发送出去。为了绕过这个问题，你可以使用‘siac'来宣布一个特定的统一资源定位。这个宣布不会证实你的ports被发送出去，这样一来就绕过了这个错误。"
+
+- id: faq_host4q
+  translation: "我沒有收到任何合同。"
+- id: faq_host4a
+  translation: "如果你没有得到任何的文件合同，那很可能你的要价太高了，你的钱包被锁住了，你的ports没有被发送出去，或是你从来没有正确地宣布托管者。"
+
+- id: faq_host5q
+  translation: "我应该要价多少？"
+- id: faq_host5a
+  translation: "在网络上有些粗糙的工具来估算有竞争力的储存价格。任何在每GB100个细亚币一个月的价格是不太可能得到储存合同的。"
+
+- id: faq_host6q
+  translation: "托管者会为上传的内容负责吗？"
+- id: faq_host6a
+  translation: "因为文件是加密的，托管者不可能知道他们托管文件的内容所以他们不应该为那些文件负责。但是如果托管者收到一个DMCA拿下的要求，那托管者就有责任来默认执行。"
+
+### miner ###
+
+- id: faq_minerh
+  translation: "矿工用途"
+
+- id: faq_miner1q
+  translation: "有矿池吗？"
+- id: faq_miner1a
+  translation: "没有。但至少有两个矿池在开发中。一个正式的矿池在开发中，至少有一个第三方在为细亚开发一个矿池。现在还不知道何时可以完成。"
+
+- id: faq_miner2q
+  translation: "我应该买什么卡？"
+- id: faq_miner2a
+  translation: "AMD卡比Nvidia卡要好用许多。Fury X 也是一个既廉价有有效的卡。"
+
+- id: faq_miner3q
+  translation: "单独挖区块需要多长时间？"
+- id: faq_miner3a
+  translation: "根据显卡，每个显卡可以预计每个月挖2到10个区块，有很大的变动。"
+
+- id: faq_miner4q
+  translation: "我挖了一个区块但我的余额还是0。"
+- id: faq_miner4a
+  translation: "与比特币相像，你挖的币要等到144区块后才能使用。基本上，这大约是24小时。但是函数计算率的波动可以导致证实会延长。"
+
+- id: faq_miner5q
+  translation: "细亚用哪个函数计算算法？"
+- id: faq_miner5a
+  translation: "细亚用BLAKE2b，和一个 GPU矿工软件的实施。你可以在我们的Github上下载。"
+
+### files ###
+
+- id: faq_filesh
+  translation: "文件"
+
+- id: faq_files1q
+  translation: "我如何上载文件？"
+- id: faq_files1a
+  translation: "在界面里，点击在你钱包软件右上角的一个文件图标。"
+
+- id: faq_files2q
+  translation: "我上传了一些文件但他们没有显示出来。"
+- id: faq_files2a
+  translation: ""
+
+- id: faq_files3q
+  translation: "当我上载到Sia后，我可以把一个文件删除吗？"
+- id: faq_files3a
+  translation: "快来了！"
+
+- id: faq_files4q
+  translation: "我怎样下载文件？"
+- id: faq_files4a
+  translation: "点击文件然后一个下载的图示会在右上方弹出。"
+
+- id: faq_files5q
+  translation: "我可以看到多少次一个文件被下载？"
+- id: faq_files5a
+  translation: "不行。因为下载在区块链之外进行。有些托管者可能报告在一个文件上的活动，但是这个托管者可以轻易地对这些数据撒谎。其他的平台像是太阳鱼共享平台可能有办法追踪这类的数据比如像下载。"
+
+- id: faq_files6q
+  translation: "其他人可以在细亚上看到我的文件吗？"
+- id: faq_files6a
+  translation: "不行。所有上载的文件首先会被加码抹去然后加密。只有那些有文件元数据的人才可以看到原始文件。作为一个额外的保护，一些信息像准确的文件大小也不会被那些没有元数据的人看到。"
+
+- id: faq_files7q
+  translation: "我可以在细亚上和其他人分享文件吗？"
+- id: faq_files7a
+  translation: "是的。文件可以被公开地和私下分享。所有的文件上载到细亚网络上都被加码抹去然后再被加密。只有有元数据的人才可以解密和取出文件。这个元数据贮存在那些叫做 ‘.sia'或是'siafile'里。当你分享了与上载到Sia里文件有关的细亚文件的时候，你就给他下载的权利。如果私下分享的话，你可以把这些细亚文件给那些你相信的人。他们可以下载文件，只要他们不分享它，没人可以看到。你还可以公开地分享这些文件如果你把细亚文件放在一个公共的地方。"
+
+
+# URL: /get-siacoin.html
+### header ###
+- id: getsiacoin_header
+  translation: "指定的交易所"
+
+- id: getsiacoin_subheader
+  translation: "买卖细亚币"
+
+### exchanges ###
+
+- id: getsiacoin_poloniex
+  translation: "Poloniex 是一家位于美国的数字货币交易所。它提供最大限度的安全性和高级的交易功能。你可以在几分钟内进行交易。只需要简单几步。"
+
+- id: getsiacoin_yunbi
+  translation: "云币是一个区块链资产未来交易所。2013年成立于北京，是用Peatio 开源码项目所发布的代码建立的。云币坚持正直，透明和开源等原则。向客户提供一个安全和简单的交易平台。"
+
+- id: getsiacoin_btn
+  translation: "取得细亚币"
+
+
+# URL: /get-started.html
+### header ###
+- id: getstarted_header
+  translation: "开始"
+
+- id: getstarted_subheader
+  translation: "你在生态系统里的位置。"
+
+### store ###
+- id: getstarted_storeiconh
+  translation: "储存"
+
+- id: getstarted_storeiconp
+  translation: "我想用细亚来储存我的数据"
+
+- id: getstarted_storeh
+  translation: "储存细亚币"
+
+- id: getstarted_storestep1
+  translation: "下载<a href=\"../apps\">细亚基地</a>"
+
+- id: getstarted_storestep2
+  translation: "拿到<a href=\"../get-siacoin\">细亚币</a>"
+
+- id: getstarted_storestep3
+  translation: "储存你的文件"
+
+### farm ###
+- id: getstarted_farmiconh
+  translation: "矿场"
+
+- id: getstarted_farmiconp
+  translation: "我想包租我的储存空间来换取细亚币"
+
+- id: getstarted_farmh
+  translation: "细亚币矿场"
+
+- id: getstarted_farmstep1
+  translation: "下载<a href=\"../apps\">细亚基地</a>"
+
+- id: getstarted_farmstep2
+  translation: "制造一个储存的邀请"
+
+- id: getstarted_farmstep3
+  translation: "得到细亚币用文件合同"
+
+### mine ###
+- id: getstarted_mineiconh
+  translation: "挖矿"
+
+- id: getstarted_mineiconp
+  translation: "我想挖细亚币和保护区块链"
+
+- id: getstarted_mineh
+  translation: "挖细亚币"
+
+- id: getstarted_minestep1
+  translation: "下载<a href=\"../apps\">细亚矿工</a>"
+
+- id: getstarted_minestep2
+  translation: "帮助我们来保护网络"
+
+- id: getstarted_minestep3
+  translation: "收取细亚币"
+
+### develop ###
+- id: getstarted_developiconh
+  translation: "研发"
+
+- id: getstarted_developiconp
+  translation: "我想用细亚来开发我的应用"
+
+- id: getstarted_developh
+  translation: "开发细亚币"
+
+- id: getstarted_developstep1
+  translation: "加入我们"
+
+- id: getstarted_developstep2
+  translation: "咨询我们在<a href=\"https://github.com/NebulousLabs/Sia/tree/master/doc\">的文档资料</a>"
+
+- id: getstarted_developstep3
+  translation: "用细亚来开发你的应用"

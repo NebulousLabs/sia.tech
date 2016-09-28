@@ -3,6 +3,8 @@
   translation: "English"
 - id: fr
   translation: "Français"
+- id: zh-hans
+  translation: "中文"
 
 # Titles
 - id: title_about
