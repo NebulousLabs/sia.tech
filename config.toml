@@ -10,3 +10,5 @@ DefaultContentLanguage = "en"
     weight = 1
   [Languages.fr]
     weight = 2
+  [Languages.zh-hans]
+    weight = 3
