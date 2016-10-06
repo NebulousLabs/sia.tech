@@ -1,6 +1,7 @@
 # Global config.
 title = "Sia"
 baseurl = "http://sia.tech/" # TODO: https?
+googleAnalytics = "UA-58715089-4"
 
 # i18n and language specific config.
 IsMultiLingual = true
