@@ -9,7 +9,14 @@
   {{ template "_internal/google_analytics_async.html" . }}
 </head>
 <body>
-  <!-- TODO: google analytics -->
+  {{ if .Params.i18nwarnings }}
+    {{ $pagelang := .Lang }}
+    {{ range $lang := .Params.i18nwarnings }}
+      {{ if eq $lang $pagelang }}
+        {{ partial "i18nwarning.html" . }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
   {{ partial "header.html" . }}
   <main>
     {{ block "main" . }}{{ end }}
