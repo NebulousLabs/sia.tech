@@ -1,6 +1,6 @@
 # Global config.
 title = "Sia"
-baseurl = "https://sia.tech/" # TODO: schemaless?
+baseurl = "https://staging.sia.tech/" # TODO: schemaless?
 googleAnalytics = "UA-58715089-4"
 
 # i18n and language specific config.
