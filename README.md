@@ -1,7 +1,9 @@
-Contributing translations
+Translations
 -------------------------
 
 Please see [TRANSLATION.md](TRANSLATION.md) for a guide on contributing translations.
+
+If a page does not have complete translations, add the language code to the `i18nwarnings` array in the front matter for the page. For example: `i18nwarnings = [ "fr", "ru" ]` will display a bar at the top of the page asking for translation contributions when the page is displayed in any of those languages. See [PR #50](https://github.com/NebulousLabs/sia.tech/pull/50) to see what this looks like.
 
 Site maintainers
 ----------------
