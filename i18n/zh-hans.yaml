@@ -537,48 +537,51 @@
   translation: "储存"
 
 - id: getstarted_storeiconp
-  translation: "我想用细亚来储存我的数据"
+  translation: "我想用细亚来储存我的数据" # TODO: update translation
 
 - id: getstarted_storeh
-  translation: "储存细亚币"
+  translation: "储存细亚币" # TODO: i18n: update translation
 
 - id: getstarted_storestep1
-  translation: "下载<a href=\"../apps\">细亚基地</a>"
+  translation: "下载<a href=\"../apps\">细亚基地</a>" # TODO: update translation
 
 - id: getstarted_storestep2
   translation: "拿到<a href=\"../get-siacoin\">细亚币</a>"
 
 - id: getstarted_storestep3
-  translation: "储存你的文件"
+  translation: "储存你的文件" # TODO: update translation
 
 ### farm ###
 - id: getstarted_farmiconh
-  translation: "矿场"
+  translation: "矿场" # TODO: update translation
 
 - id: getstarted_farmiconp
-  translation: "我想包租我的储存空间来换取细亚币"
+  translation: "我想包租我的储存空间来换取细亚币" # TODO: update translation
 
 - id: getstarted_farmh
-  translation: "细亚币矿场"
+  translation: "细亚币矿场" # TODO: update translation
 
 - id: getstarted_farmstep1
-  translation: "下载<a href=\"../apps\">细亚基地</a>"
+  translation: "下载<a href=\"../apps\">细亚基地</a>" # TODO: update translation
 
 - id: getstarted_farmstep2
-  translation: "制造一个储存的邀请"
+  translation: "制造一个储存的邀请" # TODO: update translation
 
 - id: getstarted_farmstep3
-  translation: "得到细亚币用文件合同"
+  translation: "得到细亚币用文件合同" # TODO: update translation
+
+- id: getstarted_farmstep4
+  translation: "Follow the <a href=\"http://blog.sia.tech/2016/05/26/how-to-run-a-host-on-sia/\">hosting guide</a>" # TODO: translate this
 
 ### mine ###
 - id: getstarted_mineiconh
   translation: "挖矿"
 
 - id: getstarted_mineiconp
-  translation: "我想挖细亚币和保护区块链"
+  translation: "我想挖细亚币和保护区块链" # TODO: update translation
 
 - id: getstarted_mineh
-  translation: "挖细亚币"
+  translation: "挖细亚币" # TODO: update translation
 
 - id: getstarted_minestep1
   translation: "下载<a href=\"../apps\">细亚矿工</a>"
@@ -591,19 +594,22 @@
 
 ### develop ###
 - id: getstarted_developiconh
-  translation: "研发"
+  translation: "研发" # TODO: update translation
 
 - id: getstarted_developiconp
-  translation: "我想用细亚来开发我的应用"
+  translation: "我想用细亚来开发我的应用" # TODO: update translation
 
 - id: getstarted_developh
-  translation: "开发细亚币"
+  translation: "开发细亚币" # TODO: update translation
 
 - id: getstarted_developstep1
-  translation: "加入我们"
+  translation: "加入我们 <a href=\"https://github.com/NebulousLabs/Sia/releases/latest\">Sia Daemon</a>" # TODO: update translation
 
 - id: getstarted_developstep2
-  translation: "咨询我们在<a href=\"https://github.com/NebulousLabs/Sia/tree/master/doc\">的文档资料</a>"
+  translation: "咨询我们在<a href=\"https://github.com/NebulousLabs/Sia/tree/master/doc\">的文档资料</a>" # TODO: update translation
 
 - id: getstarted_developstep3
-  translation: "用细亚来开发你的应用"
+  translation: "用细亚来开发你的应用" # TODO: update translation
+
+- id: getstarted_developstep4
+  translation: "Use Sia as your storage backend" # TODO: update translation

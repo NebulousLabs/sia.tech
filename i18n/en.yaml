@@ -549,48 +549,51 @@
   translation: "Store"
 
 - id: getstarted_storeiconp
-  translation: "I want to use Sia to store my data"
+  translation: "Store your files in the Sia cloud"
 
 - id: getstarted_storeh
-  translation: "To Store Siacoin"
+  translation: "Storing your files"
 
 - id: getstarted_storestep1
-  translation: "Download <a href=\"../apps\">Sia Homebase</a>"
+  translation: "Download <a href=\"../apps\">Sia-UI</a>"
 
 - id: getstarted_storestep2
   translation: "Get <a href=\"../get-siacoin\">Siacoin</a>"
 
 - id: getstarted_storestep3
-  translation: "Store your files"
+  translation: "Upload your files using Sia"
 
 ### farm ###
 - id: getstarted_farmiconh
-  translation: "Farm"
+  translation: "Host"
 
 - id: getstarted_farmiconp
-  translation: "I want to farm my storage space for Siacoin"
+  translation: "Get paid for your storage space"
 
 - id: getstarted_farmh
-  translation: "To Farm Siacoin"
+  translation: "Earning Siacoin"
 
 - id: getstarted_farmstep1
-  translation: "Download <a href=\"../apps\">Sia Homebase</a>"
+  translation: "Download <a href=\"../apps\">Sia-UI</a>"
 
 - id: getstarted_farmstep2
-  translation: "Create a storage offer"
+  translation: "Choose your storage price"
 
 - id: getstarted_farmstep3
-  translation: "Get Siacoin with file contracts"
+  translation: "Earn Siacoin from other Sia users"
+
+- id: getstarted_farmstep4
+  translation: "Follow the <a href=\"http://blog.sia.tech/2016/05/26/how-to-run-a-host-on-sia/\">hosting guide</a>"
 
 ### mine ###
 - id: getstarted_mineiconh
   translation: "Mine"
 
 - id: getstarted_mineiconp
-  translation: "I want to mine Siacoin and secure the blockchain"
+  translation: "Mine Siacoin and secure the blockchain"
 
 - id: getstarted_mineh
-  translation: "To Mine Siacoin"
+  translation: "Mining Siacoin"
 
 - id: getstarted_minestep1
   translation: "Download <a href=\"../apps\">Sia Miner</a>"
@@ -603,19 +606,22 @@
 
 ### develop ###
 - id: getstarted_developiconh
-  translation: "Develop"
+  translation: "API"
 
 - id: getstarted_developiconp
-  translation: "I want to use Sia for my applications"
+  translation: "Use Sia as the storage backend for your applications"
 
 - id: getstarted_developh
-  translation: "To Develop on Sia"
+  translation: "Using Sia's API"
 
 - id: getstarted_developstep1
-  translation: "Join our"
+  translation: "Download the <a href=\"https://github.com/NebulousLabs/Sia/releases/latest\">Sia Daemon</a>"
 
 - id: getstarted_developstep2
-  translation: "Consult our <a href=\"https://github.com/NebulousLabs/Sia/tree/master/doc\">documentation</a>"
+  translation: "Follow the <a href=\"http://blog.sia.tech/2016/10/20/api-quickstart-guide\">API quickstart guide</a>"
 
 - id: getstarted_developstep3
-  translation: "Use Sia for your applications"
+  translation: "Browse the <a href=\"https://github.com/NebulousLabs/Sia/tree/master/doc\">API documentation</a>"
+
+- id: getstarted_developstep4
+  translation: "Use Sia as your storage backend"
