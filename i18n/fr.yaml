@@ -537,48 +537,51 @@
   translation: "Magasin" # TODO: i18n: is this translation correct? It seems to be the wrong translation of store (this translation seems to mean shop, not storage)
 
 - id: getstarted_storeiconp
-  translation: "Je veux utiliser Sia pour stocker mes données"
+  translation: "Je veux utiliser Sia pour stocker mes données" # TODO: i18n: update translation
 
 - id: getstarted_storeh
-  translation: "Emmagasiner mes Siacoins" # TODO: i18n: is this translation correct? It seems to be the wrong translation of store (see TODO for "Magasin" above)
+  translation: "Emmagasiner mes Siacoins" # TODO: i18n: update translation
 
 - id: getstarted_storestep1
-  translation: "Télécharger <a href=\"../apps\">Sia Homebase</a>"
+  translation: "Télécharger <a href=\"../apps\">Sia-UI</a>"
 
 - id: getstarted_storestep2
   translation: "Obtenez <a href=\"../get-siacoin\">Siacoin</a>"
 
 - id: getstarted_storestep3
-  translation: "Stockez vos fichiers"
+  translation: "Stockez vos fichiers" # TODO: i18n: update translation
 
 ### farm ###
 - id: getstarted_farmiconh
-  translation: "Agriculturer"
+  translation: "Agriculturer" # TODO: update translation
 
 - id: getstarted_farmiconp
-  translation: "Je veux cultiver mon espace de stockage pour des SiaCoins"
+  translation: "Je veux cultiver mon espace de stockage pour des Siacoins" # TODO: update translation
 
 - id: getstarted_farmh
-  translation: "Agriculturez des Siacoins"
+  translation: "Agriculturez des Siacoins" # TODO: update translation
 
 - id: getstarted_farmstep1
-  translation: "Télécharger <a href=\"../apps\">Sia Homebase</a>"
+  translation: "Télécharger <a href=\"../apps\">Sia-UI</a>"
 
 - id: getstarted_farmstep2
-  translation: "Créez une offre de stockage"
+  translation: "Créez une offre de stockage" # TODO: update translation
 
 - id: getstarted_farmstep3
-  translation: "Obtenez Siacoin avec des contrats de fichiers"
+  translation: "Obtenez Siacoin avec des contrats de fichiers" # TODO: update translation
+
+- id: getstarted_farmstep4
+  translation: "Follow the <a href=\"http://blog.sia.tech/2016/05/26/how-to-run-a-host-on-sia/\">hosting guide</a>" # TODO: translate this
 
 ### mine ###
 - id: getstarted_mineiconh
   translation: "Miner"
 
 - id: getstarted_mineiconp
-  translation: "Je veux miner des SiaCoins et sécuriser le blockchain"
+  translation: "Je veux miner des SiaCoins et sécuriser le blockchain" # TODO: update translation
 
 - id: getstarted_mineh
-  translation: "Pour Miner des Siacoin"
+  translation: "Pour Miner des Siacoin" # TODO: update translation
 
 - id: getstarted_minestep1
   translation: "Télécharger <a href=\"../apps\">Sia Miner</a>"
@@ -591,19 +594,22 @@
 
 ### develop ###
 - id: getstarted_developiconh
-  translation: "Développer"
+  translation: "Développer" # TODO: update translation
 
 - id: getstarted_developiconp
-  translation: "Je veux utiliser Sia pour mes applications"
+  translation: "Je veux utiliser Sia pour mes applications" # TODO: update translation
 
 - id: getstarted_developh
-  translation: "Pour Développer sur Siacoin"
+  translation: "Pour Développer sur Siacoin" # TODO: update translation
 
 - id: getstarted_developstep1
-  translation: "Joignez-vous à notre"
+  translation: "Joignez-vous à notre <a href=\"https://github.com/NebulousLabs/Sia/releases/latest\">Sia Daemon</a>" # TODO: update translation
 
 - id: getstarted_developstep2
-  translation: "Consultez notre <a href=\"https://github.com/NebulousLabs/Sia/tree/master/doc\">documentation</a>"
+  translation: "Consultez notre <a href=\"https://github.com/NebulousLabs/Sia/tree/master/doc\">documentation</a>" # TODO: update translation
 
 - id: getstarted_developstep3
-  translation: "Utilisez Sia pour vos applications"
+  translation: "Utilisez Sia pour vos applications" # TODO: update translation
+
+- id: getstarted_developstep4
+  translation: "Use Sia as your storage backend" # TODO: update translation
