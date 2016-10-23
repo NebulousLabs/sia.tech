@@ -10,10 +10,9 @@ type = "index"
         <h1>{{% i18n "index_bigheader2" %}}</h1>
         <h3>{{% i18n "index_bigheader3" %}}</h3>
         <p>
-          <a class="btn btn-lg" href="https://github.com/NebulousLabs/Sia-UI/releases/latest" role="button" target="_blank">{{% i18n "index_downloadbtn" %}}</a>
-          <a class="btn btn-lg" href="/about" role="button" target="_blank">{{% i18n "index_videobtn" %}}</a>
+          <a class="btn btn-lg" href="{{ .LanguagePrefix }}/get-started" role="button" target="_blank">{{% i18n "index_bigbtn1" %}}</a>
+          <a class="btn btn-lg" href="{{ .LanguagePrefix }}/about" role="button" target="_blank">{{% i18n "index_bigbtn2" %}}</a>
         </p>
-        <p><a href="/get-started">{{% i18n "index_gettingstarted" %}}</a></p>
       </div>
       <div class="col-lg-4 droplet"></div>
     </div>

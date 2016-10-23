@@ -99,28 +99,28 @@
 
 ### info section ###
 - id: index_infoheader
-  translation: "细亚可以把传统的储存踢出云端"
+  translation: "细亚可以把传统的储存踢出云端" # TODO: i18n: update translation
 
 - id: index_infosubheader
-  translation: "回到你的手上"
-
-- id: index_infosection1h
-  translation: "经济体"
-
-- id: index_infosection1p
-  translation: "细亚是个共享的经济体。你可以根据你的角色和要求来取得，使用，和交易细亚币。你可以是个用户，耕种者，矿工和节点管理者。"
-
-- id: index_infosection2h
-  translation: "分散的"
-
-- id: index_infosection2p
-  translation: "去中心化意味着你的数据分布储存在多个节点然后由自动智能合约来跟踪。不会有单点崩溃。"
+  translation: "回到你的手上" # TODO: i18n: update translation
 
 - id: index_infosection3h
-  translation: "构建"
+  translation: "经济体" # TODO: i18n: update translation
 
 - id: index_infosection3p
-  translation: "构建和把你自己的应用和细亚相连来利用它的储存能力和功能来以小博大。你所付和你所得到的在第一时间被调整。"
+  translation: "细亚是个共享的经济体。你可以根据你的角色和要求来取得，使用，和交易细亚币。你可以是个用户，耕种者，矿工和节点管理者。" # TODO: i18n: update translation
+
+- id: index_infosection2h
+  translation: "分散的" # TODO: i18n: update translation
+
+- id: index_infosection2p
+  translation: "去中心化意味着你的数据分布储存在多个节点然后由自动智能合约来跟踪。不会有单点崩溃。" # TODO: i18n: update translation
+
+- id: index_infosection1h
+  translation: "构建" # TODO: i18n: update translation
+
+- id: index_infosection1p
+  translation: "构建和把你自己的应用和细亚相连来利用它的储存能力和功能来以小博大。你所付和你所得到的在第一时间被调整。" # TODO: i18n: update translation
 
 ### explorer stats section ###
 - id: index_statsheader

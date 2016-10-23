@@ -99,28 +99,28 @@
 
 ### info section ###
 - id: index_infoheader
-  translation: "細亞可以把傳統的儲存踢出雲端"
+  translation: "細亞可以把傳統的儲存踢出雲端" # TODO: i18n: update translation
 
 - id: index_infosubheader
-  translation: "回到你的手上"
-
-- id: index_infosection1h
-  translation: "經濟體"
-
-- id: index_infosection1p
-  translation: "細亞是個共享的經濟體。你可以根據你的角色和要求來取得，使用，和交易細亞幣。你可以是個用戶，耕種者，礦工和節點管理者。"
-
-- id: index_infosection2h
-  translation: "分散的"
-
-- id: index_infosection2p
-  translation: "去中心化意味著你的數據分布儲存在多個節點然後由自動智能合約來跟蹤。不會有單點崩潰。"
+  translation: "回到你的手上" # TODO: i18n: update translation
 
 - id: index_infosection3h
-  translation: "構建"
+  translation: "經濟體" # TODO: i18n: update translation
 
 - id: index_infosection3p
-  translation: "構建和把你自己的應用和細亞相連來利用它的儲存能力和功能來以小博大。你所付和你所得到的在第一時間被調整。"
+  translation: "細亞是個共享的經濟體。你可以根據你的角色和要求來取得，使用，和交易細亞幣。你可以是個用戶，耕種者，礦工和節點管理者。" # TODO: i18n: update translation
+
+- id: index_infosection2h
+  translation: "分散的" # TODO: i18n: update translation
+
+- id: index_infosection2p
+  translation: "去中心化意味著你的數據分布儲存在多個節點然後由自動智能合約來跟蹤。不會有單點崩潰。" # TODO: i18n: update translation
+
+- id: index_infosection1h
+  translation: "構建" # TODO: i18n: update translation
+
+- id: index_infosection1p
+  translation: "構建和把你自己的應用和細亞相連來利用它的儲存能力和功能來以小博大。你所付和你所得到的在第一時間被調整。" # TODO: i18n: update translation
 
 ### explorer stats section ###
 - id: index_statsheader

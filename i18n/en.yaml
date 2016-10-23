@@ -92,22 +92,19 @@
 # URL: /index.html
 ### big header ###
 - id: index_bigheader1
-  translation: "Enterprise-Grade"
+  translation: "Sia is the"
 
 - id: index_bigheader2
-  translation: "Collaborative Cloud"
+  translation: "Decentralized Cloud"
 
 - id: index_bigheader3
-  translation: "for Data Storage"
+  translation: "as your Storage Backend"
 
-- id: index_downloadbtn
-  translation: "Download now"
+- id: index_bigbtn1
+  translation: "Get started"
 
-- id: index_videobtn
+- id: index_bigbtn2
   translation: "Watch video"
-
-- id: index_gettingstarted
-  translation: "Need help getting started?"
 
 ### info section ###
 - id: index_infoheader
