@@ -108,28 +108,25 @@
 
 ### info section ###
 - id: index_infoheader
-  translation: "Sia blows traditional storage out of the cloud"
-
-- id: index_infosubheader
-  translation: "AND BACK INTO YOUR HANDS"
-
-- id: index_infosection1h
-  translation: "Economy"
-
-- id: index_infosection1p
-  translation: "Sia is a shared economy. Acquire, use, and trade SiaCoin according to your role and requirements. Participate as a user, farmer, miner, and node operator."
-
-- id: index_infosection2h
-  translation: "Distributed"
-
-- id: index_infosection2p
-  translation: "Decentralization means your data is stored across multiple nodes and tracked by automated smart contracts. There is no central point of failure."
+  translation: "Sia is…"
 
 - id: index_infosection3h
-  translation: "Build"
+  translation: "Cheap"
 
 - id: index_infosection3p
-  translation: "Build and connect your own apps to Sia to leverage its storage capacity and features. What you pay and what you get are adjusted in real time."
+  translation: "Sia is a storage marketplace. The price of storage on the network is determined by the free market equilibrium, often well below the price of centralized storage solutions."
+
+- id: index_infosection2h
+  translation: "Decentralized"
+
+- id: index_infosection2p
+  translation: "Sia is a decentralized network consisting of many nodes around the world. Data is stored redundantly on a diverse subset of these nodes, meaning there’s no single or central point of failure."
+
+- id: index_infosection1h
+  translation: "Made for Developers"
+
+- id: index_infosection1p
+  translation: "Sia was made to be integrated as your storage backend. You only pay for the storage you use, and there is no commitment. Get started with our <a href=\"http://blog.sia.tech/2016/10/20/api-quickstart-guide/\">API Quickstart Guide</a>."
 
 ### explorer stats section ###
 - id: index_statsheader
