@@ -122,6 +122,10 @@
 - id: index_infosection1p
   translation: "Разрабатывайте и подключайте ваши приложения к Sia, для того чтобы полностью использовать возможности хранения. Вы можете увидеть как ваши затраты и доходы корректируются в режиме реального времени." # TODO: i18n: update translation
 
+### video section ###
+- id: index_videoheader
+  translation: "Introduction to Sia" # TODO: i18n: translate this
+
 ### explorer stats section ###
 - id: index_statsheader
   translation: "Статистика сети"

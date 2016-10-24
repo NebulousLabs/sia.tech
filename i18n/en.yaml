@@ -108,7 +108,10 @@
 
 ### info section ###
 - id: index_infoheader
-  translation: "Sia is…"
+  translation: "What is Sia?"
+
+- id: index_infosubheader
+  translation: "A storage marketplace enabling buyers to rent storage from sellers with extra storage"
 
 - id: index_infosection3h
   translation: "Cheap"
@@ -127,6 +130,10 @@
 
 - id: index_infosection1p
   translation: "Sia was made to be integrated as your storage backend. You only pay for the storage you use, and there is no commitment. Get started with our <a href=\"http://blog.sia.tech/2016/10/20/api-quickstart-guide/\">API Quickstart Guide</a>."
+
+### video section ###
+- id: index_videoheader
+  translation: "Introduction to Sia"
 
 ### explorer stats section ###
 - id: index_statsheader

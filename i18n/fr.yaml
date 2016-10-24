@@ -122,6 +122,10 @@
 - id: index_infosection1p
   translation: "Construire et connecter vos propres applications à Sia pour tirer partie de sa capacité de stockage et de ces fonctionnalités. Ce que vous payez et ce que vous obtenez sont ajustés en temps réel." # TODO: i18n: update translation
 
+### video section ###
+- id: index_videoheader
+  translation: "Introduction to Sia" # TODO: i18n: translate this
+
 ### explorer stats section ###
 - id: index_statsheader
   translation: "Réseau Pulse" # TODO: i18n: is this translation okay?

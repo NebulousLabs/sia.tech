@@ -122,6 +122,10 @@
 - id: index_infosection1p
   translation: "构建和把你自己的应用和细亚相连来利用它的储存能力和功能来以小博大。你所付和你所得到的在第一时间被调整。" # TODO: i18n: update translation
 
+### video section ###
+- id: index_videoheader
+  translation: "Introduction to Sia" # TODO: i18n: translate this
+
 ### explorer stats section ###
 - id: index_statsheader
   translation: "网络脉搏"
