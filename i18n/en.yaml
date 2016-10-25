@@ -154,6 +154,9 @@
 - id: index_stat3unit
   translation: "Billion"
 
+- id: index_stat4unit
+  translation: "Million"
+
 - id: index_morestats
   translation: "more stats"
 
