@@ -610,10 +610,13 @@
   translation: "Присоединяйтесь <a href=\"https://github.com/NebulousLabs/Sia/releases/latest\">Sia Daemon</a>" # TODO: update translation
 
 - id: getstarted_developstep2
-  translation: "Ознакомьтесь с нашей <a href=\"https://github.com/NebulousLabs/Sia/tree/master/doc\">документацией</a>" # TODO: update translation
+  translation: "Получайте <a href=\"../get-siacoin\">Siacoin</a>"
 
 - id: getstarted_developstep3
-  translation: "Используйте Sia для ваших приложений" # TODO: update translation
+  translation: "Ознакомьтесь с нашей <a href=\"https://github.com/NebulousLabs/Sia/tree/master/doc\">документацией</a>" # TODO: update translation
 
 - id: getstarted_developstep4
+  translation: "Используйте Sia для ваших приложений" # TODO: update translation
+
+- id: getstarted_developstep5
   translation: "Use Sia as your storage backend" # TODO: update translation

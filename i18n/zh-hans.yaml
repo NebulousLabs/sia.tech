@@ -610,10 +610,13 @@
   translation: "加入我们 <a href=\"https://github.com/NebulousLabs/Sia/releases/latest\">Sia Daemon</a>" # TODO: update translation
 
 - id: getstarted_developstep2
-  translation: "咨询我们在<a href=\"https://github.com/NebulousLabs/Sia/tree/master/doc\">的文档资料</a>" # TODO: update translation
+  translation: "拿到<a href=\"../get-siacoin\">细亚币</a>"
 
 - id: getstarted_developstep3
-  translation: "用细亚来开发你的应用" # TODO: update translation
+  translation: "咨询我们在<a href=\"https://github.com/NebulousLabs/Sia/tree/master/doc\">的文档资料</a>" # TODO: update translation
 
 - id: getstarted_developstep4
+  translation: "用细亚来开发你的应用" # TODO: update translation
+
+- id: getstarted_developstep5
   translation: "Use Sia as your storage backend" # TODO: update translation

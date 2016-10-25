@@ -619,10 +619,13 @@
   translation: "Download the <a href=\"https://github.com/NebulousLabs/Sia/releases/latest\">Sia Daemon</a>"
 
 - id: getstarted_developstep2
-  translation: "Follow the <a href=\"http://blog.sia.tech/2016/10/20/api-quickstart-guide\">API quickstart guide</a>"
+  translation: "Get <a href=\"../get-siacoin\">Siacoin</a>"
 
 - id: getstarted_developstep3
-  translation: "Browse the <a href=\"https://github.com/NebulousLabs/Sia/tree/master/doc\">API documentation</a>"
+  translation: "Follow the <a href=\"http://blog.sia.tech/2016/10/20/api-quickstart-guide\">API quickstart guide</a>"
 
 - id: getstarted_developstep4
+  translation: "Browse the <a href=\"https://github.com/NebulousLabs/Sia/tree/master/doc\">API documentation</a>"
+
+- id: getstarted_developstep5
   translation: "Use Sia as your storage backend"
