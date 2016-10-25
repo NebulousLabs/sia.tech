@@ -9,7 +9,6 @@
   {{ template "_internal/google_analytics_async.html" . }}
 </head>
 <body>
-  {{ partial "ama.html" . }}
   {{ if .Params.i18nwarnings }}
     {{ $pagelang := .Lang }}
     {{ range $lang := .Params.i18nwarnings }}
