@@ -99,28 +99,32 @@
 
 ### info section ###
 - id: index_infoheader
-  translation: "Sia ломает представления об облачных хранилищах"
+  translation: "Sia ломает представления об облачных хранилищах" # TODO: i18n: update translation
 
 - id: index_infosubheader
-  translation: "И ВОЗВРАЩАЕТ ДАННЫЕ В ВАШИ РУКИ"
-
-- id: index_infosection1h
-  translation: "Экономика"
-
-- id: index_infosection1p
-  translation: "Sia - это экономика совместного потребления. Покупайте, используйте и торгуйте саякойнами в зависимости от вашей роли и необходимых задач. Участвуйте в качестве пользователя, хостера, майнера или оператора узла."
-
-- id: index_infosection2h
-  translation: "Распределенная"
-
-- id: index_infosection2p
-  translation: "Децентрализация означает что ваши данные хранятся на нескольких узлах и отслеживаются с помощью автоматизированных умных контрактов. Таким образом, не существует проблемы единой точки отказа."
+  translation: "И ВОЗВРАЩАЕТ ДАННЫЕ В ВАШИ РУКИ" # TODO: i18n: update translation
 
 - id: index_infosection3h
-  translation: "Разработка"
+  translation: "Экономика" # TODO: i18n: update translation
 
 - id: index_infosection3p
-  translation: "Разрабатывайте и подключайте ваши приложения к Sia, для того чтобы полностью использовать возможности хранения. Вы можете увидеть как ваши затраты и доходы корректируются в режиме реального времени."
+  translation: "Sia - это экономика совместного потребления. Покупайте, используйте и торгуйте саякойнами в зависимости от вашей роли и необходимых задач. Участвуйте в качестве пользователя, хостера, майнера или оператора узла." # TODO: i18n: update translation
+
+- id: index_infosection2h
+  translation: "Распределенная" # TODO: i18n: update translation
+
+- id: index_infosection2p
+  translation: "Децентрализация означает что ваши данные хранятся на нескольких узлах и отслеживаются с помощью автоматизированных умных контрактов. Таким образом, не существует проблемы единой точки отказа." # TODO: i18n: update translation
+
+- id: index_infosection1h
+  translation: "Разработка" # TODO: i18n: update translation
+
+- id: index_infosection1p
+  translation: "Разрабатывайте и подключайте ваши приложения к Sia, для того чтобы полностью использовать возможности хранения. Вы можете увидеть как ваши затраты и доходы корректируются в режиме реального времени." # TODO: i18n: update translation
+
+### video section ###
+- id: index_videoheader
+  translation: "How Sia Works" # TODO: i18n: translate this
 
 ### explorer stats section ###
 - id: index_statsheader
@@ -606,10 +610,13 @@
   translation: "Присоединяйтесь <a href=\"https://github.com/NebulousLabs/Sia/releases/latest\">Sia Daemon</a>" # TODO: update translation
 
 - id: getstarted_developstep2
-  translation: "Ознакомьтесь с нашей <a href=\"https://github.com/NebulousLabs/Sia/tree/master/doc\">документацией</a>" # TODO: update translation
+  translation: "Получайте <a href=\"../get-siacoin\">Siacoin</a>"
 
 - id: getstarted_developstep3
-  translation: "Используйте Sia для ваших приложений" # TODO: update translation
+  translation: "Ознакомьтесь с нашей <a href=\"https://github.com/NebulousLabs/Sia/tree/master/doc\">документацией</a>" # TODO: update translation
 
 - id: getstarted_developstep4
+  translation: "Используйте Sia для ваших приложений" # TODO: update translation
+
+- id: getstarted_developstep5
   translation: "Use Sia as your storage backend" # TODO: update translation

@@ -99,28 +99,32 @@
 
 ### info section ###
 - id: index_infoheader
-  translation: "Sia détruit le destockage traditionnel sur le nuage"
+  translation: "Sia détruit le destockage traditionnel sur le nuage" # TODO: i18n: update translation
 
 - id: index_infosubheader
-  translation: "et le retourne dans vos mains"
-
-- id: index_infosection1h
-  translation: "Économie"
-
-- id: index_infosection1p
-  translation: "Sia est une économie partagée. Acquérir, utiliser et échanger des SiaCoins selon votre rôle et vos exigences. Participer en tant qu'utilisateur, agriculteur, mineur, et opérateur de noeud."
-
-- id: index_infosection2h
-  translation: "Distribué"
-
-- id: index_infosection2p
-  translation: "La décentralisation signifie que vos données sont stockées sur plusieurs nœuds et suivis par des contrats intelligents automatisés. Il n'y a pas de point central de l'échec."
+  translation: "et le retourne dans vos mains" # TODO: i18n: update translation
 
 - id: index_infosection3h
-  translation: "Construire"
+  translation: "Économie" # TODO: i18n: update translation
 
 - id: index_infosection3p
-  translation: "Construire et connecter vos propres applications à Sia pour tirer partie de sa capacité de stockage et de ces fonctionnalités. Ce que vous payez et ce que vous obtenez sont ajustés en temps réel."
+  translation: "Sia est une économie partagée. Acquérir, utiliser et échanger des SiaCoins selon votre rôle et vos exigences. Participer en tant qu'utilisateur, agriculteur, mineur, et opérateur de noeud." # TODO: i18n: update translation
+
+- id: index_infosection2h
+  translation: "Distribué" # TODO: i18n: update translation
+
+- id: index_infosection2p
+  translation: "La décentralisation signifie que vos données sont stockées sur plusieurs nœuds et suivis par des contrats intelligents automatisés. Il n'y a pas de point central de l'échec." # TODO: i18n: update translation
+
+- id: index_infosection1h
+  translation: "Construire" # TODO: i18n: update translation
+
+- id: index_infosection1p
+  translation: "Construire et connecter vos propres applications à Sia pour tirer partie de sa capacité de stockage et de ces fonctionnalités. Ce que vous payez et ce que vous obtenez sont ajustés en temps réel." # TODO: i18n: update translation
+
+### video section ###
+- id: index_videoheader
+  translation: "How Sia Works" # TODO: i18n: translate this
 
 ### explorer stats section ###
 - id: index_statsheader
@@ -606,10 +610,13 @@
   translation: "Joignez-vous à notre <a href=\"https://github.com/NebulousLabs/Sia/releases/latest\">Sia Daemon</a>" # TODO: update translation
 
 - id: getstarted_developstep2
-  translation: "Consultez notre <a href=\"https://github.com/NebulousLabs/Sia/tree/master/doc\">documentation</a>" # TODO: update translation
+  translation: "Obtenez <a href=\"../get-siacoin\">Siacoin</a>"
 
 - id: getstarted_developstep3
-  translation: "Utilisez Sia pour vos applications" # TODO: update translation
+  translation: "Consultez notre <a href=\"https://github.com/NebulousLabs/Sia/tree/master/doc\">documentation</a>" # TODO: update translation
 
 - id: getstarted_developstep4
+  translation: "Utilisez Sia pour vos applications" # TODO: update translation
+
+- id: getstarted_developstep5
   translation: "Use Sia as your storage backend" # TODO: update translation
