@@ -134,7 +134,7 @@
   translation: "Всего файловых контрактов"
 
 - id: index_stat2h
-  translation: "Общий размер контрактов"
+  translation: "Общий размер контрактов" # TODO: update translation
 
 - id: index_stat2unit
   translation: "TB"
@@ -144,6 +144,9 @@
 
 - id: index_stat3unit
   translation: "Миллиард"
+
+- id: index_stat4unit
+  translation: "Million SC" # TODO: translate this
 
 - id: index_morestats
   translation: "подробная статистика"
