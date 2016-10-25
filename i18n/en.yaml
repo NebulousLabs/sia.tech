@@ -111,13 +111,13 @@
   translation: "What is Sia?"
 
 - id: index_infosubheader
-  translation: "A storage marketplace enabling buyers to rent storage from sellers with extra storage"
+  translation: "A storage marketplace enabling buyers to rent space from sellers with extra disk space"
 
 - id: index_infosection3h
-  translation: "Cheap"
+  translation: "Competitively Priced"
 
 - id: index_infosection3p
-  translation: "Sia is a storage marketplace. The price of storage on the network is determined by the free market equilibrium, often well below the price of centralized storage solutions."
+  translation: "Sia is a storage marketplace. The price of storage on the network is determined by the free market equilibrium, often well below the price of centralized storage. <a href=\"/img/png/comparison-table.png\">Compare Sia to other storage solutions</a>."
 
 - id: index_infosection2h
   translation: "Decentralized"
@@ -133,7 +133,7 @@
 
 ### video section ###
 - id: index_videoheader
-  translation: "Introduction to Sia"
+  translation: "How Sia Works"
 
 ### explorer stats section ###
 - id: index_statsheader
