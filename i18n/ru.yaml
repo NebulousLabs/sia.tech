@@ -3,7 +3,7 @@
   translation: "О проекте"
 
 - id: title_apps
-  translation: "Приложения"
+  translation: "Приложения" # TODO: i18n: update translation
 
 - id: title_faq
   translation: "FAQ" # TODO: i18n: is this translation correct?
@@ -228,7 +228,7 @@
 # URL: /apps/index.html
 ### header ###
 - id: apps_header
-  translation: "Приложения"
+  translation: "Приложения" # TODO: i18n: update translation
 
 - id: apps_subheader
   translation: "СКАЧАТЬ ПОСЛЕДНЮЮ ВЕРСИЮ"

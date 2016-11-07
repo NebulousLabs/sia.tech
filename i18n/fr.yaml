@@ -3,7 +3,7 @@
   translation: "À propos"
 
 - id: title_apps
-  translation: "Apps" # TODO: i18n: is this translation okay?
+  translation: "Download" # TODO: i18n: translate this
 
 - id: title_faq
   translation: "FAQ" # TODO: i18n: is this translation okay?
@@ -228,7 +228,7 @@
 # URL: /apps/index.html
 ### header ###
 - id: apps_header
-  translation: "Apps" # TODO: i18n: is this translation okay?
+  translation: "Download" # TODO: i18n: translate this
 
 - id: apps_subheader
   translation: "Téléchargez les dernières versions"

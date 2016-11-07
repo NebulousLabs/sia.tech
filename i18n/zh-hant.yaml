@@ -3,7 +3,7 @@
   translation: "關于"
 
 - id: title_apps
-  translation: "應用"
+  translation: "應用" # TODO: i18n: update translation
 
 - id: title_faq
   translation: "經常問到的問題"
@@ -228,7 +228,7 @@
 # URL: /apps/index.html
 ### header ###
 - id: apps_header
-  translation: "應用"
+  translation: "應用" # TODO: i18n: update translation
 
 - id: apps_subheader
   translation: "下載最新的發布版本"
