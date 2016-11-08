@@ -134,7 +134,7 @@
   translation: "所有文件合同"
 
 - id: index_stat2h
-  translation: "所有合同大小"
+  translation: "所有合同大小" # TODO: update translation
 
 - id: index_stat2unit
   translation: "TB" # TODO: i18n: is this translation correct?
@@ -144,6 +144,9 @@
 
 - id: index_stat3unit
   translation: "十亿"
+
+- id: index_stat4unit
+  translation: "Million SC" # TODO: translate this
 
 - id: index_morestats
   translation: "更多的数据"

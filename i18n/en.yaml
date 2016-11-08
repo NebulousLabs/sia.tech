@@ -143,7 +143,7 @@
   translation: "Total File Contracts"
 
 - id: index_stat2h
-  translation: "Total Contract Size"
+  translation: "Total Contract Cost"
 
 - id: index_stat2unit
   translation: "TB"
@@ -153,6 +153,9 @@
 
 - id: index_stat3unit
   translation: "Billion"
+
+- id: index_stat4unit
+  translation: "Million SC"
 
 - id: index_morestats
   translation: "more stats"

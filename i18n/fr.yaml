@@ -134,7 +134,7 @@
   translation: "Total des contrats de fichiers"
 
 - id: index_stat2h
-  translation: "Taille totale des Contrats"
+  translation: "Taille totale des Contrats" # TODO: update translation
 
 - id: index_stat2unit
   translation: "TB"
@@ -144,6 +144,9 @@
 
 - id: index_stat3unit
   translation: "Milliard"
+
+- id: index_stat4unit
+  translation: "Million SC"
 
 - id: index_morestats
   translation: "plus de statistiques"
