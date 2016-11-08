@@ -238,28 +238,25 @@
 
 # URL: /apps/index.html
 ### header ###
-- id: apps_header
-  translation: "Download"
+- id: apps_uiheader
+  translation: "Sia-UI"
 
-- id: apps_subheader
-  translation: "DOWNLOAD THE LATEST RELEASES"
+- id: apps_uisubheader
+  translation: "Includes wallet, filebrowser, and host plugins"
 
-### sia apps ###
-- id: apps_sia1
-  translation: "Store your data"
+- id: apps_daemonheader
+  translation: "Sia Daemon"
 
-- id: apps_sia2
-  translation: "The official wallet for Siacoin"
+- id: apps_daemonsubheader
+  translation: "For developers"
 
-- id: apps_sia3
-  translation: "Rent your storage space and receive Siacoin"
+- id: apps_minerheader
+  translation: "Miners"
 
-- id: apps_sia4
-  translation: "Verify and relay transactions"
+- id: apps_builtheader
+  translation: "Built on Sia"
 
-- id: apps_sia5
-  translation: "Secure the network"
-
+### miner ###
 - id: apps_download
   translation: "Download"
 
@@ -267,16 +264,16 @@
   translation: "Miner"
 
 - id: apps_miner1
-  translation: "Verify and relay transactions"
-
-- id: apps_miner2
-  translation: "Secure the blockchain and receive Siacoin"
+  translation: "The official GPU miner"
 
 - id: apps_altminer
   translation: "Alternate Miner"
 
 - id: apps_altminer1
-  translation: "A GPU miner for Sia in Go."
+  translation: "A GPU miner for Sia in Go"
+
+- id: apps_sourcecode
+  translation: "Source code on GitHub"
 
 ### built on sia ###
 - id: apps_builtheader
@@ -286,10 +283,10 @@
   translation: "Block explorer"
 
 - id: apps_explorerp
-  translation: "Sia Blockchain Explorer."
+  translation: "Sia Blockchain Explorer"
 
-- id: apps_cryptip
-  translation: "DAPP platform using Sia as its storage layer."
+- id: apps_minebox
+  translation: "Next generation NAS powered by Sia"
 
 
 # URL: /faq.html
@@ -561,7 +558,7 @@
   translation: "Storing your files"
 
 - id: getstarted_storestep1
-  translation: "Download <a href=\"../apps\">Sia-UI</a>"
+  translation: "Download <a href=\"../apps/#ui\">Sia-UI</a>"
 
 - id: getstarted_storestep2
   translation: "Get <a href=\"../get-siacoin\">Siacoin</a>"
@@ -580,7 +577,7 @@
   translation: "Earning Siacoin"
 
 - id: getstarted_farmstep1
-  translation: "Download <a href=\"../apps\">Sia-UI</a>"
+  translation: "Download <a href=\"../apps/#ui\">Sia-UI</a>"
 
 - id: getstarted_farmstep2
   translation: "Choose your storage price"
@@ -602,7 +599,7 @@
   translation: "Mining Siacoin"
 
 - id: getstarted_minestep1
-  translation: "Download <a href=\"../apps\">Sia Miner</a>"
+  translation: "Download <a href=\"../apps/#miner\">Sia Miner</a>"
 
 - id: getstarted_minestep2
   translation: "Help secure the network"
@@ -621,7 +618,7 @@
   translation: "Using Sia's API"
 
 - id: getstarted_developstep1
-  translation: "Download the <a href=\"https://github.com/NebulousLabs/Sia/releases/latest\">Sia Daemon</a>"
+  translation: "Download the <a href=\"../apps/#daemon\">Sia Daemon</a>"
 
 - id: getstarted_developstep2
   translation: "Get <a href=\"../get-siacoin\">Siacoin</a>"
