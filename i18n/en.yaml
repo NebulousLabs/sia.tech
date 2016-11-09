@@ -253,9 +253,6 @@
 - id: apps_minerheader
   translation: "Miners"
 
-- id: apps_builtheader
-  translation: "Built on Sia"
-
 ### miner ###
 - id: apps_download
   translation: "Download"
@@ -287,6 +284,15 @@
 
 - id: apps_minebox
   translation: "Next generation NAS powered by Sia"
+
+- id: apps_siacluster
+  translation: "Data farm monitoring and management tool for Sia"
+
+- id: apps_gnomeshell
+  translation: "Sia Cloud Storage Extension for GNOME Shell"
+
+- id: apps_siapulse
+  translation: "Analytics tool for Sia"
 
 
 # URL: /faq.html
