@@ -242,7 +242,7 @@
   translation: "Sia-UI"
 
 - id: apps_uisubheader
-  translation: "Includes wallet, filebrowser, and host plugins"
+  translation: "For users"
 
 - id: apps_daemonheader
   translation: "Sia Daemon"
