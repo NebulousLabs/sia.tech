@@ -9,6 +9,8 @@
   translation: "中文"
 - id: zh-hant
   translation: "繁體中文"
+- id: de
+  translation: "Deutsch"
 
 # Titles
 - id: title_about
