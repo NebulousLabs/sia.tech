@@ -1,0 +1,622 @@
+# Titles
+- id: title_about
+  translation: "Über Uns"
+
+- id: title_apps
+  translation: "Apps"
+
+- id: title_faq
+  translation: "FAQ"
+
+- id: title_getsiacoin
+  translation: "Siacoin Erwerben"
+
+- id: title_getstarted
+  translation: "Loslegen"
+
+- id: title_roadmap
+  translation: "Fahrplan"
+
+
+# Partials
+### header ###
+- id: header_community
+  translation: "Community"
+
+- id: header_getsiacoin
+  translation: "SIACOIN ERWERBEN"
+
+### discover ###
+- id: discover_header
+  translation: "Mehr entdecken"
+
+- id: discover_whitepaper
+  translation: "Konzeptpapier"
+
+- id: discover_blog
+  translation: "Blog"
+
+- id: discover_explorer
+  translation: "Blockchain Explorer"
+
+- id: discover_devdocs
+  translation: "Entwickler-Dokumente"
+
+### footer ###
+- id: footer_navheader
+  translation: "Was ist Sia?"
+
+- id: footer_moreheader
+  translation: "Mehr über Sia"
+
+- id: footer_docs
+  translation: "Dokumente"
+
+- id: footer_blog
+  translation: "Blog"
+
+- id: footer_forum
+  translation: "Forum"
+
+- id: footer_siatalk
+  translation: "#siatalk auf irc.freenode.net"
+
+- id: footer_backedby
+  translation: "wird unterstützt durch"
+
+- id: footer_questions
+  translation: "Fragen zu Sia? Melden Sie sich bei uns!"
+
+- id: footer_contact
+  translation: "Kontakt"
+
+- id: footer_like
+  translation: "Mögen Sie uns"
+
+- id: footer_follow
+  translation: "Folgen Sie uns"
+
+
+# URL: /index.html
+### big header ###
+- id: index_bigheader1
+  translation: "Sia ist die"
+
+- id: index_bigheader2
+  translation: "Dezentrale Cloud"
+
+- id: index_bigheader3
+  translation: "als Ihr Speicher Back-End"
+
+- id: index_bigbtn1
+  translation: "Loslegen"
+
+- id: index_bigbtn2
+  translation: "Video anschauen"
+
+### info section ###
+- id: index_infoheader
+  translation: "Was ist Sia?"
+
+- id: index_infosubheader
+  translation: "Ein Marktplatz für Speicher der es einem Käufer ermöglicht, freien Speicherplatz von einem Verkäufer zu mieten"
+
+- id: index_infosection3h
+  translation: "Wettbewerbsfähig"
+
+- id: index_infosection3p
+  translation: "Sia ist ein Marktplatz für Speicher. Der Preis für freien Speicherplatz auf dem Netzwerk wird durch das Gleichgewicht des freien Marktes bestimmt, wobei er oft weit unter dem Preis von zentralisiertem Speicherplatz liegt. <a href=\"/img/png/comparison-table.png\">Vergleichen Sie Sia mit anderen Speicherlösungen</a>."
+
+- id: index_infosection2h
+  translation: "Verteilt"
+
+- id: index_infosection2p
+  translation: "Sia ist ein dezentrales Netzwerk, welches aus vielen Knotenpunkten auf der ganzen Welt besteht. Die Daten werden redundant auf einer Auswahl dieser Knoten gespeichert, so dass es keine einzelne oder zentrale Fehlerstelle geben kann."
+
+- id: index_infosection1h
+  translation: "Für Entwickler gemacht"
+
+- id: index_infosection1p
+  translation: "Sia wurde geschaffen um von Ihnen als Speicher Back-End integriert zu werden. Sie bezahlen nur für denjenigen Speicher den Sie wirklich benutzen und es gibt keine Verpflichtung. Starten Sie mit unserer <a href=\"http://blog.sia.tech/2016/10/20/api-quickstart-guide/\">API Schnellstart-Anleitung</a>."
+
+### video section ###
+- id: index_videoheader
+  translation: "Wie Sia funktioniert"
+
+### explorer stats section ###
+- id: index_statsheader
+  translation: "Netzwerk Puls"
+
+- id: index_stat1h
+  translation: "Anzahl Datei-Verträge"
+
+- id: index_stat2h
+  translation: "Gesamtkosten der Verträge"
+
+- id: index_stat2unit
+  translation: "TB"
+
+- id: index_stat3h
+  translation: "Gesamtanzahl Siacoins"
+
+- id: index_stat3unit
+  translation: "Milliarden"
+
+- id: index_stat4unit
+  translation: "Millionen SC"
+
+- id: index_morestats
+  translation: "mehr Statistiken"
+
+### mailing list ###
+- id: index_mailheader
+  translation: "Registrieren Sie sich für Sia Mitteilungen"
+
+- id: index_emailform
+  translation: "Email"
+
+- id: index_emailbtn
+  translation: "Registrieren"
+
+
+# URL: /about/index.html
+### header ###
+- id: about_header
+  translation: "Über uns"
+
+- id: about_subheader
+  translation: "UNSERE MISSION"
+
+### paragraphs ###
+- id: about_p1
+  translation: "Die Idee zu Sia wurde ursprünglich an der HackMIT 2013 geboren. Was wäre, wenn man den unbenutzten Speicherplatz freimachen und in einem weltweiten, freien Markt für Speicherplatz vereinen könnte?"
+
+- id: about_p2
+  translation: "Sia nutzt die Stärken der Blockchain-Technologie um zu ermöglichen, dass verteilte Netzwerke auf sichere Weise und ohne zusätzliche vertrauenswürdige Instanzen einen Konsens finden können. Kryptografisch gesicherte Verträge, sogenannte 'smart contracts', gewährleisten die Verschlüsselung und den Austausch von Daten, ohne dass Dritte diesen Austausch in irgendeiner Weise beeinflussen könnten."
+
+- id: about_p3
+  translation: "Sia ist ein neuer Ansatz für Cloud Speicher Plattformen. Anstatt dass Datenzentren von einer einzelnen Firma besitzt und verwaltet werden, öffnet Sia die Tore und ermöglicht Jedem selber Geld zu verdienen indem er seine Festplatte vermietet. Die Integrität der Daten ist mithilfe von Redundanz und Verschlüsselung gewährleistet."
+
+- id: about_p4
+  translation: "Das Versprechen von Sia ist ein dezentrales Netzwerk von Datenzentren, welche zusammengefasst die weltweit schnellste, günstigste und sicherste Cloudspeicher Plattform ergibt. Heutige Anbieter von Cloudspeicher benötigen Datenzentren, müssen auf dem Markt Vertrauen aufbauen, Kundenkontakt pflegen und müssen sich gegen Riesen wie Amazon, Google und Microsoft beweisen können."
+
+- id: about_p5
+  translation: "In diesen Markt einzusteigen ist ein Multi-Milliarden Dollar Unterfangen. Das langfristige Ziel von Sia ist es, das Rückgrat für die Speicherebene des Internets zu werden."
+
+- id: about_p6
+  translation: "Wir glauben, dass Daten frei sein sollten. Darum möchten wir die unbenutzten Bits dieser Welt befreien und daraus den grössten Speicher-Super-Server des ganzen Planeten bauen."
+
+### contact ###
+- id: about_contact
+  translation: "Kontakt"
+
+
+# URL: /about/milestones.html
+### header ###
+- id: milestones_header
+  translation: "Fahrplan"
+
+- id: milestones_subheader
+  translation: "MEILENSTEINE UND ZIELE"
+
+### milestones ###
+- id: milestones_idea
+  translation: "Oktober 2013: Idee"
+
+- id: milestones_angel
+  translation: "Juni 2014: Investition durch Business-Angel"
+
+- id: milestones_whitepaper
+  translation: "November 2014: Konzeptpapier"
+
+- id: milestones_launch
+  translation: "Juni 2015: Sia Netzwerk startet"
+
+- id: milestones_v1
+  translation: "Juni 2016: Sia Version 1"
+
+- id: milestones_exchanges
+  translation: "Juli 2016: Sia auf Poloniex, YUNBI, Bitsquare, und ShapeShift"
+
+- id: milestones_funding2016
+  translation: "August 2016: Nebulous erhält $750k für Sia"
+
+
+# URL: /apps/index.html
+### header ###
+- id: apps_header
+  translation: "Apps"
+
+- id: apps_subheader
+  translation: "DIE NEUSTE VERSION RUNTERLADEN"
+
+### sia apps ###
+- id: apps_sia1
+  translation: "Speichern Sie Ihre Daten"
+
+- id: apps_sia2
+  translation: "Die offizielle Brieftasche für Siacoin"
+
+- id: apps_sia3
+  translation: "Vermieten Sie Ihren Speicherplatz und erhalten Sie Siacoin"
+
+- id: apps_sia4
+  translation: "Transaktionen verifizieren und weiterleiten"
+
+- id: apps_sia5
+  translation: "Das Netzwerk absichern"
+
+- id: apps_download
+  translation: "Runterladen:"
+
+- id: apps_miner
+  translation: "Miner"
+
+- id: apps_miner1
+  translation: "Transaktionen verifizieren und weiterleiten"
+
+- id: apps_miner2
+  translation: "Die Blockchain absichern und Siacoin erhalten"
+
+- id: apps_altminer
+  translation: "Alternativer Miner"
+
+- id: apps_altminer1
+  translation: "Ein GPU-Miner für Sia in Go."
+
+### built on sia ###
+- id: apps_builtheader
+  translation: "Auf Sia aufgebaut"
+
+- id: apps_explorerh
+  translation: "Block Explorer"
+
+- id: apps_explorerp
+  translation: "Sia Blockchain Explorer."
+
+- id: apps_cryptip
+  translation: "DAPP Plattform welche Sia als Speicherebene nutzt."
+
+
+# URL: /faq.html
+### header ###
+
+- id: faq_header
+  translation: "Häufig Gestellte Fragen"
+
+- id: faq_subheader
+  translation: "DINGE DIE SIE WISSEN MÖCHTEN"
+
+### sia ###
+
+- id: faq_siah
+  translation: "Sia"
+
+- id: faq_sia1q
+  translation: "Wie werden Dateien sicher auf dem Sia Netzwerk gespeichert?"
+- id: faq_sia1a
+  translation: "Sia benutzt eine Kombination aus Erasure Coding, Verschlüsselung und Blockchain um sicherzustellen, dass die Dateien auf dem Netzwerk sicher sind. Keiner der Hosts kann die Dateien anschauen die er speichert und die Dateien können sogar grosse Netzwerkausfälle ohne Schaden überstehen."
+
+- id: faq_sia2q
+  translation: "Was passiert wenn ein Host offline geht?"
+- id: faq_sia2a
+  translation: "Sia benutzt Reed Solomon Erasure Coding, was heisst, dass eine grosse Anzahl von Hosts offline gehen kann, ohne dass die Dateien beschädigt werden."
+
+- id: faq_sia3q
+  translation: "Wie stabil läuft Sia?"
+- id: faq_sia3a
+  translation: "Das Sia Konsens-Protokoll wurde gründlich geprüft und wird sich in Zukunft nicht mehr gross ändern. Seit ihrem Startschuss am 7. Juni 2015 wurde im Sia Konsens-Protokoll keine bedeutenden Sicherheitslücken entdeckt. Die Software läuft stabil, die grössten Programmierfehler sind behoben und die Benutzererfahrung wurde deutlich verbessert. Trotzdem kann es immer noch zu Problemen kommen. Ein Neustart der Software hilft in der Regel um unvorhergesehene Probleme zu beheben."
+
+- id: faq_sia4q
+  translation: "Was ist ein Datei-Vertrag?"
+- id: faq_sia4a
+  translation: "Ein Datei-Vertrag ermöglicht es einem Host (vermietet freien Speicherplatz) und einem Renter (mietet Speicherplatz), eine Vereinbarung über eine Datei zu treffen. Der Host verpflichtet sich, eine Datei für eine gewisse Zeit zu speichern und wird dafür bezahlt. Der Renter bezahlt alles im Voraus und die Blockchain dient dabei als Hinterlegung. Falls der Host die Datei bis zum Ende des Vertrags behält und auch einen Beweis dafür erbringt, dann erhält er die Bezahlung. Falls nicht, (je nachdem wie die Vertragsbedingungen sind), wird die Zahlung an den Renter zurückgegeben. Alle Zahlungen müssen mit der lokalen Währung, Siacoin, gemacht werden."
+
+- id: faq_sia5q
+  translation: "Kann ich mithelfen oder auf Sia aufbauen?"
+- id: faq_sia5a
+  translation: "Ja, sehr gerne! Sia's gesamter Code ist 100% quelloffen (Open Source) und kann auf unserem Github gefunden werden. Besonderen Dank geht an bitspill, fornax, autumnalscooter und pmknutsen für ihre Mithilfe, und an weitere Entwickler welche Probleme gemeldet oder Pull-Anfragen eingereicht haben."
+
+- id: faq_sia6q
+  translation: "Was ist der Unterschied zwischen Sia und Nebulous Labs?"
+- id: faq_sia6a
+  translation: "Nebulous Labs ist die Firma, Sia das Produkt."
+
+### siacoins ###
+
+- id: faq_siacoinsh
+  translation: "Siacoin"
+
+- id: faq_siacoins1q
+  translation: "Was ist der Unterschied zwischen Siacoin und Bitcoin?"
+- id: faq_siacoins1a
+  translation: "Sia benutzt eine Kryptowährung, Siacoin, um dezentralisierte Zahlungen zu machen. Siacoin kann man sich als Erweiterung zu Bitcoin vorstellen, welche die Unterstützung von Datei-Verträgen mit einbringt. Wie Bitcoin benutzt Siacoin eine Blockchain und wird durch sogenanntes \"proof-of-work mining\" angetrieben. Jedoch sind Siacoin und Bitcoin keine direkten Konkurrenten. Bitcoin ist eine Universalwährung, wohingegen Siacoin nur existiert um das Sia Netzwerk zu ermöglichen."
+
+- id: faq_siacoins2q
+  translation: "Warum braucht Sia eine eigene Währung? Könnte es nicht ein Bezahlsystem wie PayPal nutzen?"
+- id: faq_siacoins2a
+  translation: "Dies würde es den Benutzern viel schwieriger machen, den Host direkt zu bezahlen. Ebenfalls generiert Sia eine grosse Anzahl von sehr kleinen Transaktionen (sogenannte Mikro-Zahlungen welche einen Wert von unter 1 Cent haben), welche traditionelle Bezahlsysteme gar nicht verarbeiten könnten. Und zu guter Letzt ist es mit einer Blockchain möglich, Verträge kryptographisch sicher auszuführen."
+
+- id: faq_siacoins3q
+  translation: "Wie kann ich Siacoins erwerben?"
+- id: faq_siacoins3a
+  translation: "Sie brauchen zuerst Bitcoins um Siacoins zu erwerben. Der am häufigsten benutzte Ort um Siacoins zu erwerben ist Poloniex. Es gibt auch einen Handels-Thread auf bitcointalk.org und einen Handels-Kanal auf unserem Slack."
+
+- id: faq_siacoins4q
+  translation: "Wie viele Siacoins werden total existieren?"
+- id: faq_siacoins4a
+  translation: "Jeder Block generiert (300'000 - Block-Höhe) neue Siacoins. Der Genesis-Block hat eine Höhe von 0. Nachdem eine Höhe von 270'000 erreicht ist werden alle weiteren Blöcke 30'000 Siacoins generieren. Die momentane Anzahl Siacoins kann auf explore.sia.tech gefunden werden."
+
+- id: faq_siacoins5q
+  translation: "Wie viel kostet es, seine Daten zu speichern?"
+- id: faq_siacoins5a
+  translation: "Der Preis wird durch einen freien Markt von Nutzern und Anbietern bestimmt. Anfang 2016 war der Preis für Speicherplatz ungefähr $2.25/TB/Monat mit 6-facher Redundanz."
+
+- id: faq_siacoins6q
+  translation: "Was ist der Unterschied zwischen Siacoin und Siafund?"
+- id: faq_siacoins6a
+  translation: "Das sind unterschiedliche Vermögenswerte. Der Siafund gewährt Ihnen Zugang zu einem Teil der Einnahmen welche die Hosts erwirtschaften. Wenn Sie z.B. einen Siafund für $200 kaufen, heisst das, dass Sie erwarten diese $200 (plus Zinsen) während der Lebenszeit des Siafunds wieder zurückzuerhalten. Falls Sia das Ziel von Cloudspeicher-Dominanz erreicht, kann jeder Siafund für seinen Besitzer in etwa zwischen $10'000 and $250'000 einnehmen. Das Risiko beim Kauf besteht darin, dass Sia niemals so weit wächst. Der Siacoin hingegen wird benutzt um Speicherplatz auf dem Sia Netzwerk zu kaufen, und sein Basiswert wird davon abgeleitet."
+
+### wallet ###
+
+- id: faq_walleth
+  translation: "Brieftasche"
+
+- id: faq_wallet1q
+  translation: "Wie funktioniert die Verschlüsselung der Brieftasche?"
+- id: faq_wallet1a
+  translation: "Wenn Sie das erste Mal Sia starten, müssen Sie eine Brieftasche initialisieren. Dazu müssen Sie im Programm auf 'Create Wallet' klicken. Anschliessend erhalten Sie ein sicheres Passwort, welches aus 29 einzelnen Wörtern besteht. Dieses Passwort brauchen Sie jeweils um die Brieftasche zu entsperren. Sollten Sie einmal ihre Brieftaschen-Datei verlieren, können Sie mithilfe des 29-Wort langen Passworts die Siacoins welche in der Brieftasche waren wiederbekommen."
+
+- id: faq_wallet2q
+  translation: "Was ist eine Brieftaschen-Verriegelung?"
+- id: faq_wallet2a
+  translation: "Die Verriegelung ist ein Teil der Verschlüsselung. Immer wenn Sie die Brieftasche öffnen ist sie zuerst verriegelt. In diesem Zustand können keine Münzen ausgegeben werden und Miner, Dateimanager und Host sind ebenfalls deaktiviert solange die Brieftasche verriegelt ist."
+
+- id: faq_wallet3q
+  translation: "Kann ich mein eigenes Passwort wählen?"
+- id: faq_wallet3a
+  translation: "Im Moment ist es nicht möglich sein eigenes Passwort zu wählen. Viele Leute überschätzen ihre Fähigkeit, ein wirklich sicheres Passwort zu wählen und vielen Leuten wurden schon Münzen gestohlen weil sie ein schwaches Passwort gewählt hatten. Aus diesem Grund bietet die Sia Software keine Möglichkeit sein eigenes Passwort zu wählen."
+
+- id: faq_wallet4q
+  translation: "Kann ein Hacker meine Münzen stehlen?"
+- id: faq_wallet4a
+  translation: "Währenddem die Brieftasche entriegelt ist existiert der private Schlüssel nur im Arbeitsspeicher. Private Daten werden mit dem Passwort der Brieftasche verschlüsselt bevor sie auf die Festplatte geschrieben werden."
+
+- id: faq_wallet5q
+  translation: "Warum gibt es eine ganze Liste von Adressen?"
+- id: faq_wallet5a
+  translation: "Die meisten Brieftaschen zeigen dem Benutzer verschiedene Adressen immer nur einzeln an. Wir zeigen Ihnen alle Adressen auf einmal an. Es ist gute Praxis für jede Transaktion eine neue Adresse zu verwenden."
+
+- id: faq_wallet6q
+  translation: "Warum hat sich mein Kontostand nach einer Transaktion nicht verändert?"
+- id: faq_wallet6a
+  translation: "Ihre Transaktion wird im nächsten Block enthalten sein. Die durchschnittliche Zeit um einen neuen Block zu generieren beträgt 10 Minuten. Falls Ihre Brieftasche neu ist kann es auch sein, dass sie noch nicht alle Block-Headers heruntergeladen hat."
+
+- id: faq_wallet7q
+  translation: "Sind die Benutzer einer Brieftasche anonym?"
+- id: faq_wallet7a
+  translation: "Ja, zum grössten Teil schon. Sia benötigt für alle ihre Dienste keine persönlichen Daten."
+
+- id: faq_wallet8q
+  translation: "Wie oft soll ich eine Sicherheitskopie meiner Brieftasche machen?"
+- id: faq_wallet8a
+  translation: "Das ist nicht nötig, solange Sie Ihren Seed (Passwort) an einem sicheren Ort aufbewahren. Verlieren Sie diesen nicht!"
+
+### host ###
+
+- id: faq_hosth
+  translation: "Host"
+
+- id: faq_host1q
+  translation: "Wie werde ich ein Host?"
+- id: faq_host1a
+  translation: "Zuerst müssen die Ports weitergeleitet werden. Sobald die Ports weitergeleitet sind kann Ihr Host am Sia Netzwerk angemeldet werden und Sie können beginnen Datei-Verträge abzuschliessen. Die Anmeldung am Netzwerk kann einige Stunden dauern."
+
+- id: faq_host2q
+  translation: "Wie leite ich meine Ports weiter?"
+- id: faq_host2a
+  translation: "Standardmässig müssen die Ports :9981 und :9982 weitergeleitet werden. Die neusten Versionen von Sia beinhalten UPnP, welches die Ports für die meisten Leute automatisch weiterleitet. Das funktioniert aber nicht für alle. 'portforward.com' oder 'http://de.wikihow.com/Eine-Portweiterleitung-einrichten' können Ihnen weiterhelfen."
+
+- id: faq_host3q
+  translation: "Sia sagt, dass meine Ports nicht weitergeleitet sind. Das sind sie aber."
+- id: faq_host3a
+  translation: "Es kann vorkommen, dass Sia fälschlicherweise denkt die Ports seien nicht weitergeleitet. Sie können 'siac' benutzen um eine spezifische URL im Netzwerk zu registrieren. Diese manuelle Registrierung hilft Ihnen zwar bei der Verifikation der offenen Ports nicht weiter, aber so können Sie die Fehlermeldung umgehen."
+
+- id: faq_host4q
+  translation: "Ich erhalte keine Verträge."
+- id: faq_host4a
+  translation: "Falls Sie keine Datei-Verträge erhalten liegt das wahrscheinlich daran, dass Ihr Preis zu hoch ist, Ihre Brieftasche noch verriegelt ist, Ihre Ports nicht weitergeleitet sind, oder dass Ihr Host nicht richtig registriert wurde."
+
+- id: faq_host5q
+  translation: "Wie hoch soll ich den Preis setzen?"
+- id: faq_host5a
+  translation: "Es gibt ein paar grobe Reglen um einen konkurrenzfähigen Preis für Speicherplatz auf dem Netzwerk abzuschätzen. Alles was über 100 Siacoins pro GB pro Monat ist wird sehr wahrscheinlich keine Verträge erhalten."
+
+- id: faq_host6q
+  translation: "Können Hosts für die Daten die zu ihnen hochgeladen werden verantwortlich gemacht werden?"
+- id: faq_host6a
+  translation: "Weil alle Dateien verschlüsselt werden kann ein Host nicht wissen was für Dateien zu ihm hochgeladen werden und deswegen kann er dafür auch nicht verantwortlich gemacht werden. Falls ein Host hingegen einen DMCA Mahnbescheid erhalten sollte, liegt es in seiner eigenen Verantwortung diesen zu erfüllen."
+
+### miner ###
+
+- id: faq_minerh
+  translation: "Miner"
+
+- id: faq_miner1q
+  translation: "Gibt es einen Miningpool?"
+- id: faq_miner1a
+  translation: "Nein, aber es sind mindestens 2 Miningpools in Entwicklung. Einer davon ist ein offizieller Miningpool und mindestens ein Drittanbieter entwickelt einen weiteren Pool für Sia. Es gibt aber keinen offiziellen Termin für die Fertigstellung."
+
+- id: faq_miner2q
+  translation: "Welche Grafikkarte soll ich kaufen?"
+- id: faq_miner2a
+  translation: "AMD Karten leisten in der Regel mehr als Nvidia Karten. Die Fury X wurde als Modell mit gutem Preis-Leistungs Verhältnis ausgewiesen."
+
+- id: faq_miner3q
+  translation: "Wie lange dauert es bis man alleine einen Block findet?"
+- id: faq_miner3a
+  translation: "Das hängt von der Grafikkarte ab. Pro Grafikkarte kann man mit etwa 2 bis 10 Blöcken pro Monat rechnen, wobei die Abweichung vom Mittelwert sehr gross sein kann."
+
+- id: faq_miner4q
+  translation: "Ich habe einen Block gefunden aber mein Guthaben beträgt immer noch 0."
+- id: faq_miner4a
+  translation: "Ähnlich wie bei Bitcoin können Münzen welche gerade erarbeitet wurden während 144 Blöcken nicht ausgegeben werden. Das dauert typischerweise 24 Stunden, wobei eine Bestätigung wegen der fluktuierenden Hashrate auch länger dauern kann."
+
+- id: faq_miner5q
+  translation: "Welchen Hash-Algorithmus benutzt Sia?"
+- id: faq_miner5a
+  translation: "Sia benutzt BLAKE2b, und eine Implementation eines GPU-Miners kann von unserem Github runtergeladen werden."
+
+### files ###
+
+- id: faq_filesh
+  translation: "Dateien"
+
+- id: faq_files1q
+  translation: "Wie lade ich eine Datei hoch?"
+- id: faq_files1a
+  translation: "Klicken Sie auf das Ordnersymbol in der rechten oberen Ecke Ihrer Brieftasche."
+ 
+- id: faq_files2q
+  translation: "Ich habe Dateien hochgeladen aber sie werden nicht angezeigt."
+- id: faq_files2a
+  translation: "Sie können versuchen 'siac' in einem Kommandozeilenfenster auszuführen. Siac ist ein Kommandozeilenprogramm welches Sie von unserem Github runterladen können. Eine Benutzeranleitung kann ebenfalls dort gefunden werden: https://github.com/NebulousLabs/Sia/releases/latest"
+
+- id: faq_files3q
+  translation: "Kann ich meine lokalen Dateien entfernen nachdem ich sie auf das Sia Netzwerk hochgeladen habe?"
+- id: faq_files3a
+  translation: "Im Moment noch nicht, aber bald!"
+
+- id: faq_files4q
+  translation: "Wie kann ich eine Datei runterladen?"
+- id: faq_files4a
+  translation: "Klicken Sie auf die Datei und ein Dowloadsymbol erscheint in der rechten oberen Ecke Ihrer Brieftasche."
+ 
+- id: faq_files5q
+  translation: "Sehe ich irgendwo wie oft eine Datei runtergeladen wurde?"
+- id: faq_files5a
+  translation: "Nein, da das Herunterladen ausserhalb der Blockchain passiert. Hosts könnten das Datentransfervolumen einer Datei angeben, aber solche Messgrössen können sehr einfach gefälscht werden. Andere Plattformen wie z.B. die Sunfish-Plattform könnten Methoden haben um solche Messgrössen zu bestimmen."
+
+- id: faq_files6q
+  translation: "Können andere Leute meine Dateien auf Sia einsehen?"
+- id: faq_files6a
+  translation: "Nein. Alle Dateien die hochgeladen werden, werden zuerst mit einer Fehlerkorrektur versehen und dann verschlüsselt. Nur diejenigen Leute, welche die Metadaten der Datei besitzen können die Originaldatei einsehen. Als zusätzlichen Schutz werden auch Informationen wie z.B. die genaue Dateigrösse vor Leuten ohne Metadaten versteckt."
+
+- id: faq_files7q
+  translation: "Kann ich meine Dateien mit anderen Leuten teilen?"
+- id: faq_files7a
+  translation: "Ja. Dateien können entweder öffentlich oder privat geteilt werden. Alle Dateien welche ins Sia Netzwerk hochgeladen werden, werden mit einer Fehlerkorrektur versehen und verschlüsselt. Nur wer die Metadaten der Datei besitzt, ist in der Lage die Datei runterzuladen und zu entschlüsseln. Diese Metadaten werden in einer sogenannten '.sia' oder 'Siadatei' gespeichert. Indem man diese Siadatei untereinander austauscht, gibt man jemandem die Möglichkeit die damit verbundene Datei aus dem Sia Netzwerk runterzuladen. Um Dateien privat mit jemandem zu teilen können Sie dieser Person die Siadatei geben. Diese können dann die dazugehörige Datei runterladen, und solange die Siadatei nicht weitergegeben wird kann niemand sonst auf die Datei zugreifen. Sie können Dateien auch öffentlich teilen indem Sie die dazugehörende Siadatei öffentlich zugänglich machen."
+
+
+# URL: /get-siacoin.html
+### header ###
+- id: getsiacoin_header
+  translation: "Bevorzugte Wechselstuben"
+
+- id: getsiacoin_subheader
+  translation: "KAUFEN UND HANDLEN SIE MIT SIACOIN"
+
+### exchanges ###
+
+- id: getsiacoin_poloniex
+  translation: "Poloniex ist eine US-basierte Wechselstube für Kryptowährungen, welche maximale Sicherheit bietet und fortschrittliches Handeln ermöglicht. Fangen Sia innerhalb von Minuten an zu handeln, es braucht nur ein paar einfache Schritte dazu."
+
+- id: getsiacoin_yunbi
+  translation: "YUNBI is eine zukunftsorientierte Wechselstube für Kryptowährungen. Gegründet in Peking im Jahr 2013 und gebaut mit dem Code welcher vom Peatio Open Source Project veröffentlicht wurde. YUNBI hält an den Prinzipien von Integrität und Transparenz fest, so dass der offene Quellcode den Kunden eine einfache und sichere Handelsplattform bietet."
+
+- id: getsiacoin_btn
+  translation: "Siacoins erwerben"
+
+
+# URL: /get-started.html
+### header ###
+- id: getstarted_header
+  translation: "Loslegen"
+
+- id: getstarted_subheader
+  translation: "IHR PLATZ IM ÖKOSYSTEM"
+
+### store ###
+- id: getstarted_storeiconh
+  translation: "Speichern"
+
+- id: getstarted_storeiconp
+  translation: "Speichern Sie Ihre Daten in der Sia Cloud"
+
+- id: getstarted_storeh
+  translation: "Daten speichern"
+
+- id: getstarted_storestep1
+  translation: "Laden Sie die <a href=\"../apps\">Sia-UI</a> runter"
+
+- id: getstarted_storestep2
+  translation: "Erwerben Sie <a href=\"../get-siacoin\">Siacoin</a>"
+
+- id: getstarted_storestep3
+  translation: "Laden Sie Ihre Daten mit Sia hoch"
+
+### farm ###
+- id: getstarted_farmiconh
+  translation: "Host"
+
+- id: getstarted_farmiconp
+  translation: "Werden Sie für Ihren freien Speicherplatz bezahlt"
+
+- id: getstarted_farmh
+  translation: "Siacoin verdienen"
+
+- id: getstarted_farmstep1
+  translation: "Laden Sie <a href=\"../apps\">Sia-UI</a> runter"
+
+- id: getstarted_farmstep2
+  translation: "Wählen Sie einen Preis für Ihren Speicherplatz"
+
+- id: getstarted_farmstep3
+  translation: "Verdienen Sie Siacoin von anderen Sia Benutzern"
+
+- id: getstarted_farmstep4
+  translation: "Folgen Sie der <a href=\"http://blog.sia.tech/2016/05/26/how-to-run-a-host-on-sia/\">Host-Anleitung</a>"
+
+### mine ###
+- id: getstarted_mineiconh
+  translation: "Mine"
+
+- id: getstarted_mineiconp
+  translation: "Minen Sie Siacoin und sichern Sie die Blockchain ab"
+
+- id: getstarted_mineh
+  translation: "Siacoin minen"
+
+- id: getstarted_minestep1
+  translation: "Laden Sie den <a href=\"../apps\">Sia Miner</a> runter"
+
+- id: getstarted_minestep2
+  translation: "Helfen Sie mit das Netzwerk abzusichern"
+
+- id: getstarted_minestep3
+  translation: "Erhalten Sie Siacoin"
+
+### develop ###
+- id: getstarted_developiconh
+  translation: "API"
+
+- id: getstarted_developiconp
+  translation: "Benutzen Sie Sia als Speicher Back-End für Ihre Applikationen"
+
+- id: getstarted_developh
+  translation: "Sia's API benutzen"
+
+- id: getstarted_developstep1
+  translation: "Laden Sie den <a href=\"https://github.com/NebulousLabs/Sia/releases/latest\">Sia Daemon</a> runter"
+
+- id: getstarted_developstep2
+  translation: "Erwerben Sie <a href=\"../get-siacoin\">Siacoin</a>"
+
+- id: getstarted_developstep3
+  translation: "Folgen Sie der <a href=\"http://blog.sia.tech/2016/10/20/api-quickstart-guide\">API Schnellstart-Anleitung</a>"
+
+- id: getstarted_developstep4
+  translation: "Lesen Sie die <a href=\"https://github.com/NebulousLabs/Sia/tree/master/doc\">API Dokumentation</a>"
+
+- id: getstarted_developstep5
+  translation: "Benutzen Sie Sia als Ihr Speicher Back-End"
