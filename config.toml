@@ -7,6 +7,8 @@ googleAnalytics = "UA-58715089-4"
 IsMultiLingual = true
 DefaultContentLanguage = "en"
 [Languages]
+  [Languages.de]
+    weight = 0
   [Languages.en]
     weight = 1
   [Languages.fr]
