@@ -3,7 +3,7 @@
   translation: "關于"
 
 - id: title_apps
-  translation: "應用"
+  translation: "Download" # TODO: i18n: update translation
 
 - id: title_faq
   translation: "經常問到的問題"
@@ -227,28 +227,22 @@
 
 # URL: /apps/index.html
 ### header ###
-- id: apps_header
-  translation: "應用"
+- id: apps_uiheader
+  translation: "Sia-UI"
 
-- id: apps_subheader
-  translation: "下載最新的發布版本"
+- id: apps_uisubheader
+  translation: "For users" # TODO: translate
+
+- id: apps_daemonheader
+  translation: "Sia Daemon"
+
+- id: apps_daemonsubheader
+  translation: "For developers" # TODO: translate
+
+- id: apps_minerheader
+  translation: "Miners" # TODO: translate
 
 ### sia apps ###
-- id: apps_sia1
-  translation: "儲存你的數據"
-
-- id: apps_sia2
-  translation: "細亞的官方錢包軟件"
-
-- id: apps_sia3
-  translation: "租用你的儲存空間然後收取細亞幣"
-
-- id: apps_sia4
-  translation: "證實和接力交易"
-
-- id: apps_sia5
-  translation: "保護網絡"
-
 - id: apps_download
   translation: "下載"
 
@@ -256,16 +250,16 @@
   translation: "挖礦"
 
 - id: apps_miner1
-  translation: "證實和接力交易"
-
-- id: apps_miner2
-  translation: "保護區塊鏈然後得到細亞幣"
+  translation: "The official GPU miner" # TODO: translate
 
 - id: apps_altminer
   translation: "另類的礦工"
 
 - id: apps_altminer1
   translation: "一個GPU 細亞礦工在 Go裏"
+
+- id: apps_sourcecode
+  translation: "Source code on GitHub"
 
 ### built on sia ###
 - id: apps_builtheader
@@ -277,8 +271,17 @@
 - id: apps_explorerp
   translation: "細亞區塊鏈探查者"
 
-- id: apps_cryptip
-  translation: "大浦平台使用細亞作爲它的儲存層。"
+- id: apps_minebox
+  translation: "Next generation NAS powered by Sia" # TODO: translate
+
+- id: apps_siacluster
+  translation: "Data farm monitoring and management tool for Sia" # TODO: translate
+
+- id: apps_gnomeshell
+  translation: "Sia Cloud Storage Extension for GNOME Shell" # TODO: translate
+
+- id: apps_siapulse
+  translation: "Analytics tool for Sia" # TODO: translate
 
 
 # URL: /faq.html
@@ -550,7 +553,7 @@
   translation: "儲存細亞幣" # TODO: i18n: update translation
 
 - id: getstarted_storestep1
-  translation: "下載<a href=\"../apps\">細亞基地</a>" # TODO: i18n: update translation
+  translation: "下載<a href=\"../apps/#ui\">細亞基地</a>" # TODO: i18n: update translation
 
 - id: getstarted_storestep2
   translation: "拿到<a href=\"../get-siacoin\">細亞幣</a>"
@@ -569,7 +572,7 @@
   translation: "細亞幣礦場" # TODO: update translation
 
 - id: getstarted_farmstep1
-  translation: "下載<a href=\"../apps\">細亞基地</a>" # TODO: update translation
+  translation: "下載<a href=\"../apps/#ui\">細亞基地</a>" # TODO: update translation
 
 - id: getstarted_farmstep2
   translation: "制造一個儲存的邀請" # TODO: update translation
@@ -591,7 +594,7 @@
   translation: "挖細亞幣" # TODO: update translation
 
 - id: getstarted_minestep1
-  translation: "下載<a href=\"../apps\">細亞礦工</a>"
+  translation: "下載<a href=\"../apps/#miner\">細亞礦工</a>"
 
 - id: getstarted_minestep2
   translation: "帮助我们来保护网络"
@@ -610,7 +613,7 @@
   translation: "開發細亞幣" # TODO: update translation
 
 - id: getstarted_developstep1
-  translation: "加入我們 <a href=\"https://github.com/NebulousLabs/Sia/releases/latest\">Sia Daemon</a>" # TODO: update translation
+  translation: "加入我們 <a href=\"../apps/#daemon\">Sia Daemon</a>" # TODO: update translation
 
 - id: getstarted_developstep2
   translation: "拿到<a href=\"../get-siacoin\">細亞幣</a>"

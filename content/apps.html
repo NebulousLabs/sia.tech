@@ -1,45 +1,106 @@
 +++
 title = "title_apps"
+i18nwarnings = [ "de", "fr", "ru", "zh-hans", "zh-hant" ]
 +++
-<section class="columns ">
+<section class="columns traditional" id="ui">
   <div class="container">
     <header class="row">
       <div class="col-xs-12 col-lg-12">
-        <h1>{{% i18n "apps_header" %}}</h1>
-        <h2>{{% i18n "apps_subheader" %}}</h2>
+        <h1>{{% i18n "apps_uiheader" %}}</h1>
+        <h2>{{% i18n "apps_uisubheader" %}}</h2>
       </div>
     </header>
     <div class="row">
-      <div class="col-lg-4 col-lg-offset-1">
-        <h4>Sia</h4>
-        <ul>
-          <li>{{% i18n "apps_sia1" %}}</li>
-          <li>{{% i18n "apps_sia2" %}}</li>
-          <li>{{% i18n "apps_sia3" %}}</li>
-          <li>{{% i18n "apps_sia4" %}}</li>
-          <li>{{% i18n "apps_sia5" %}}</li>
-        </ul>
-        <p><a class="btn default" href="https://github.com/NebulousLabs/Sia-UI/releases/latest" target="_blank">{{% i18n "apps_download" %}} v1.0.3</a></p>
+      <div class="card col-lg-4 col-xs-12">
+        <h5 class="illustration col-md-4"><img style="height: 8rem; width: auto;" src="/img/svg/tux.svg"></h5>
+        <header class="col-md-4">
+          <h4>Linux — 64-bit</h4>
+          <p><a class="btn default" href="https://github.com/NebulousLabs/Sia-UI/releases/download/v1.0.3/Sia-UI-v1.0.3-linux-x64.zip" target="_blank">{{% i18n "apps_download" %}} v1.0.3</a></p>
+        </header>
       </div>
-      <div class="col-lg-4 col-lg-offset-2">
-        <h4>{{% i18n "apps_miner" %}}</h4>
-        <ul>
-          <li>{{% i18n "apps_miner1" %}}</li>
-          <li>{{% i18n "apps_miner2" %}}</li>
-        </ul>
-        <p><a class="btn default" href="https://github.com/NebulousLabs/Sia-GPU-Miner/releases/tag/v1.1.0" target="_blank">{{% i18n "apps_download" %}} v1.1.0</a></p>
-        <h4>{{% i18n "apps_altminer" %}}</h4>
-        <p> {{% i18n "apps_altminer1" %}} </p>
-        <p>
-          <a href="https://github.com/robvanmieghem/gominer" target="_blank">
-          github.com/robvanmieghem/gominer
-          </a>
-        </p>
+      <div class="card col-lg-4 col-xs-12">
+        <h5 class="illustration col-md-4"><img style="height: 8rem; width: auto;" src="/img/svg/macOS.svg"></h5>
+        <header class="col-md-4">
+          <h4>macOS — 64-bit</h4>
+          <p><a class="btn default" href="https://github.com/NebulousLabs/Sia-UI/releases/download/v1.0.3/Sia-UI-v1.0.3-osx-x64.zip" target="_blank">{{% i18n "apps_download" %}} v1.0.3</a></p>
+        </header>
+      </div>
+      <div class="card col-lg-4 col-xs-12">
+        <h5 class="illustration col-md-4"><img style="height: 8rem; width: auto;" src="/img/svg/windows.svg"></h5>
+        <header class="col-md-4">
+          <h4>Windows — 64-bit</h4>
+          <p><a class="btn default" href="https://github.com/NebulousLabs/Sia-UI/releases/download/v1.0.3/Sia-UI-v1.0.3-win32-x64.zip" target="_blank">{{% i18n "apps_download" %}} v1.0.3</a></p>
+        </header>
       </div>
     </div>
   </div>
 </section>
-<section class="columns ">
+<section class="columns traditional" id="daemon">
+  <div class="container">
+    <header class="row">
+      <div class="col-xs-12 col-lg-12">
+        <h1>{{% i18n "apps_daemonheader" %}}</h1>
+        <h2>{{% i18n "apps_daemonsubheader" %}}</h2>
+      </div>
+    </header>
+    <div class="row">
+      <div class="card col-lg-4 col-xs-12">
+        <h5 class="illustration col-md-4"><img style="height: 8rem; width: auto;" src="/img/svg/tux.svg"></h5>
+        <header class="col-md-4">
+          <h4>Linux — 64-bit</h4>
+          <a class="btn default" href="https://github.com/NebulousLabs/Sia/releases/download/v1.0.3/Sia-v1.0.3-linux-amd64.zip" target="_blank">{{% i18n "apps_download" %}} v1.0.3</a>
+          <p><a href="http://blog.sia.tech/2016/10/20/api-quickstart-guide/" target="_blank">API Quickstart Guide</a></p>
+        </header>
+      </div>
+      <div class="card col-lg-4 col-xs-12">
+        <h5 class="illustration col-md-4"><img style="height: 8rem; width: auto;" src="/img/svg/macOS.svg"></h5>
+        <header class="col-md-4">
+          <h4>macOS — 64-bit</h4>
+          <a class="btn default" href="https://github.com/NebulousLabs/Sia/releases/download/v1.0.3/Sia-v1.0.3-darwin-amd64.zip" target="_blank">{{% i18n "apps_download" %}} v1.0.3</a>
+          <p><a href="http://blog.sia.tech/2016/10/20/api-quickstart-guide/" target="_blank">API Quickstart Guide</a></p>
+        </header>
+      </div>
+      <div class="card col-lg-4 col-xs-12">
+        <h5 class="illustration col-md-4"><img style="height: 8rem; width: auto;" src="/img/svg/windows.svg"></h5>
+        <header class="col-md-4">
+          <h4>Windows — 64-bit</h4>
+          <a class="btn default" href="https://github.com/NebulousLabs/Sia/releases/download/v1.0.3/Sia-v1.0.3-windows-amd64.zip" target="_blank">{{% i18n "apps_download" %}} v1.0.3</a>
+          <p><a href="http://blog.sia.tech/2016/10/20/api-quickstart-guide/" target="_blank">API Quickstart Guide</a></p>
+        </header>
+      </div>
+    </div>
+  </div>
+</section>
+<section class="columns traditional" id="miner">
+  <div class="container">
+    <header class="row">
+      <div class="col-xs-12 col-lg-12">
+        <h1>{{% i18n "apps_minerheader" %}}</h1>
+      </div>
+    </header>
+    <div class="row">
+      <div class="card col-md-6 col-xs-12">
+        <h5 class="illustration col-md-4"><img style="height: 6rem; width: auto;" src="/img/png/sia-droplet.png"></h5>
+        <header class="col-md-4">
+          <h4> {{% i18n "apps_miner" %}} </h4>
+          <h6> {{% i18n "apps_miner1" %}} </h6>
+          <a class="btn default" href="https://github.com/NebulousLabs/Sia-GPU-Miner/releases/latest" target="_blank">{{% i18n "apps_download" %}} v1.1.0</a>
+          <p><a href="https://github.com/NebulousLabs/Sia-GPU-Miner" target="_blank"> {{% i18n "apps_sourcecode" %}} </a></p>
+        </header>
+      </div>
+      <div class="card col-md-6 col-xs-12">
+        <h5 class="illustration col-md-4"><img style="height: 6rem; width: auto;" src="/img/png/sia-droplet.png"></h5>
+        <header class="col-md-4">
+          <h4> {{% i18n "apps_altminer" %}} </h4>
+          <h6> {{% i18n "apps_altminer1" %}} </h6>
+          <a class="btn default" href="https://github.com/robvanmieghem/gominer/releases/latest" target="_blank">{{% i18n "apps_download" %}}</a>
+          <p><a href="https://github.com/robvanmieghem/gominer" target="_blank"> {{% i18n "apps_sourcecode" %}} </a></p>
+        </header>
+      </div>
+    </div>
+  </div>
+</section>
+<section class="columns traditional">
   <div class="container">
     <header class="row">
       <div class="col-xs-12 col-lg-12">
@@ -47,19 +108,46 @@ title = "title_apps"
       </div>
     </header>
     <div class="row">
-    
-      <div class="col-lg-3 col-lg-push-1 col-lg-offset-2">
-        <h4>{{% i18n "apps_explorerh" %}}</h4>
-        <p>{{% i18n "apps_explorerp" %}}<p>
-        <p><a href="http://explore.sia.tech/" target="_blank">explore.sia.tech</a></p>
+      <div class="card col-md-4 col-xs-12">
+        <h5 class="illustration col-md-4"><img style="height: 6rem; width: auto;" src="/img/png/sia-droplet.png"></h5>
+        <header class="col-md-4">
+          <h4>{{% i18n "apps_explorerh" %}}</h4>
+          <p>{{% i18n "apps_explorerp" %}}<p>
+          <p><a href="http://explore.sia.tech/" target="_blank">explore.sia.tech</a></p>
+        </header>
       </div>
-    
-      <div class="col-lg-3 col-lg-push-1 col-lg-offset-1">
-        <h4>Crypti</h4>
-        <p> {{% i18n "apps_cryptip" %}} </p>
-        <p><a href="https://crypti.me/download" target="_blank">crypti.me</a></p>
+      <div class="card col-md-4 col-xs-12">
+        <h5 class="illustration col-md-4"><img style="height: 6rem; width: auto;" src="/img/png/minebox.png"></h5>
+        <header class="col-md-4">
+          <h4>Minebox</h4>
+          <p> {{% i18n "apps_minebox" %}} </p>
+          <p><a href="https://minebox.io" target="_blank">minebox.io</a></p>
+        </header>
       </div>
-    
+      <div class="card col-md-4 col-xs-12">
+        <h5 class="illustration col-md-4"><img style="height: 6rem; width: auto;" src="/img/svg/sia-cluster.svg"></h5>
+        <header class="col-md-4">
+          <h4>Sia Cluster</h4>
+          <p> {{% i18n "apps_siacluster" %}} </p>
+          <a href="https://github.com/aspectron/sia-cluster" target="_blank">github.com/aspectron/sia-cluster</a>
+        </header>
+      </div>
+      <div class="card col-md-4 col-xs-12">
+        <h5 class="illustration col-md-4"><img style="height: 6rem; width: auto;" src="/img/png/sia-droplet.png"></h5>
+        <header class="col-md-4">
+          <h4>Sia GNOME Shell Extension</h4>
+          <p> {{% i18n "apps_gnomeshell" %}} </p>
+          <a href="https://github.com/pmknutsen/gnome-shell-sia" target="_blank">github.com/pmknutsen/gnome-shell-sia</a>
+        </header>
+      </div>
+      <div class="card col-md-4 col-xs-12">
+        <h5 class="illustration col-md-4"><img style="height: 6rem; width: auto;" src="/img/png/sia-pulse.png"></h5>
+        <header class="col-md-4">
+          <h4>Sia PULSE</h4>
+          <p> {{% i18n "apps_siapulse" %}} </p>
+          <a href="http://siapulse.com/" target="_blank">siapulse.com/</a>
+        </header>
+      </div>
     </div>
   </div>
 </section>
