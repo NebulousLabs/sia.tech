@@ -3,7 +3,7 @@
   translation: "О проекте"
 
 - id: title_apps
-  translation: "Приложения" # TODO: i18n: update translation
+  translation: "Download" # TODO: i18n: update translation
 
 - id: title_faq
   translation: "FAQ" # TODO: i18n: is this translation correct?
@@ -227,28 +227,22 @@
 
 # URL: /apps/index.html
 ### header ###
-- id: apps_header
-  translation: "Приложения" # TODO: i18n: update translation
+- id: apps_uiheader
+  translation: "Sia-UI"
 
-- id: apps_subheader
-  translation: "СКАЧАТЬ ПОСЛЕДНЮЮ ВЕРСИЮ"
+- id: apps_uisubheader
+  translation: "For users" # TODO: translate
 
-### sia apps ###
-- id: apps_sia1
-  translation: "Храните данные"
+- id: apps_daemonheader
+  translation: "Sia Daemon"
 
-- id: apps_sia2
-  translation: "Официальный кошелёк для саякойнов"
+- id: apps_daemonsubheader
+  translation: "For developers" # TODO: translate
 
-- id: apps_sia3
-  translation: "Сдавайте в аренду ваше дисковое пространство и получайте саякойны"
+- id: apps_minerheader
+  translation: "Miners" # TODO: translate
 
-- id: apps_sia4
-  translation: "Проверяйте и проводите транзакции"
-
-- id: apps_sia5
-  translation: "Поддерживайте безопасность сети"
-
+### miner ###
 - id: apps_download
   translation: "Скачать"
 
@@ -256,16 +250,16 @@
   translation: "майнер"
 
 - id: apps_miner1
-  translation: "Проверяйте и проводите транзакции"
-
-- id: apps_miner2
-  translation: "Обеспечивайте безопасность блокчейна и получайте саякойны"
+  translation: "The official GPU miner" # TODO: translate
 
 - id: apps_altminer
   translation: "Альтернативный майнер"
 
 - id: apps_altminer1
-  translation: "GPU майнер для Sia на Go."
+  translation: "GPU майнер для Sia на Go"
+
+- id: apps_sourcecode
+  translation: "Source code on GitHub"
 
 ### built on sia ###
 - id: apps_builtheader
@@ -275,10 +269,19 @@
   translation: "Обозреватель блоков"
 
 - id: apps_explorerp
-  translation: "Обозреватель блоков Sia."
+  translation: "Обозреватель блоков Sia"
 
-- id: apps_cryptip
-  translation: "Платформа DAPP, использующая Sia в качестве хранилища данных."
+- id: apps_minebox
+  translation: "Next generation NAS powered by Sia" # TODO: translate
+
+- id: apps_siacluster
+  translation: "Data farm monitoring and management tool for Sia" # TODO: translate
+
+- id: apps_gnomeshell
+  translation: "Sia Cloud Storage Extension for GNOME Shell" # TODO: translate
+
+- id: apps_siapulse
+  translation: "Analytics tool for Sia" # TODO: translate
 
 
 # URL: /faq.html
@@ -550,7 +553,7 @@
   translation: "Хранение саякойнов" # TODO: i18n: update translation
 
 - id: getstarted_storestep1
-  translation: "Скачайте <a href=\"../apps\">Sia-UI</a>"
+  translation: "Скачайте <a href=\"../apps/#ui\">Sia-UI</a>"
 
 - id: getstarted_storestep2
   translation: "Получайте <a href=\"../get-siacoin\">Siacoin</a>"
@@ -569,7 +572,7 @@
   translation: "Для хостинга за саякойны" # TODO: update translation
 
 - id: getstarted_farmstep1
-  translation: "Скачайте <a href=\"../apps\">Sia-UI</a>"
+  translation: "Скачайте <a href=\"../apps/#ui\">Sia-UI</a>"
 
 - id: getstarted_farmstep2
   translation: "Предложить оферту для хранения данных" # TODO: update translation
@@ -591,7 +594,7 @@
   translation: "Майнинг саякойнов" # TODO: update translation
 
 - id: getstarted_minestep1
-  translation: "Скачайте <a href=\"../apps\">Sia майнер</a>"
+  translation: "Скачайте <a href=\"../apps/#miner\">Sia майнер</a>"
 
 - id: getstarted_minestep2
   translation: "Способствуйте безопасности сети"
@@ -610,7 +613,7 @@
   translation: "Разработать саякойны" # TODO: update translation
 
 - id: getstarted_developstep1
-  translation: "Присоединяйтесь <a href=\"https://github.com/NebulousLabs/Sia/releases/latest\">Sia Daemon</a>" # TODO: update translation
+  translation: "Присоединяйтесь <a href=\"../apps/#daemon\">Sia Daemon</a>" # TODO: update translation
 
 - id: getstarted_developstep2
   translation: "Получайте <a href=\"../get-siacoin\">Siacoin</a>"

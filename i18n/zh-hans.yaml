@@ -3,7 +3,7 @@
   translation: "关于"
 
 - id: title_apps
-  translation: "应用" # TODO: i18n: update translation
+  translation: "Download" # TODO: i18n: update translation
 
 - id: title_faq
   translation: "经常问到的问题"
@@ -227,28 +227,22 @@
 
 # URL: /apps/index.html
 ### header ###
-- id: apps_header
-  translation: "应用" # TODO: i18n: update translation
+- id: apps_uiheader
+  translation: "Sia-UI"
 
-- id: apps_subheader
-  translation: "下载最新的发布版本"
+- id: apps_uisubheader
+  translation: "For users" # TODO: translate
 
-### sia apps ###
-- id: apps_sia1
-  translation: "储存你的数据"
+- id: apps_daemonheader
+  translation: "Sia Daemon"
 
-- id: apps_sia2
-  translation: "细亚的官方钱包软件"
+- id: apps_daemonsubheader
+  translation: "For developers" # TODO: translate
 
-- id: apps_sia3
-  translation: "租用你的储存空间然后收取细亚币"
+- id: apps_minerheader
+  translation: "Miners" # TODO: translate
 
-- id: apps_sia4
-  translation: "证实和接力交易"
-
-- id: apps_sia5
-  translation: "保护网络"
-
+### miner ###
 - id: apps_download
   translation: "下载"
 
@@ -256,16 +250,16 @@
   translation: "挖矿"
 
 - id: apps_miner1
-  translation: "证实和接力交易"
-
-- id: apps_miner2
-  translation: "保护区块链然后得到细亚币"
+  translation: "The official GPU miner" # TODO: translate
 
 - id: apps_altminer
   translation: "另类的矿工"
 
 - id: apps_altminer1
   translation: "一个GPU 细亚矿工在 Go里"
+
+- id: apps_sourcecode
+  translation: "Source code on GitHub"
 
 ### built on sia ###
 - id: apps_builtheader
@@ -277,8 +271,17 @@
 - id: apps_explorerp
   translation: "细亚区块链探查者"
 
-- id: apps_cryptip
-  translation: "大浦平台使用细亚作为它的储存层。"
+- id: apps_minebox
+  translation: "Next generation NAS powered by Sia" # TODO: translate
+
+- id: apps_siacluster
+  translation: "Data farm monitoring and management tool for Sia" # TODO: translate
+
+- id: apps_gnomeshell
+  translation: "Sia Cloud Storage Extension for GNOME Shell" # TODO: translate
+
+- id: apps_siapulse
+  translation: "Analytics tool for Sia" # TODO: translate
 
 
 # URL: /faq.html
@@ -550,7 +553,7 @@
   translation: "储存细亚币" # TODO: i18n: update translation
 
 - id: getstarted_storestep1
-  translation: "下载<a href=\"../apps\">细亚基地</a>" # TODO: update translation
+  translation: "下载<a href=\"../apps/#ui\">细亚基地</a>" # TODO: update translation
 
 - id: getstarted_storestep2
   translation: "拿到<a href=\"../get-siacoin\">细亚币</a>"
@@ -569,7 +572,7 @@
   translation: "细亚币矿场" # TODO: update translation
 
 - id: getstarted_farmstep1
-  translation: "下载<a href=\"../apps\">细亚基地</a>" # TODO: update translation
+  translation: "下载<a href=\"../apps/#ui\">细亚基地</a>" # TODO: update translation
 
 - id: getstarted_farmstep2
   translation: "制造一个储存的邀请" # TODO: update translation
@@ -591,7 +594,7 @@
   translation: "挖细亚币" # TODO: update translation
 
 - id: getstarted_minestep1
-  translation: "下载<a href=\"../apps\">细亚矿工</a>"
+  translation: "下载<a href=\"../apps/#miner\">细亚矿工</a>"
 
 - id: getstarted_minestep2
   translation: "帮助我们来保护网络"
@@ -610,7 +613,7 @@
   translation: "开发细亚币" # TODO: update translation
 
 - id: getstarted_developstep1
-  translation: "加入我们 <a href=\"https://github.com/NebulousLabs/Sia/releases/latest\">Sia Daemon</a>" # TODO: update translation
+  translation: "加入我们 <a href=\"../apps/#daemon\">Sia Daemon</a>" # TODO: update translation
 
 - id: getstarted_developstep2
   translation: "拿到<a href=\"../get-siacoin\">细亚币</a>"

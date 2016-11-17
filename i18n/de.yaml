@@ -3,7 +3,7 @@
   translation: "Über Uns"
 
 - id: title_apps
-  translation: "Apps"
+  translation: "Download" # TODO: translate
 
 - id: title_faq
   translation: "FAQ"
@@ -224,45 +224,40 @@
 
 # URL: /apps/index.html
 ### header ###
-- id: apps_header
-  translation: "Apps"
+- id: apps_uiheader
+  translation: "Sia-UI"
 
-- id: apps_subheader
-  translation: "DIE NEUSTE VERSION RUNTERLADEN"
+- id: apps_uisubheader
+  translation: "For users" # TODO: translate
 
-### sia apps ###
-- id: apps_sia1
-  translation: "Speichern Sie Ihre Daten"
+- id: apps_daemonheader
+  translation: "Sia Daemon"
 
-- id: apps_sia2
-  translation: "Die offizielle Brieftasche für Siacoin"
+- id: apps_daemonsubheader
+  translation: "For developers" # TODO: translate
 
-- id: apps_sia3
-  translation: "Vermieten Sie Ihren Speicherplatz und erhalten Sie Siacoin"
-
-- id: apps_sia4
-  translation: "Transaktionen verifizieren und weiterleiten"
-
-- id: apps_sia5
-  translation: "Das Netzwerk absichern"
+- id: apps_minerheader
+  translation: "Miners"
 
 - id: apps_download
   translation: "Runterladen:"
+
+### miner ###
 
 - id: apps_miner
   translation: "Miner"
 
 - id: apps_miner1
-  translation: "Transaktionen verifizieren und weiterleiten"
-
-- id: apps_miner2
-  translation: "Die Blockchain absichern und Siacoin erhalten"
+  translation: "The official GPU miner" # TODO: translate
 
 - id: apps_altminer
   translation: "Alternativer Miner"
 
 - id: apps_altminer1
-  translation: "Ein GPU-Miner für Sia in Go."
+  translation: "Ein GPU-Miner für Sia in Go"
+
+- id: apps_sourcecode
+  translation: "Source code on GitHub" # TODO: translate
 
 ### built on sia ###
 - id: apps_builtheader
@@ -272,10 +267,19 @@
   translation: "Block Explorer"
 
 - id: apps_explorerp
-  translation: "Sia Blockchain Explorer."
+  translation: "Sia Blockchain Explorer"
 
-- id: apps_cryptip
-  translation: "DAPP Plattform welche Sia als Speicherebene nutzt."
+- id: apps_minebox
+  translation: "Next generation NAS powered by Sia" # TODO: translate
+
+- id: apps_siacluster
+  translation: "Data farm monitoring and management tool for Sia" # TODO: translate
+
+- id: apps_gnomeshell
+  translation: "Sia Cloud Storage Extension for GNOME Shell" # TODO: translate
+
+- id: apps_siapulse
+  translation: "Analytics tool for Sia" # TODO: translate
 
 
 # URL: /faq.html
@@ -547,7 +551,7 @@
   translation: "Daten speichern"
 
 - id: getstarted_storestep1
-  translation: "Laden Sie die <a href=\"../apps\">Sia-UI</a> runter"
+  translation: "Laden Sie die <a href=\"../apps/#ui\">Sia-UI</a> runter"
 
 - id: getstarted_storestep2
   translation: "Erwerben Sie <a href=\"../get-siacoin\">Siacoin</a>"
@@ -566,7 +570,7 @@
   translation: "Siacoin verdienen"
 
 - id: getstarted_farmstep1
-  translation: "Laden Sie <a href=\"../apps\">Sia-UI</a> runter"
+  translation: "Laden Sie <a href=\"../apps/#ui\">Sia-UI</a> runter"
 
 - id: getstarted_farmstep2
   translation: "Wählen Sie einen Preis für Ihren Speicherplatz"
@@ -588,7 +592,7 @@
   translation: "Siacoin minen"
 
 - id: getstarted_minestep1
-  translation: "Laden Sie den <a href=\"../apps\">Sia Miner</a> runter"
+  translation: "Laden Sie den <a href=\"../apps/#miner\">Sia Miner</a> runter"
 
 - id: getstarted_minestep2
   translation: "Helfen Sie mit das Netzwerk abzusichern"
@@ -607,7 +611,7 @@
   translation: "Sia's API benutzen"
 
 - id: getstarted_developstep1
-  translation: "Laden Sie den <a href=\"https://github.com/NebulousLabs/Sia/releases/latest\">Sia Daemon</a> runter"
+  translation: "Laden Sie den <a href=\"../apps/#daemon\">Sia Daemon</a> runter"
 
 - id: getstarted_developstep2
   translation: "Erwerben Sie <a href=\"../get-siacoin\">Siacoin</a>"
