@@ -15,7 +15,7 @@ This project uses [Hugo](https://github.com/spf13/Hugo/) to generate the static 
 ```
 git clone https://github.com/NebulousLabs/sia.tech.git
 cd sia.tech
-hugo
+./build.sh
 ```
 
 Hugo also has a built-in server for testing the site locally.
