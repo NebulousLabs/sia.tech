@@ -1,14 +1,16 @@
 +++
-title = "title_apps"
+title = "title_lts"
 i18nwarnings = [ "de", "fr", "ru", "zh-hans", "zh-hant" ]
 +++
 <section class="columns traditional" id="ui">
   <div class="container">
-		<div class="row">
+		<header class="row">
 			<div class="col-xs-12 col-lg-12">
-				<p class="text-center">{{% i18n "apps_ltsheader" %}}<a href="/lts/">{{% i18n "apps_ltslinktext" %}}</a></p>
+				<h3 class="text-center"> LTS releases </h3>
+				<p> {{% i18n "lts_explanation1" %}} </p>
+				<p> {{% i18n "lts_explanation2" %}} </p>
 			</div>
-		</div>
+		</header>
     <header class="row">
       <div class="col-xs-12 col-lg-12">
         <h1>{{% i18n "apps_uiheader" %}}</h1>
@@ -20,21 +22,21 @@ i18nwarnings = [ "de", "fr", "ru", "zh-hans", "zh-hant" ]
         <h5 class="illustration col-md-4"><img style="height: 8rem; width: auto;" src="/img/svg/tux.svg"></h5>
         <header class="col-md-4">
           <h4>Linux — 64-bit</h4>
-          <p><a class="btn default" href="https://github.com/NebulousLabs/Sia-UI/releases/download/v1.0.4/Sia-UI-v1.0.4-linux-x64.zip" target="_blank">{{% i18n "apps_download" %}} v1.0.4</a></p>
+          <p><a class="btn default" href="https://github.com/NebulousLabs/Sia-UI/releases/download/lts-v1.0.4/Sia-UI-v1.0.4-lts-linux-x64.zip" target="_blank">{{% i18n "apps_download" %}} v1.0.4-lts</a></p>
         </header>
       </div>
       <div class="card col-lg-4 col-xs-12">
         <h5 class="illustration col-md-4"><img style="height: 8rem; width: auto;" src="/img/svg/macOS.svg"></h5>
         <header class="col-md-4">
           <h4>macOS — 64-bit</h4>
-          <p><a class="btn default" href="https://github.com/NebulousLabs/Sia-UI/releases/download/v1.0.4/Sia-UI-v1.0.4-osx-x64.zip" target="_blank">{{% i18n "apps_download" %}} v1.0.4</a></p>
+          <p><a class="btn default" href="https://github.com/NebulousLabs/Sia-UI/releases/download/lts-v1.0.4/Sia-UI-v1.0.4-lts-osx-x64.zip" target="_blank">{{% i18n "apps_download" %}} v1.0.4-lts</a></p>
         </header>
       </div>
       <div class="card col-lg-4 col-xs-12">
         <h5 class="illustration col-md-4"><img style="height: 8rem; width: auto;" src="/img/svg/windows.svg"></h5>
         <header class="col-md-4">
           <h4>Windows — 64-bit</h4>
-          <p><a class="btn default" href="https://github.com/NebulousLabs/Sia-UI/releases/download/v1.0.4/Sia-UI-v1.0.4-win32-x64.zip" target="_blank">{{% i18n "apps_download" %}} v1.0.4</a></p>
+          <p><a class="btn default" href="https://github.com/NebulousLabs/Sia-UI/releases/download/lts-v1.0.4/Sia-UI-v1.0.4-lts-win32-x64.zip" target="_blank">{{% i18n "apps_download" %}} v1.0.4-lts</a></p>
         </header>
       </div>
     </div>
@@ -53,7 +55,7 @@ i18nwarnings = [ "de", "fr", "ru", "zh-hans", "zh-hant" ]
         <h5 class="illustration col-md-4"><img style="height: 8rem; width: auto;" src="/img/svg/tux.svg"></h5>
         <header class="col-md-4">
           <h4>Linux — 64-bit</h4>
-          <a class="btn default" href="https://github.com/NebulousLabs/Sia/releases/download/v1.0.4/Sia-v1.0.4-linux-amd64.zip" target="_blank">{{% i18n "apps_download" %}} v1.0.4</a>
+          <a class="btn default" href="https://github.com/NebulousLabs/Sia/releases/download/lts-v1.0.4/Sia-v1.0.4-lts-linux-amd64.zip" target="_blank">{{% i18n "apps_download" %}} v1.0.4-lts</a>
           <p><a href="http://blog.sia.tech/2016/10/20/api-quickstart-guide/" target="_blank">API Quickstart Guide</a></p>
         </header>
       </div>
@@ -61,7 +63,7 @@ i18nwarnings = [ "de", "fr", "ru", "zh-hans", "zh-hant" ]
         <h5 class="illustration col-md-4"><img style="height: 8rem; width: auto;" src="/img/svg/macOS.svg"></h5>
         <header class="col-md-4">
           <h4>macOS — 64-bit</h4>
-          <a class="btn default" href="https://github.com/NebulousLabs/Sia/releases/download/v1.0.4/Sia-v1.0.4-darwin-amd64.zip" target="_blank">{{% i18n "apps_download" %}} v1.0.4</a>
+          <a class="btn default" href="https://github.com/NebulousLabs/Sia/releases/download/lts-v1.0.4/Sia-v1.0.4-lts-darwin-amd64.zip" target="_blank">{{% i18n "apps_download" %}} v1.0.4-lts</a>
           <p><a href="http://blog.sia.tech/2016/10/20/api-quickstart-guide/" target="_blank">API Quickstart Guide</a></p>
         </header>
       </div>
@@ -69,7 +71,7 @@ i18nwarnings = [ "de", "fr", "ru", "zh-hans", "zh-hant" ]
         <h5 class="illustration col-md-4"><img style="height: 8rem; width: auto;" src="/img/svg/windows.svg"></h5>
         <header class="col-md-4">
           <h4>Windows — 64-bit</h4>
-          <a class="btn default" href="https://github.com/NebulousLabs/Sia/releases/download/v1.0.4/Sia-v1.0.4-windows-amd64.zip" target="_blank">{{% i18n "apps_download" %}} v1.0.4</a>
+          <a class="btn default" href="https://github.com/NebulousLabs/Sia/releases/download/lts-v1.0.4/Sia-v1.0.4-lts-windows-amd64.zip" target="_blank">{{% i18n "apps_download" %}} v1.0.4-lts</a>
           <p><a href="http://blog.sia.tech/2016/10/20/api-quickstart-guide/" target="_blank">API Quickstart Guide</a></p>
         </header>
       </div>
