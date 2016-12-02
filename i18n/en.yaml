@@ -241,10 +241,10 @@
 
 # URL: /lts.html
 - id: lts_explanation1
-  translation: "Sia has a special line of releases called the Long Term Support releases. LTS releases most notably do not include new features until those features have been in production for a long time without revealing any new or unexpected bugs. This means that important features such as instant-wallet-unlocking do not make it into an LTS release until several months after they are released to the general public."
+  translation: "Sia has a special line of releases called the Long Term Support releases. LTS releases most notably do not include new features until those features have been in production for a long time without revealing any new or unexpected bugs. This means that important features (such as instant wallet unlocking) do not make it into an LTS release until several months after they are released to the general public."
 
 - id: lts_explanation2
-  translation: "All Sia releases are thoroughly tested, however the reality is that bugs often make it into production. It is our goal that none of our releases have bugs, but until we are able to consistently achieve that goal we provide the more slowly-upgrading LTS releases for members who are dependent on stability. Unless stability is critical, we recommend using our [production releases], which are generally faster, more user-friendly, and more featureful."
+  translation: "All Sia releases are thoroughly tested. However, the reality is that bugs do make it into production. It is our goal that none of our releases have bugs, but until we are able to consistently achieve that goal we provide the more slowly-upgrading LTS releases for users and developers who require stability. Unless stability is critical, we recommend using our <a href=\"../apps\">production releases</a>, which are generally faster, more user-friendly, and more featureful."
 
 # URL: /apps/index.html
 ### header ###
