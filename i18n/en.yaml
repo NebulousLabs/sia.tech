@@ -238,6 +238,21 @@
 - id: milestones_funding2016
   translation: "August 2016: Nebulous Raises $750k for Sia"
 
+- id: milestones_speedboost
+  translation: "Upload/Download Speed Boost"
+
+- id: milestones_instantunlock
+  translation: "Instant Wallet Unlocking"
+
+- id: milestones_hostautopricing
+  translation: "Automatic Host Pricing"
+
+- id: milestones_seedrecovery
+  translation: "Seed-Based File Recovery"
+
+- id: milestones_filesharing
+  translation: "File Sharing"
+
 
 # URL: /lts.html
 - id: lts_explanation1
