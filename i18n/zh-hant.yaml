@@ -124,7 +124,7 @@
 
 ### video section ###
 - id: index_videoheader
-  translation: "How Sia Works" # TODO: i18n: translate this
+  translation: "Sia Introduction" # TODO: i18n: translate this
 
 ### explorer stats section ###
 - id: index_statsheader
