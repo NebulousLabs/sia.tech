@@ -579,7 +579,7 @@
   translation: "Verdienen Sie Siacoin von anderen Sia Benutzern"
 
 - id: getstarted_farmstep4
-  translation: "Folgen Sie der <a href=\"http://blog.sia.tech/2016/05/26/how-to-run-a-host-on-sia/\">Host-Anleitung</a>"
+  translation: "Folgen Sie der <a href=\"https://blog.sia.tech/how-to-run-a-host-on-sia-2159ebc4725\">Host-Anleitung</a>"
 
 ### mine ###
 - id: getstarted_mineiconh
