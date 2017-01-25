@@ -134,7 +134,7 @@
   translation: "Made for Developers"
 
 - id: index_infosection1p
-  translation: "Sia was made to be integrated as your storage backend. You only pay for the storage you use, and there is no commitment. Get started with our <a href=\"http://blog.sia.tech/2016/10/20/api-quickstart-guide/\">API Quickstart Guide</a>."
+  translation: "Sia was made to be integrated as your storage backend. You only pay for the storage you use, and there is no commitment. Get started with our <a href=\"https://blog.sia.tech/api-quickstart-guide-f1d160c05235\">API Quickstart Guide</a>."
 
 ### video section ###
 - id: index_videoheader
@@ -603,6 +603,9 @@
 - id: getstarted_storestep3
   translation: "Upload your files using Sia"
 
+- id: getstarted_storestep4
+  translation: "Follow the <a href=\"https://blog.sia.tech/getting-started-with-private-decentralized-cloud-storage-c9565dc8c854\">storage guide</a>"
+
 ### farm ###
 - id: getstarted_farmiconh
   translation: "Host"
@@ -623,7 +626,7 @@
   translation: "Earn Siacoin from other Sia users"
 
 - id: getstarted_farmstep4
-  translation: "Follow the <a href=\"http://blog.sia.tech/2016/05/26/how-to-run-a-host-on-sia/\">hosting guide</a>"
+  translation: "Follow the <a href=\"https://blog.sia.tech/how-to-run-a-host-on-sia-2159ebc4725\">hosting guide</a>"
 
 ### mine ###
 - id: getstarted_mineiconh
@@ -661,7 +664,7 @@
   translation: "Get <a href=\"../get-siacoin\">Siacoin</a>"
 
 - id: getstarted_developstep3
-  translation: "Follow the <a href=\"http://blog.sia.tech/2016/10/20/api-quickstart-guide\">API quickstart guide</a>"
+  translation: "Follow the <a href=\"https://blog.sia.tech/api-quickstart-guide-f1d160c05235\">API quickstart guide</a>"
 
 - id: getstarted_developstep4
   translation: "Browse the <a href=\"https://github.com/NebulousLabs/Sia/tree/master/doc\">API documentation</a>"

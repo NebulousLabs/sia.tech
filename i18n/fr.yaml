@@ -580,7 +580,7 @@
   translation: "Obtenez Siacoin avec des contrats de fichiers" # TODO: update translation
 
 - id: getstarted_farmstep4
-  translation: "Follow the <a href=\"http://blog.sia.tech/2016/05/26/how-to-run-a-host-on-sia/\">hosting guide</a>" # TODO: translate this
+  translation: "Follow the <a href=\"https://blog.sia.tech/how-to-run-a-host-on-sia-2159ebc4725\">hosting guide</a>" # TODO: translate this
 
 ### mine ###
 - id: getstarted_mineiconh

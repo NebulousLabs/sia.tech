@@ -117,7 +117,7 @@
   translation: "Für Entwickler gemacht"
 
 - id: index_infosection1p
-  translation: "Sia wurde geschaffen um von Ihnen als Speicher Back-End integriert zu werden. Sie bezahlen nur für denjenigen Speicher den Sie wirklich benutzen und es gibt keine Verpflichtung. Starten Sie mit unserer <a href=\"http://blog.sia.tech/2016/10/20/api-quickstart-guide/\">API Schnellstart-Anleitung</a>."
+  translation: "Sia wurde geschaffen um von Ihnen als Speicher Back-End integriert zu werden. Sie bezahlen nur für denjenigen Speicher den Sie wirklich benutzen und es gibt keine Verpflichtung. Starten Sie mit unserer <a href=\"https://blog.sia.tech/api-quickstart-guide-f1d160c05235\">API Schnellstart-Anleitung</a>."
 
 ### video section ###
 - id: index_videoheader
@@ -579,7 +579,7 @@
   translation: "Verdienen Sie Siacoin von anderen Sia Benutzern"
 
 - id: getstarted_farmstep4
-  translation: "Folgen Sie der <a href=\"http://blog.sia.tech/2016/05/26/how-to-run-a-host-on-sia/\">Host-Anleitung</a>"
+  translation: "Folgen Sie der <a href=\"https://blog.sia.tech/how-to-run-a-host-on-sia-2159ebc4725\">Host-Anleitung</a>"
 
 ### mine ###
 - id: getstarted_mineiconh
@@ -617,7 +617,7 @@
   translation: "Erwerben Sie <a href=\"../get-siacoin\">Siacoin</a>"
 
 - id: getstarted_developstep3
-  translation: "Folgen Sie der <a href=\"http://blog.sia.tech/2016/10/20/api-quickstart-guide\">API Schnellstart-Anleitung</a>"
+  translation: "Folgen Sie der <a href=\"https://blog.sia.tech/api-quickstart-guide-f1d160c05235\">API Schnellstart-Anleitung</a>"
 
 - id: getstarted_developstep4
   translation: "Lesen Sie die <a href=\"https://github.com/NebulousLabs/Sia/tree/master/doc\">API Dokumentation</a>"
