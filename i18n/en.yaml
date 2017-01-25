@@ -603,6 +603,9 @@
 - id: getstarted_storestep3
   translation: "Upload your files using Sia"
 
+- id: getstarted_storestep4
+  translation: "Follow the <a href=\"https://blog.sia.tech/getting-started-with-private-decentralized-cloud-storage-c9565dc8c854\">storage guide</a>"
+
 ### farm ###
 - id: getstarted_farmiconh
   translation: "Host"
