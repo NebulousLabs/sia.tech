@@ -272,11 +272,17 @@
 - id: apps_uiheader
   translation: "Sia-UI"
 
+- id: apps_uiheaderlts
+  translation: "Sia-UI (LTS)"
+
 - id: apps_uisubheader
   translation: "For users"
 
 - id: apps_daemonheader
   translation: "Sia Daemon"
+
+- id: apps_daemonheaderlts
+  translation: "Sia Daemon (LTS)"
 
 - id: apps_daemonsubheader
   translation: "For developers"
