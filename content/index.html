@@ -1,129 +1,173 @@
 +++
 type = "index"
+title = "homepage"
 +++
-<!-- TODO: add more frontmatter -->
-<section class="jumbotron">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-8 col-md-12 col-sm-12 text-center">
-        <h2>{{% i18n "index_bigheader1" %}}</h2>
-        <h1>{{% i18n "index_bigheader2" %}}</h1>
-        <h3>{{% i18n "index_bigheader3" %}}</h3>
-        <p>
-          <a class="btn btn-lg" href="get-started" role="button">{{% i18n "index_bigbtn1" %}}</a>
-        </p>
-      </div>
-      <div class="col-lg-4 droplet"></div>
-    </div>
-  </div>
+<!-- Hero header -->
+<section class="hero is-primary is-medium connected-world">
+	<div class="hero-head">
+		<!-- Navigation menu -->
+		<nav class="nav">
+			<div class="container">
+				<div class="nav-left">
+					<span class="nav-item">
+						<a href="/">
+							<figure class="image">
+								<img src="img/sia-green-logo.png">
+							</figure>
+						</a>
+					</span>
+				</div>
+				<div class="nav-right nav-menu">
+					<a href="https://sia.tech/apps" class="nav-item">Apps</a>
+					<a class="nav-item">Developers</a>
+					<a class="nav-item">Community</a>
+					<a href="https://sia.tech/about/" class="nav-item">About</a>
+					<span class="nav-item">
+						<a href="http://sia.tech/get-started" class="button is-dark is-outlined">
+							<span class="title-highlight">Get Started</span>
+						</a>
+					</span>
+				</div>
+			</div>
+		</nav>
+	</div>
+	<div class="hero-body">
+		<div class="container has-text-centered">
+			<h1 class="title is-bold is-large">
+				Your <span class="title-highlight">decentralized</span> private cloud
+			</h1>
+			<h2 class="subtitle">
+				Welcome to a new era of cloud storage on the blockchain
+			</h2>
+			<a href="http://sia.tech/get-started" class="button is-large is-primary is-inverted is-outlined">Get Started</a>
+			<button class="button is-large is-primary is-inverted is-outlined" id="watchvideobutton">Watch Video</button>
+			<div id="watchvideomodal" class="modal">
+				<div id="watchvideomodalbackground" class="modal-background"></div>
+				<div class="modal-content">
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/B4YGpWxyn6Y" frameborder="0" allowfullscreen></iframe>
+				</div>
+				<button id="watchvideoclose" class="modal-close"></button>
+			</div>
+		</div>
+	</div>
 </section>
-<section class="columns traditional">
-  <div class="container">
-    <header class="row">
-      <div class="col-xs-12 col-lg-12">
-        <h1>{{% i18n "index_infoheader" %}}</h1>
-        <h2>{{% i18n "index_infosubheader" %}}</h2>
-      </div>
-    </header>
-    <div class="row">
-      <div class="card col-lg-4 col-md-12">
-        <h5 class="illustration col-md-4"><img src="/assets/build-icon.svg"></h5>
-        <header class="col-md-4">
-          <h4>{{% i18n "index_infosection1h" %}}</h4>
-          <p> {{% i18n "index_infosection1p" %}} </p>
-        </header>
-      </div>
-      <div class="card col-lg-4 col-md-12">
-        <h5 class="illustration col-md-4"><img src="/assets/distributed-icon.svg"></h5>
-        <header class="col-md-4">
-          <h4>{{% i18n "index_infosection2h" %}}</h4>
-          <p> {{% i18n "index_infosection2p" %}} </p>
-        </header>
-      </div>
-      <div class="card col-lg-4 col-md-12">
-        <h5 class="illustration col-md-4"><img src="/assets/economy-icon.svg"></h5>
-        <header class="col-md-4">
-          <h4>{{% i18n "index_infosection3h" %}}</h4>
-          <p> {{% i18n "index_infosection3p" %}} </p>
-        </header>
-      </div>
-    </div>
-  </div>
+
+<section class="section">
+	<div class="container">
+		<div class="columns is-vcentered has-text-centered">
+			<div class="column is-hidden-tablet">
+				<img class="siainfo-image" src="img/siainfo1.png">
+			</div>
+			<div class="column">
+				<h1 class="title is-2"> Completely private </h1>
+				<p>Sia splits apart, encrypts, and distributes your files across a decentralized network. Since you hold the keys, you own your data. No outside company can access or control your files, unlike traditional cloud storage providers.</p>
+			</div>
+			<div class="column is-hidden-mobile">
+				<img class="siainfo-image" src="img/siainfo1.png">
+			</div>
+		</div>
+		<div class="columns is-vcentered has-text-centered">
+			<div class="column">
+				<img class="siainfo-image" src="img/siainfo2.png">
+			</div>
+			<div class="column is-two">
+				<h1 class="title is-2"> Way more affordable </h1>
+				<p>Sia's decentralized cloud is on average 10x less expensive than current cloud storage providers. Storing 1TB on Sia costs about $2 per month, compared with $23 on Amazon S3. Calculate your savings below!</p>
+			</div>
+		</div>
+
+		<div class="columns is-vcentered has-text-centered">
+			<div class="column is-hidden-tablet">
+				<img class="siainfo-image" src="img/siainfo3.png">
+			</div>
+			<div class="column">
+				<h1 class="title is-2 is-small"> Highly redundant </h1>
+				<p>Sia stores tiny pieces of your files on dozens of nodes across the globe. This eliminates any single point of failure and ensures highest possible uptime, on par with other cloud storage providers.</p>
+			</div>
+			<div class="column is-hidden-mobile">
+				<img class="siainfo-image" src="img/siainfo3.png">
+			</div>
+		</div>
+		<div class="columns is-vcentered has-text-centered">
+			<div class="column">
+				<img class="siainfo-image" src="img/siainfo4.png">
+			</div>
+			<div class="column">
+				<h1 class="title is-2"> Open Source </h1>
+				<p>Sia is completely open source. Over a dozen individuals have contributed to Sia's software, and there is an active community building innovative applications on top of the Sia API.</p>
+			</div>
+		</div>
+		<div class="columns is-vcentered has-text-centered">
+			<div class="column is-hidden-tablet">
+				<img class="siainfo-image" src="img/siainfo5.png">
+			</div>
+			<div class="column">
+				<h1 class="title is-2 is-small"> Built on blockchain </h1>
+				<p>Using the Sia blockchain, Sia creates a decentralized storage marketplace in which hosts compete for your business – this leads to the lowest possible prices. Renters pay using Siacoin, which can also be mined and traded.</p>
+			</div>
+			<div class="column is-hidden-mobile">
+				<img class="siainfo-image" src="img/siainfo5.png">
+			</div>
+		</div>
+	</div>
 </section>
-<section class="columns storage">
-  <div class="container">
-    <header class="row">
-      <div class="col-xs-12 col-lg-12">
-        <h1>{{% i18n "index_videoheader" %}}</h1>
-      </div>
-    </header>
-  <div class="video-wrapper col-xs-12 col-lg-12" style="margin-left: 16.66667%; margin-right: 16.66667%;">
-    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/B4YGpWxyn6Y?rel=0" frameborder="0" allowfullscreen></iframe>
-  </div>
-  </div>
+
+<section class="section calculation-section is-hidden-mobile">
+	<div class="container">
+		<h1 class="title is-2 has-text-centered">Calculate your savings</h1>
+		<p class="control is-vcentered">
+			<span class="label">How many TB?</span>
+			<input id="price" class="input usage-input" type="number" min="0" placeholder="1 TB" value="1">
+		</p>
+		<table class="table">
+			<thead>
+				<tr>
+					<th>Storage Provider</th>
+					<th>Monthly Storage Cost</th>
+					<th>Download Bandwidth Cost</th>
+					<th>Private</th>
+					<th>Decentralized</th>
+					<th>Included Multi Region Redundancy</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td>Sia</td>
+					<td id="sia-monthlystoragecost">$2</td>
+					<td id="sia-downloadbandwidthcost">$5</td>
+					<td><i class="fa fa-check" aria-hidden="true"></i></td>
+					<td><i class="fa fa-check" aria-hidden="true"></i></td>
+					<td><i class="fa fa-check" aria-hidden="true"></i></td>
+				</tr>
+				<tr>
+					<td>Amazon S3</td>
+					<td id="amazon-monthlystoragecost">$23</td>
+					<td id="amazon-downloadbandwidthcost">$92</td>
+					<td><i class="fa fa-times" aria-hidden="true"></i></td>
+					<td><i class="fa fa-times" aria-hidden="true"></i></td>
+					<td><i class="fa fa-times" aria-hidden="true"></i></td>
+				</tr>
+				<tr>
+					<td>Google Cloud</td>
+					<td id="google-monthlystoragecost">$20</td>
+					<td id="google-downloadbandwidthcost">$110</td>
+					<td><i class="fa fa-times" aria-hidden="true"></i></td>
+					<td><i class="fa fa-times" aria-hidden="true"></i></td>
+					<td><i class="fa fa-times" aria-hidden="true"></i></td>
+				</tr>
+				<tr>
+					<td>Microsoft Azure</td>
+					<td id="microsoft-monthlystoragecost">$24</td>
+					<td id="microsoft-downloadbandwidthcost">$87</td>
+					<td><i class="fa fa-times" aria-hidden="true"></i></td>
+					<td><i class="fa fa-times" aria-hidden="true"></i></td>
+					<td><i class="fa fa-times" aria-hidden="true"></i></td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
 </section>
-<section class="columns network">
-  <div class="container">
-    <header class="row">
-      <div class="col-xs-12 col-lg-12"><h1>{{% i18n "index_statsheader" %}}</h1></div>
-    </header>
-    <div class="row">
-      <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-        <header class="circle gray">
-          <aside class="circle green lg">
-            <h2 class="reverse" id="filecontractcount">444,000<br></h2>
-          </aside>
-        </header>
-        <h4>{{% i18n "index_stat1h" %}}</h4>
-      </div>
-      <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-        <header class="circle gray">
-          <aside class="circle green lg">
-            <h2 class="reverse" id="totalcontractcost">31</h2>
-            <i class="label">{{% i18n "index_stat4unit" %}}</i>
-          </aside>
-        </header>
-        <h4>{{% i18n "index_stat2h" %}}</h4>
-      </div>
-      <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-        <header class="circle gray">
-          <aside class="circle green lg">
-            <h2 class="reverse" id="totalcoins">20.00</h2>
-            <i class="label">{{% i18n "index_stat3unit" %}}</i>
-          </aside>
-        </header>
-        <h4>{{% i18n "index_stat3h" %}}</h4>
-      </div>
-      <div class="col-lg-2 col-lg-offset-10 text-right">
-        <p>
-          <br>
-          <a href="https://explore.sia.tech" class="more" target="_blank">{{% i18n "index_morestats" %}}</a>
-        </p>
-      </div>
-    </div>
-  </div>
-</section>
-<section class="form signup">
-  <div class="container">
-    <div class="row">
-      <form action="http://siacoin.us11.list-manage.com/subscribe/post"method="post" accept-charset="UTF-8" class="col-xs-12 col-lg-10 col-lg-offset-1">
-        <div class="row">
-          <div class="col-xs-12 col-sm-10 col-sm-offset-1">
-            <h1>{{% i18n "index_mailheader" %}}</h1>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-xs-12 col-sm-10 col-sm-offset-1">
-            <input type="hidden" name="CRAFT_CSRF_TOKEN" value="~iJ8vL1ocHcfOw11kCyrYWUN2vVYBlixUaL3lhPH">
-            <div class="input-group">
-              <input aria-label="U" type="hidden" name="u" value="5df238d9e852f9801b5f2c92e" type="hidden" />
-              <input aria-label="ID" type="hidden" name="id" value="49533cf53d" type="hidden" />
-              <input aria-label="Email" type="text" class="form-control" name="MERGE0" type="email" placeholder="{{% i18n "index_emailform" %}}" />
-              <button class="btn" role="button" type="submit">{{% i18n "index_emailbtn" %}}</button>
-            </div>
-          </div>
-        </div>
-      </form>
-    </div>
-  </div>
-</section>
+
+
+<script src="/scripts/homepage.js"></script>
+

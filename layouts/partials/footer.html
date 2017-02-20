@@ -1,104 +1,44 @@
-<footer>
-  <section id="main-footer">
-    <div class="container">
-      <div class="row">
-        
-        <div  class="col-lg-2 col-sm-4">
-          <ul>
-            <li><span class="list-header">{{ i18n "footer_navheader" }}</span></li>
-            
-              <li><a href="{{ .LanguagePrefix }}/get-started" >{{ i18n "title_getstarted" }}</a></li>
-            
-              <li><a href="{{ .LanguagePrefix }}/about" >{{ i18n "title_about" }}</a></li>
-            
-              <li><a href="{{ .LanguagePrefix }}/faq" >{{ i18n "title_faq" }}</a></li>
-            
-              <li><a href="{{ .LanguagePrefix }}/apps" >{{ i18n "title_apps" }}</a></li>
-            
-            </li>
-          </ul>
-        </div>
-        
-        <div  class="col-lg-2 col-sm-4">
-          <ul>
-            <li><span class="list-header">{{ i18n "footer_moreheader" }}</span></li>
-            
-              <li><a href="{{ .LanguagePrefix }}/get-siacoin" >{{ i18n "title_getsiacoin" }}</a></li>
-            
-              <li><a href="{{ .LanguagePrefix }}/about/milestones" >{{ i18n "title_roadmap" }}</a></li>
-            
-              <li><a href="https://github.com/NebulousLabs/Sia-UI" target=&#34;_blank&#34;>Github - UI</a></li>
-            
-              <li><a href="https://github.com/NebulousLabs/Sia" target=&#34;_blank&#34;>Github</a></li>
-            
-              <li><a href="http://github.com/NebulousLabs/Sia/tree/master/doc" target=&#34;_blank&#34;>{{ i18n "footer_docs" }}</a></li>
-            
-            </li>
-          </ul>
-        </div>
-        
-        <div  class="col-lg-2 col-sm-4">
-          <ul>
-            <li><span class="list-header">{{ i18n "header_community" }}</span></li>
-            
-              <li><a href="https://blog.sia.tech" target=&#34;_blank&#34;>{{ i18n "footer_blog" }}</a></li>
-            
-              <li><a href="https://www.reddit.com/r/siacoin" target=&#34;_blank&#34;>Subreddit</a></li>
-            
-              <li><a href="https://forum.sia.tech" target=&#34;_blank&#34;>{{ i18n "footer_forum" }}</a></li>
-            
-              <li><a href="https://slackin.sia.tech/" target=&#34;_blank&#34;>Slack</a></li>
-            
-            </li>
-          </ul>
-        </div>
-        
-        <div class="col-lg-3 col-lg-offset-3 col-sm-7 logos" class="col-lg-2 col-sm-4">
-          <ul>
-            <li><img src="/assets/globals/logo.svg" /><span class="list-header">{{ i18n "footer_backedby" }}</span></li>
-            <li><a href="http://www.nebulouslabs.com" target="_blank"><img src="/img/svg/nebulous-logo.svg" /></a></li>
-          </ul>
-        </div>
-        <div class="col-lg-12 questions" class="col-lg-2 col-sm-4">
-          <ul>
-            <li><span class="list-header">{{ i18n "footer_questions" }}</span></li>
-            <li><a href="mailto:hello@sia.tech" target="_blank" class="email btn btn-reverse"style="margin-top:9px;">{{ i18n "footer_contact" }}</a></li>
-          </ul>
+<footer class="footer">
+  <div class="container">
+    <div class="columns has-text-centered">
+      <div class="column is-three-quarters">
+        <div class="columns">
+          <div class="column">
+            <h1 class="title is-6" style="color: #eee">What is Sia?</h1>
+            <ul>
+              <li><a href="https://sia.tech/get-started" class="link is-6">Get Started</a></li>
+              <li><a href="https://sia.tech/about" class="link is-6">About</a></li>
+              <li><a href="https://sia.tech/faq" class="link is-6">FAQ</a></li>
+              <li><a href="https://sia.tech/apps" class="link is-6">Download</a></li>
+              <li><a href="mailto:hello@sia.tech" class="link is-6">Contact</a></li>
+            </ul>
+          </div>
+          <div class="column">
+            <h1 class="title is-6" style="color: #eee">More About Sia</h1>
+            <ul>
+              <li><a href="https://sia.tech/get-siacoin" class="link is-6">Get Siacoin</a></li>
+              <li><a href="https://sia.tech/about/milestones" class="link is-6">Roadmap</a></li>
+              <li><a href="https://github.com/NebulousLabs/Sia-UI" class="link is-6">Github - UI</a></li>
+              <li><a href="https://github.com/NebulousLabs/Sia" class="link is-6">Github</a></li>
+              <li><a href="https://github.com/NebulousLabs/Sia/tree/master/doc" class="link is-6">Docs</a></li>
+            </ul>
+          </div>
+          <div class="column">
+            <h1 class="title is-6" style="color: #eee">Community</h1>
+            <ul>
+              <li><a href="https://blog.sia.tech/" class="link is-6">Blog</a></li>
+              <li><a href="https://twitter.com/siatechhq" class="link is-6">Twitter</a></li>
+              <li><a href="https://www.reddit.com/r/siacoin" class="link is-6">Subreddit</a></li>
+              <li><a href="https://forum.sia.tech/" class="link is-6">Forum</a></li>
+              <li><a href="https://slackin.sia.tech/" class="link is-6">Slack</a></li>
+            </ul>
+          </div>
         </div>
       </div>
-    </div>
-  </section>
-  <section id="social-footer">
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-9 col-md-9">
-          <ul>
-            <li>
-              <a href="https://github.com/NebulousLabs/Sia" target="_blank">
-                <span class="icon"><img src="/img/svg/github-icon.svg"></span>
-                <span class="text">Github</span>
-              </a>
-            </li>
-            <li>
-              <a href="https://www.facebook.com/nebulouslabs/" target="_blank">
-                <span class="icon"><img src="/img/svg/facebook-icon.svg"></span>
-                <span class="text">{{ i18n "footer_like" }}</span>
-              </a>
-            </li>
-            <li>
-              <a href="https://twitter.com/SiaTechHQ" target="_blank">
-                <span class="icon"><img src="/img/svg/twitter-icon.svg"></span>
-                <span class="text">{{ i18n "footer_follow" }}</span>
-              </a>
-            </li>
-          </ul>
-        </div>
-        <div class="col-lg-3 col-md-3">
-          <p>
-            <span class="copyright">&copy; Nebulous Inc.</span>
-          </p>
-        </div>
+      <div class="column has-text-centered is-vcentered">
+        <h1 class="subtitle" style="color: #eee"> Sia is built by</h1>
+        <img style="max-width: 200px;" src="img/nebulous-logo.png">
       </div>
     </div>
-  </section>
+  </div>
 </footer>
