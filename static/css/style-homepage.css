@@ -32,6 +32,30 @@
 footer {
   background-color: #202020 !important; }
 
+.dropdown {
+  position: relative;
+  display: inline-block; }
+
+.dropdown span {
+  color: #aaa; }
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  left: 0px;
+  top: 30px;
+  background-color: rgba(26, 26, 26, 0.2);
+  min-width: 100px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  padding: 12px 16px;
+  z-index: 1; }
+
+.dropdown-content a {
+  display: block; }
+
+.dropdown:hover .dropdown-content {
+  display: block; }
+
 /*! bulma.io v0.3.1 | MIT License | github.com/jgthms/bulma */
 @keyframes spinAround {
   from {
@@ -4061,4 +4085,4 @@ label.panel-block {
   background-color: #1a1a1a;
   padding: 3rem 1.5rem 6rem; }
 
-/*# sourceMappingURL=style.css.map */
+/*# sourceMappingURL=style-homepage.css.map */

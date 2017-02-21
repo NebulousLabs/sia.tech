@@ -6,10 +6,11 @@
   <link rel="stylesheet" type="text/css" href="/css/style.css">
   <script src="/scripts/behaviour.min.js"></script>
   <meta name="viewport" content="initial-scale=1.0">
-  <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
+  {{ if eq .URL "/"}}
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/css/style-homepage.css">
+  {{ end }}
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="/css/style-homepage.css">
   {{ template "_internal/google_analytics_async.html" . }}
 </head>
 <body>
