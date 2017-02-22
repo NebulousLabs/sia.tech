@@ -68,7 +68,8 @@ footer {
 
 .announcements-email {
   height: 36px;
-  border: 1px solid #00cba0; }
+  border: 1px solid #00cba0;
+  margin-right: 3px; }
 
 .signup-button {
   background-color: #00cba0 !important;
