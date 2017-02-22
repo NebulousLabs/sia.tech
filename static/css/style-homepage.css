@@ -66,6 +66,15 @@ footer {
   border-color: #00cba0 !important;
   font-weight: bold; }
 
+.announcements-email {
+  height: 36px;
+  border: 1px solid #00cba0; }
+
+.signup-button {
+  background-color: #00cba0 !important;
+  border-color: #00cba0 !important;
+  color: #eee !important; }
+
 /*! bulma.io v0.3.1 | MIT License | github.com/jgthms/bulma */
 @keyframes spinAround {
   from {
