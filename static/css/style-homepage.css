@@ -18,16 +18,18 @@
   background: #1a1a1a; }
 
 .siainfo-image {
-  max-height: 350px;
   max-width: 400px;
   height: auto;
-  width: auto; }
+  width: auto;
+  margin: auto;
+  display: block; }
 
 .siainfo-image-mobile {
-  max-height: 300px;
-  max-width: 400px;
+  max-width: 100%;
   height: auto;
-  width: auto; }
+  width: auto;
+  margin: auto;
+  display: block; }
 
 .column > p {
   font-size: 1.2rem; }
