@@ -29,7 +29,11 @@ document.getElementById('watchvideobutton').onclick = function() {
 	document.getElementById('watchvideomodal').className += ' is-active'
 }
 
+var videoIframe = document.getElementById('videoframe')
+
 document.getElementById('watchvideoclose').onclick = function() {
+	videoIframe.contentWindow.postMessage('{"event":"command","func":"' + 'stopVideo' + '","args":""}', '*'); 
 	var c = document.getElementById('watchvideomodal').className
 	document.getElementById('watchvideomodal').className = c.replace('is-active', '')
 }
+
