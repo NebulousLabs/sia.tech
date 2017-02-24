@@ -13,8 +13,22 @@ title = "homepage"
 			<h2 class="subtitle non-caps" style="padding-bottom: 1rem; letter-spacing: .1rem">
 				Welcome to a new era of cloud storage on the blockchain
 			</h2>
-			<a href="http://sia.tech/get-started" class="button is-large is-primary is-inverted is-outlined">Get Started</a>
-			<button class="button is-large is-primary is-inverted is-outlined" id="watchvideobutton">Watch Video</button>
+			<div class="columns has-text-centered">
+				<div class="column"></div>
+				<div class="column"></div>
+				<div class="column"></div>
+				<div class="column">
+					<a href="http://sia.tech/get-started" class="button is-large is-primary is-inverted is-outlined">Get Started</a>
+				</div>
+				<div class="column">
+					<button class="button is-large is-primary is-inverted is-outlined" id="watchvideobutton">Watch Video</button>
+				</div>
+				<div class="column"></div>
+				<div class="column"></div>
+				<div class="column"></div>
+			</div>
+			
+
 			<div id="watchvideomodal" class="modal">
 				<div id="watchvideomodalbackground" class="modal-background"></div>
 				<div class="modal-content">
@@ -90,7 +104,6 @@ title = "homepage"
 			</div>
 		</div>
 	</div>
-</div>
 </section>
 
 <section class="section calculation-section is-hidden-mobile">
@@ -152,17 +165,25 @@ title = "homepage"
 <section class="section">
 	<div class="container">
 		<h1 class="title is-2">Ready to transform your cloud?</h1>
-		<div class="transform-buttons has-text-centered">
-			<a href="/get-started" class="button is-large is-outlined">Get Started</a>
-			<a href="mailto:hello@sia.tech" class="button is-large is-outlined">Contact</a>
-			<a href="https://siawiki.tech/"class="button is-large is-outlined">Wiki</a>
+		<div class="columns transform-buttons has-text-centered">
+			<div class="column"></div>
+			<div class="column">
+				<a href="/get-started" class="button is-large is-outlined">Get Started</a>
+			</div>
+			<div class="column">
+				<a href="mailto:hello@sia.tech" class="button is-large is-outlined">Contact</a>
+			</div>
+			<div class="column">
+				<a href="https://siawiki.tech/"class="button is-large is-outlined">Wiki</a>
+			</div>
+			<div class="column"></div>
 		</div>
 	</div>
 </section>
 
 <section class="section calculation-section">
-	<div class="container has-text-centered">
-		<form action="http://siacoin.us11.list-manage.com/subscribe/post"method="post" accept-charset="UTF-8">
+	<form action="http://siacoin.us11.list-manage.com/subscribe/post"method="post" accept-charset="UTF-8">
+		<div class="container">
 			<input type="hidden" name="CRAFT_CSRF_TOKEN" value="~iJ8vL1ocHcfOw11kCyrYWUN2vVYBlixUaL3lhPH">
 			<div class="input-group">
 				<input aria-label="U" type="hidden" name="u" value="5df238d9e852f9801b5f2c92e" type="hidden" />
@@ -172,6 +193,7 @@ title = "homepage"
 			</div>
 		</form>
 	</div>
+</div>
 </section>
 
 <script src="/scripts/homepage.js"></script>
