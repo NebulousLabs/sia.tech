@@ -83,14 +83,17 @@ footer {
   border-color: #00cba0 !important; }
 
 .announcements-email {
-  height: 36px;
+  width: 250px;
+  height: 50px !important;
   border: 1px solid #00cba0;
-  margin-right: 3px; }
+  text-indent: 10px; }
 
 .signup-button {
+  width: 250px;
   background-color: #00cba0 !important;
   border-color: #00cba0 !important;
-  color: #eee !important; }
+  color: #eee !important;
+  height: 50px !important; }
 
 /*! bulma.io v0.3.1 | MIT License | github.com/jgthms/bulma */
 @keyframes spinAround {
