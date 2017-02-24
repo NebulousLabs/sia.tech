@@ -1,0 +1,112 @@
+// sass rules for the sia website
+
+$color-siagreen: rgb(0, 203, 160)
+$color-background: rgb(26, 26, 26)
+$color-background-alt: rgba(26, 26, 26, 0.05)
+
+
+$primary-font: "Roboto", sans-serif
+$size-3: 50px
+$size-5: 24px
+$size-1: 25px
+$size-2: 30px
+
+$size-6: 16px
+
+$primary: $color-background
+$link: #aaa
+$link-hover: #ccc
+
+$background: $color-background
+
+$family-primary: $primary-font
+
+.hero.is-primary.connected-world
+	background-color: $color-background
+	background: linear-gradient(rgba(26, 26, 26, 0.85), rgba(26, 26, 26, 0.85)), url("/img/connectedworld.jpg")
+	background-position: center top
+
+.title-highlight
+	color: $color-siagreen
+
+.nav
+	box-shadow: none !important
+
+.getstarted-button
+	background-color: $color-background !important
+
+.siainfo-image
+	max-height: 350px
+	max-width: 400px
+	height: auto
+	width: auto
+
+.column > p 
+	font-size: 1.2rem
+
+.section.calculation-section
+	background-color: $color-background-alt
+
+.input.usage-input
+	width: 100px
+	margin-left: auto
+	margin-right: aaa
+
+.fa.fa-check
+	color: $color-siagreen
+
+footer
+	background-color: rgb(32, 32, 32) !important
+
+.sianav
+	background-color: $color-background !important
+
+.dropdown
+	position: relative
+	display: inline-block
+
+.dropdown span
+	color: $link
+
+.dropdown-content
+	display: none
+	position: absolute
+	left: 0px
+	top: 30px
+	background-color: rgba(26, 26, 26, 0.2)
+	min-width: 100px
+	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2)
+	padding: 12px 16px
+	z-index: 1
+
+.non-caps
+	text-transform: none !important
+
+.dropdown-content a
+	display: block
+
+.dropdown:hover .dropdown-content
+	display: block
+
+.transform-buttons a
+	width: 200px
+	margin-left: 4px
+	margin-right: 4px
+	border-color: $color-siagreen !important
+
+.announcements-email
+	height: 36px
+	border: 1px solid $color-siagreen
+	margin-right: 3px
+
+.signup-button
+	background-color: $color-siagreen !important
+	border-color: $color-siagreen !important
+	color: #eee !important
+
+
+@import "bulma/bulma.sass"
+
+
+
+@import "style.css"
