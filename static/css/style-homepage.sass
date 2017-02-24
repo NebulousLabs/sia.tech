@@ -21,6 +21,11 @@ $background: $color-background
 
 $family-primary: $primary-font
 
+.subtitle.sia-lead-sub
+	padding-top: 0.6rem
+	padding-bottom: 0.1rem
+	letter-spacing: 0.1rem
+
 .hero.is-primary.connected-world
 	background-color: $color-background
 	background: linear-gradient(rgba(26, 26, 26, 0.85), rgba(26, 26, 26, 0.85)), url("/img/connectedworld.jpg")
@@ -28,6 +33,7 @@ $family-primary: $primary-font
 
 .title-highlight
 	color: $color-siagreen
+	white-space: nowrap
 
 .nav
 	box-shadow: none !important
@@ -59,6 +65,11 @@ $family-primary: $primary-font
 
 .section.calculation-section
 	background-color: $color-background-alt
+
+.section.email-section
+	background-color: $color-background-alt
+	padding-top: 3px
+	padding-bottom: 3px
 
 .input.usage-input
 	width: 100px
@@ -108,17 +119,19 @@ footer
 	border-color: $color-siagreen !important
 
 .announcements-email
-	width: 250px
+	width: 320px
 	height: 50px !important
 	border: 1px solid $color-siagreen
 	text-indent: 10px
+	font-size: 1.2rem
 
 .signup-button
-	width: 250px
+	width: 320px
 	background-color: $color-siagreen !important
 	border-color: $color-siagreen !important
-	color: #eee !important
+	color: #fff !important
 	height: 50px !important
+	font-size: 1.2rem !important
 
 
 @import "bulma/bulma.sass"

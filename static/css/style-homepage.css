@@ -1,11 +1,17 @@
 @import url(style.css);
+.subtitle.sia-lead-sub {
+  padding-top: 0.6rem;
+  padding-bottom: 0.1rem;
+  letter-spacing: 0.1rem; }
+
 .hero.is-primary.connected-world {
   background-color: #1a1a1a;
   background: linear-gradient(rgba(26, 26, 26, 0.85), rgba(26, 26, 26, 0.85)), url("/img/connectedworld.jpg");
   background-position: center top; }
 
 .title-highlight {
-  color: #00cba0; }
+  color: #00cba0;
+  white-space: nowrap; }
 
 .nav {
   box-shadow: none !important; }
@@ -36,6 +42,11 @@
 
 .section.calculation-section {
   background-color: rgba(26, 26, 26, 0.05); }
+
+.section.email-section {
+  background-color: rgba(26, 26, 26, 0.05);
+  padding-top: 3px;
+  padding-bottom: 3px; }
 
 .input.usage-input {
   width: 100px;
@@ -85,17 +96,19 @@ footer {
   border-color: #00cba0 !important; }
 
 .announcements-email {
-  width: 250px;
+  width: 320px;
   height: 50px !important;
   border: 1px solid #00cba0;
-  text-indent: 10px; }
+  text-indent: 10px;
+  font-size: 1.2rem; }
 
 .signup-button {
-  width: 250px;
+  width: 320px;
   background-color: #00cba0 !important;
   border-color: #00cba0 !important;
-  color: #eee !important;
-  height: 50px !important; }
+  color: #fff !important;
+  height: 50px !important;
+  font-size: 1.2rem !important; }
 
 /*! bulma.io v0.3.1 | MIT License | github.com/jgthms/bulma */
 @keyframes spinAround {
