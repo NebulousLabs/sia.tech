@@ -35,6 +35,7 @@
   translation: "Roadmap"
 
 
+
 # Partials
 ### header ###
 - id: header_community
@@ -63,7 +64,7 @@
 - id: footer_navheader
   translation: "What is Sia?"
 
-- id: footer_moreheader
+- id: footer_moreheader 
   translation: "More about Sia"
 
 - id: footer_docs
@@ -97,83 +98,92 @@
 # URL: /index.html
 ### big header ###
 - id: index_bigheader1
-  translation: "Sia is the"
+  translation: "Your <span class=\"title-highlight\">decentralized</span> private cloud"
 
-- id: index_bigheader2
-  translation: "Decentralized Cloud"
+- id: index_subtitle
+  translation: "Welcome to a new era of cloud storage on the blockchain"
 
-- id: index_bigheader3
-  translation: "as your Storage Backend"
+- id: index_getstartedbtn
+  translation: "Get Started"
 
-- id: index_bigbtn1
-  translation: "Get started"
-
-- id: index_bigbtn2
-  translation: "Watch video"
+- id: index_watchvideobtn
+  translation: "Watch Video"
 
 ### info section ###
-- id: index_infoheader
-  translation: "What is Sia?"
+- id: index_info1_title
+  translation: "Completely private"
 
-- id: index_infosubheader
-  translation: "A storage marketplace enabling buyers to rent space from sellers with extra disk space"
+- id: index_info1_content
+  translation: "Sia splits apart, encrypts, and distributes your files across a decentralized network. Since you hold the keys, you own your data. No outside company can access or control your files, unlike traditional cloud storage providers."
 
-- id: index_infosection3h
-  translation: "Competitively Priced"
+- id: index_info2_title
+  translation: "Far more affordable"
 
-- id: index_infosection3p
-  translation: "Sia is a storage marketplace. The price of storage on the network is determined by the free market equilibrium, often well below the price of centralized storage. <a href=\"/img/png/comparison-table.png\">Compare Sia to other storage solutions</a>."
+- id: index_info2_content
+  translation: "Sia's decentralized cloud is on average 10x less expensive than current cloud storage providers. Storing 1TB on Sia costs about $2 per month, compared with $23 on Amazon S3. Calculate your savings below!"
 
-- id: index_infosection2h
+- id: index_info3_title
+  translation: "Highly redundant"
+
+- id: index_info3_content
+  translation: "Sia stores tiny pieces of your files on dozens of nodes across the globe. This eliminates any single point of failure and ensures highest possible uptime, on par with other cloud storage providers."
+
+- id: index_info4_title
+  translation: "Open Source"
+
+- id: index_info4_content
+  translation: "Sia is completely open source. Over a dozen individuals have contributed to Sia's software, and there is an active community building innovative applications on top of the Sia API."
+
+- id: index_info5_title
+  translation: "Built on blockchain"
+
+- id: index_info5_content
+  translation: "Using the Sia blockchain, Sia creates a decentralized storage marketplace in which hosts compete for your business – this leads to the lowest possible prices. Renters pay using Siacoin, which can also be mined and traded."
+
+### calculation section ###
+- id: index_calculationheader
+  translation: "Calculate your savings"
+
+- id: index_calculationamount
+  translation: "How many TB?"
+
+- id: index_calculationprovider
+  translation: "Storage Provider"
+
+- id: index_caluclationcost
+  translation: "Monthly Storage Cost"
+
+- id: index_calculationbwcost
+  translation: "Download Bandwidth Cost"
+
+- id: index_calculationprivate
+  translation: "Private"
+
+- id: index_calculationdecentralized
   translation: "Decentralized"
 
-- id: index_infosection2p
-  translation: "Sia is a decentralized network consisting of many nodes around the world. Data is stored redundantly on a diverse subset of these nodes, meaning there’s no single or central point of failure."
+- id: index_calculationredundancy
+  translation: "Included Multi Region Redundancy"
 
-- id: index_infosection1h
-  translation: "Made for Developers"
+### transform your cloud section ###
+- id: index_transformcloudheader
+  translation: "Ready to transform your cloud?"
 
-- id: index_infosection1p
-  translation: "Sia was made to be integrated as your storage backend. You only pay for the storage you use, and there is no commitment. Get started with our <a href=\"https://blog.sia.tech/api-quickstart-guide-f1d160c05235\">API Quickstart Guide</a>."
+- id: index_transformcloudgetstarted
+  translation: "Get Started"
 
-### video section ###
-- id: index_videoheader
-  translation: "Sia Introduction"
+- id: index_transformcloudcontact
+  translation: "Contact"
 
-### explorer stats section ###
-- id: index_statsheader
-  translation: "Network Pulse"
-
-- id: index_stat1h
-  translation: "Total File Contracts"
-
-- id: index_stat2h
-  translation: "Total Contract Cost"
-
-- id: index_stat2unit
-  translation: "TB"
-
-- id: index_stat3h
-  translation: "Total Siacoins"
-
-- id: index_stat3unit
-  translation: "Billion"
-
-- id: index_stat4unit
-  translation: "Million SC"
-
-- id: index_morestats
-  translation: "more stats"
+- id: index_transformcloudwiki
+  translation: "Wiki"
 
 ### mailing list ###
-- id: index_mailheader
-  translation: "Sign up for Sia announcements"
+- id: index_mailbutton
+  translation: "Sign up for announcements"
 
 - id: index_emailform
   translation: "Email"
-
-- id: index_emailbtn
-  translation: "Sign up"
 
 
 # URL: /about/index.html

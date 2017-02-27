@@ -9,14 +9,14 @@
         </button>
         <div class="collapse navbar-toggleable-md" id="sia-nav">
           <ul class="bootstrap-nav navbar-nav h-box">
-                {{ if and .IsTranslated (ne .URL "/") }}
+                {{ if .IsTranslated }}
                   <li class="nav-item dropdown language-menu icon">
                     <a id="nav-item-locale" class="dropdown-toggle nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
                       <span class="icon language"></span>
                       {{ i18n .Lang }}<span class="caret"></span>
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="#nav-item-locale">
-                      {{ range .Translations }}
+                    {{ range .Translations }}
                         <li class="dropdown-item ">
                           <a href="{{ .Permalink }}" class="nav-link skip-menu-prefix" >
                             {{ i18n .Lang }}
