@@ -2,6 +2,14 @@
   <!-- Workaround to let us write the index page in the content dir. See https://github.com/spf13/hugo/issues/330 -->
   {{ range .Data.Pages }}
     {{ if eq .Type "index" }}
+   		{{ if .Params.i18nwarnings }}
+    		{{ $pagelang := .Lang }}
+    		{{ range $lang := .Params.i18nwarnings }}
+      			{{ if eq $lang $pagelang }}
+        			{{ partial "i18nwarning.html" . }}
+      			{{ end }}
+    		{{ end }}
+  		{{ end }}
       {{ .Content }}
     {{ end }}
   {{ end }}

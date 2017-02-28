@@ -21,7 +21,7 @@
       {{ end }}
     {{ end }}
   {{ end }}
-    {{ partial "header.html" .}}
+  {{ partial "header.html" .}}
   {{ if eq .Kind "home" }}
     {{ block "main" . }}{{ end }}
   {{ else }}
@@ -30,6 +30,5 @@
     </main>
   {{ end }}
   {{ partial "footer.html" . }}
-
 </body>
 </html>

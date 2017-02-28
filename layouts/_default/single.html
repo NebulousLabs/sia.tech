@@ -3,7 +3,7 @@
 {{ end }}
 {{ define "main" }}
   {{ .Content }}
-  {{ if ne .URL "/" }}
+  {{ if ne .Kind "home"}}
 	  {{ partial "discover.html" . }}
   {{ end }}
 {{ end }}
