@@ -76,88 +76,95 @@
 - id: footer_follow
   translation: "Folgen Sie uns"
 
-
 # URL: /index.html
 ### big header ###
 - id: index_bigheader1
-  translation: "Sia ist die"
+  translation: "Ihre <span class=\"title-highlight\">dezentrale</span> private Cloud"
 
-- id: index_bigheader2
-  translation: "Dezentrale Cloud"
+- id: index_subtitle
+  translation: "Willkommen in einer neuen Ära von Cloudspeicher auf der Blockchain"
 
-- id: index_bigheader3
-  translation: "als Ihr Speicher Back-End"
-
-- id: index_bigbtn1
+- id: index_getstartedbtn
   translation: "Loslegen"
 
-- id: index_bigbtn2
-  translation: "Video anschauen"
+- id: index_watchvideobtn
+  translation: "Video schauen"
 
 ### info section ###
-- id: index_infoheader
-  translation: "Was ist Sia?"
+- id: index_info1_title
+  translation: "Vollkommen privat"
 
-- id: index_infosubheader
-  translation: "Ein Marktplatz für Speicher der es einem Käufer ermöglicht, freien Speicherplatz von einem Verkäufer zu mieten"
+- id: index_info1_content
+  translation: "Sia zerlegt, verschlüsselt und verteilt Ihre Dateien über ein dezentrales Netzwerk. Da nur Sie die Schlüssel besitzen, gehören die Daten Ihnen alleine. Kein externes Unternehmen hat Zugriff oder Kontrolle über Ihre Dateien, anders als bei traditionellen Anbietern von Cloudspeicher."
 
-- id: index_infosection3h
-  translation: "Wettbewerbsfähig"
+- id: index_info2_title
+  translation: "Weitaus günstiger"
 
-- id: index_infosection3p
-  translation: "Sia ist ein Marktplatz für Speicher. Der Preis für freien Speicherplatz auf dem Netzwerk wird durch das Gleichgewicht des freien Marktes bestimmt, wobei er oft weit unter dem Preis von zentralisiertem Speicherplatz liegt. <a href=\"/img/png/comparison-table.png\">Vergleichen Sie Sia mit anderen Speicherlösungen</a>."
+- id: index_info2_content
+  translation: "Sia's dezentrale Cloud ist im Durchschnitt 10x günstiger als heutige Anbieter von Cloudspeicher. Das Speichern von 1TB auf Sia kostet etwa $2 pro Monat, verglichen mit $23 auf Amazon S3. Berechnen Sie Ihre Einsparungen weiter unten!"
 
-- id: index_infosection2h
-  translation: "Verteilt"
+- id: index_info3_title
+  translation: "Stark redundant"
 
-- id: index_infosection2p
-  translation: "Sia ist ein dezentrales Netzwerk, welches aus vielen Knotenpunkten auf der ganzen Welt besteht. Die Daten werden redundant auf einer Auswahl dieser Knoten gespeichert, so dass es keine einzelne oder zentrale Fehlerstelle geben kann."
+- id: index_info3_content
+  translation: "Sia speichert kleine Stücke Ihrer Dateien auf Dutzenden von Knoten auf der ganzen Welt. Dies beseitigt jegliche zentrale Fehlerstelle und garantiert höchstmögliche Verfügbarkeit, auf Augenhöhe mit anderen Anbietern von Cloudspeicher."
 
-- id: index_infosection1h
-  translation: "Für Entwickler gemacht"
+- id: index_info4_title
+  translation: "Open-Source"
 
-- id: index_infosection1p
-  translation: "Sia wurde geschaffen um von Ihnen als Speicher Back-End integriert zu werden. Sie bezahlen nur für denjenigen Speicher den Sie wirklich benutzen und es gibt keine Verpflichtung. Starten Sie mit unserer <a href=\"https://blog.sia.tech/api-quickstart-guide-f1d160c05235\">API Schnellstart-Anleitung</a>."
+- id: index_info4_content
+  translation: "Sia ist komplett Open-Source. Über ein Dutzend Personen haben zu Sia's Software beigetragen, und es gibt eine aktive Community, welche innovative Anwendungen auf der Sia API aufbaut."
 
-### video section ###
-- id: index_videoheader
-  translation: "Wie Sia funktioniert"
+- id: index_info5_title
+  translation: "Erbaut auf der Blockchain"
 
-### explorer stats section ###
-- id: index_statsheader
-  translation: "Netzwerk Puls"
+- id: index_info5_content
+  translation: "Mit Hilfe der Blockchain schafft Sia einen Marktplatz für dezentralen Speicher in welchem die Anbieter von Speicher miteinander konkurrieren - dies führt zu tiefst möglichen Preisen. Die Käufer von Speicher zahlen mit Siacoins, welche auch abgebaut (mining) oder gehandelt werden können."
 
-- id: index_stat1h
-  translation: "Anzahl Datei-Verträge"
+### calculation section ###
+- id: index_calculationheader
+  translation: "Berechnen Sie Ihre Einsparungen"
 
-- id: index_stat2h
-  translation: "Gesamtkosten der Verträge"
+- id: index_calculationamount
+  translation: "Wieviele TB?"
 
-- id: index_stat2unit
-  translation: "TB"
+- id: index_calculationprovider
+  translation: "Speicheranbieter"
 
-- id: index_stat3h
-  translation: "Gesamtanzahl Siacoins"
+- id: index_caluclationcost
+  translation: "Monatliche Kosten für Speicher"
 
-- id: index_stat3unit
-  translation: "Milliarden"
+- id: index_calculationbwcost
+  translation: "Kosten für Download-Bandbreite"
 
-- id: index_stat4unit
-  translation: "Millionen SC"
+- id: index_calculationprivate
+  translation: "Privat"
 
-- id: index_morestats
-  translation: "mehr Statistiken"
+- id: index_calculationdecentralized
+  translation: "Dezentral"
+
+- id: index_calculationredundancy
+  translation: "Mit Multi-Region-Redundanz"
+
+### transform your cloud section ###
+- id: index_transformcloudheader
+  translation: "Bereit für die Transformation Ihrer Cloud?"
+
+- id: index_transformcloudgetstarted
+  translation: "Loslegen"
+
+- id: index_transformcloudcontact
+  translation: "Kontakt"
+
+- id: index_transformcloudwiki
+  translation: "Wiki"
 
 ### mailing list ###
-- id: index_mailheader
-  translation: "Registrieren Sie sich für Sia Mitteilungen"
+- id: index_mailbutton
+  translation: "Anmelden für Ankündigungen"
 
 - id: index_emailform
   translation: "Email"
-
-- id: index_emailbtn
-  translation: "Registrieren"
-
 
 # URL: /about/index.html
 ### header ###
