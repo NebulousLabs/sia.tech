@@ -132,7 +132,7 @@
 - id: index_calculationprovider
   translation: "供应商"
 
-- id: index_caluclationcost
+- id: index_calculationcost
   translation: "月租费用"
 
 - id: index_calculationbwcost

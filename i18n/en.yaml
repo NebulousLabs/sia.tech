@@ -150,7 +150,7 @@
 - id: index_calculationprovider
   translation: "Storage Provider"
 
-- id: index_caluclationcost
+- id: index_calculationcost
   translation: "Monthly Storage Cost"
 
 - id: index_calculationbwcost

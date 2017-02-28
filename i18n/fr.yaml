@@ -131,7 +131,7 @@
 - id: index_calculationprovider
   translation: "Fournisseur de stockage"
 
-- id: index_caluclationcost
+- id: index_calculationcost
   translation: "Coût de stockage mensuel"
 
 - id: index_calculationbwcost

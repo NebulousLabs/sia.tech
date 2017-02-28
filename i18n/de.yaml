@@ -131,7 +131,7 @@
 - id: index_calculationprovider
   translation: "Speicheranbieter"
 
-- id: index_caluclationcost
+- id: index_calculationcost
   translation: "Monatliche Kosten für Speicher"
 
 - id: index_calculationbwcost
