@@ -1234,11 +1234,11 @@ main > section.timeline .timeline-content ul.timeline li:last-child img { margin
 .flex,.flex-1,.flex-2{-webkit-flex-basis: 0.000000001px;flex-basis: 0.000000001px;}
 .flex,.flex-1{-webkit-box-flex:1.0;-webkit-flex:1;flex:1;}
 .flex-2{-webkit-box-flex:2.0;-webkit-flex:2;flex:2;}
-#site-nav li .icon{width:20px;height:20px;margin-right:5px;background-position:center;background-repeat:no-repeat;}
-#site-nav li.icon>a{
+#site-nav li .bootstrap-icon{width:20px;height:20px;margin-right:5px;background-position:center;background-repeat:no-repeat;}
+#site-nav li.bootstrap-icon>a{
   display:-webkit-flex;display:-ms-flexbox;display:flex;
   -webkit-align-items:center;align-items:center;
   -webkit-box-pack:flex-end;-webkit-justify-content:flex-end;-ms-justify-content:flex-end;justify-content:flex-end;
 }
-.icon.language{background-image:url(/img/svg/language-icon.svg);}
+.bootstrap-icon.language{background-image:url(/img/svg/language-icon.svg);}
 

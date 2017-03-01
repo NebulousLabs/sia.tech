@@ -10,9 +10,9 @@
         <div class="collapse navbar-toggleable-md" id="sia-nav">
           <ul class="bootstrap-nav navbar-nav h-box">
                 {{ if .IsTranslated }}
-                  <li class="nav-item dropdown language-menu icon">
+                  <li class="bootstrap-nav-item dropdown language-menu bootstrap-icon">
                     <a id="nav-item-locale" class="dropdown-toggle nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
-                      <span class="icon language"></span>
+                      <span class="bootstrap-icon language"></span>
                       {{ i18n .Lang }}<span class="caret"></span>
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="#nav-item-locale">
@@ -78,9 +78,8 @@
                 <li class="bootstrap-nav-item ">
                   <a href="{{ .LanguagePrefix }}/get-started" class="nav-link btn btn-reverse" >
                     {{ i18n "title_getstarted" }}
-                  </a>
-                </li>
-            
+               </a>
+            </li>
           </ul>
         </div>
       </nav>
