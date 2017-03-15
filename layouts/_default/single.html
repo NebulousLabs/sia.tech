@@ -3,5 +3,7 @@
 {{ end }}
 {{ define "main" }}
   {{ .Content }}
-  {{ partial "discover.html" . }}
+  {{ if ne .Kind "home"}}
+	  {{ partial "discover.html" . }}
+  {{ end }}
 {{ end }}

@@ -76,90 +76,95 @@
 - id: footer_follow
   translation: "Suivez-nous"
 
-
 # URL: /index.html
 ### big header ###
 - id: index_bigheader1
-  translation: "Enterprise-Grade" # TODO: i18n: is this translation okay?
+  translation: "Votre réseau cloud, privé et<span class=\"title-highlight\"> décentralisé </span>"
 
-- id: index_bigheader2
-  translation: "Nuage Collaborative"
+- id: index_subtitle
+  translation: "Bienvenue dans la nouvelle ère du stockage cloud sur blockchain"
 
-- id: index_bigheader3
-  translation: "pour le stockage de données"
+- id: index_getstartedbtn
+  translation: "Pour Commencer"
 
-- id: index_downloadbtn
-  translation: "Télécharger maintenant"
-
-- id: index_videobtn
-  translation: "Watch video" # TODO: i18n: translate this
-
-- id: index_gettingstarted
-  translation: "Besoin d'aide pour commencer?"
+- id: index_watchvideobtn
+  translation: "Regarder La Vidéo"
 
 ### info section ###
-- id: index_infoheader
-  translation: "Sia détruit le destockage traditionnel sur le nuage" # TODO: i18n: update translation
+- id: index_info1_title
+  translation: "Entièrement privé"
 
-- id: index_infosubheader
-  translation: "et le retourne dans vos mains" # TODO: i18n: update translation
+- id: index_info1_content
+  translation: "Sia sépare, crypte et distribue vos fichiers sur un réseau décentralisé. Contrairement aux fournisseurs de stockage en réseau cloud traditionnels, vous contrôlez entièrement vos données puisque êtes le seul à détenir des clés."
 
-- id: index_infosection3h
-  translation: "Économie" # TODO: i18n: update translation
+- id: index_info2_title
+  translation: "Beaucoup plus avantageux"
 
-- id: index_infosection3p
-  translation: "Sia est une économie partagée. Acquérir, utiliser et échanger des SiaCoins selon votre rôle et vos exigences. Participer en tant qu'utilisateur, agriculteur, mineur, et opérateur de noeud." # TODO: i18n: update translation
+- id: index_info2_content
+  translation: "Le cloud décentralisé de Sia est en moyenne 10 fois moins cher que les fournisseurs traditionnels de stockage cloud. Stocker 1 To sur Sia coûte environ $2 par mois, comparé à $23 sur Amazon S3. Calculez vos économies ci-dessous!"
 
-- id: index_infosection2h
-  translation: "Distribué" # TODO: i18n: update translation
+- id: index_info3_title
+  translation: "Haute redondance"
 
-- id: index_infosection2p
-  translation: "La décentralisation signifie que vos données sont stockées sur plusieurs nœuds et suivis par des contrats intelligents automatisés. Il n'y a pas de point central de l'échec." # TODO: i18n: update translation
+- id: index_info3_content
+  translation: "Sia stocke vos fichiers en petits morceaux sur des douzaines de noeuds à travers le monde entier. Cela élimine tout point d'échec unique et garantit un temps de disponibilité maximal, à l'égal des autres fournisseurs de stockage cloud."
 
-- id: index_infosection1h
-  translation: "Construire" # TODO: i18n: update translation
+- id: index_info4_title
+  translation: "Open Source"
 
-- id: index_infosection1p
-  translation: "Construire et connecter vos propres applications à Sia pour tirer partie de sa capacité de stockage et de ces fonctionnalités. Ce que vous payez et ce que vous obtenez sont ajustés en temps réel." # TODO: i18n: update translation
+- id: index_info4_content
+  translation: "Sia est entièrement open source. Beaucoup de personnes contribuent au logiciel Sia, et une communauté active construit des applications innovantes avec l'API Sia."
 
-### video section ###
-- id: index_videoheader
-  translation: "Sia Introduction" # TODO: i18n: translate this
+- id: index_info5_title
+  translation: "Construit sur un blockchain"
 
-### explorer stats section ###
-- id: index_statsheader
-  translation: "Réseau Pulse" # TODO: i18n: is this translation okay?
+- id: index_info5_content
+  translation: "En utilisant son propre blockchain, Sia crée un marché de stockage décentralisé dans lequel les hôtes sont en concurrence pour votre entreprise – conduisant aux prix les plus bas possible. Les locataires payent en utilisant Siacoin, qui peut aussi être miné ou échangé."
 
-- id: index_stat1h
-  translation: "Total des contrats de fichiers"
+### calculation section ###
+- id: index_calculationheader
+  translation: "Calculer vos économies"
 
-- id: index_stat2h
-  translation: "Taille totale des Contrats" # TODO: update translation
+- id: index_calculationamount
+  translation: "Combien de To?"
 
-- id: index_stat2unit
-  translation: "TB"
+- id: index_calculationprovider
+  translation: "Fournisseur de stockage"
 
-- id: index_stat3h
-  translation: "Nombre total de Siacoins"
+- id: index_calculationcost
+  translation: "Coût de stockage mensuel"
 
-- id: index_stat3unit
-  translation: "Milliard"
+- id: index_calculationbwcost
+  translation: "Coût de téléchargement"
 
-- id: index_stat4unit
-  translation: "Million SC"
+- id: index_calculationprivate
+  translation: "Privé"
 
-- id: index_morestats
-  translation: "plus de statistiques"
+- id: index_calculationdecentralized
+  translation: "Décentralisé"
+
+- id: index_calculationredundancy
+  translation: "Redondance multi régions incluse"
+
+### transform your cloud section ###
+- id: index_transformcloudheader
+  translation: "Êtes-vous prêt à transformer votre Cloud?"
+
+- id: index_transformcloudgetstarted
+  translation: "Pour Commencer"
+
+- id: index_transformcloudcontact
+  translation: "Contact"
+
+- id: index_transformcloudwiki
+  translation: "Wiki"
 
 ### mailing list ###
-- id: index_mailheader
-  translation: "Inscrivez-vous pour les annonces Sia"
+- id: index_mailbutton
+  translation: "Inscrivez-vous à la newsletter"
 
 - id: index_emailform
-  translation: "Courriel"
-
-- id: index_emailbtn
-  translation: "Inscrivez-vous"
+  translation: "Email"
 
 
 # URL: /about/index.html

@@ -76,91 +76,97 @@
 - id: footer_follow
   translation: "追随我们"
 
-
 # URL: /index.html
+
 ### big header ###
 - id: index_bigheader1
-  translation: "企业级"
+  translation: "你的 <span class=\"title-highlight\">分布式</span> 私有云"
 
-- id: index_bigheader2
-  translation: "合作的云端"
+- id: index_subtitle
+  translation: "欢迎来到区块链云存储的新时代"
 
-- id: index_bigheader3
-  translation: "为了数据储存"
+- id: index_getstartedbtn
+  translation: "入门"
 
-- id: index_downloadbtn
-  translation: "现在下载"
-
-- id: index_videobtn
-  translation: "Watch video" # TODO: i18n: translate this.
-
-- id: index_gettingstarted
-  translation: "你需要帮助来启动吗？"
+- id: index_watchvideobtn
+  translation: "观看视频"
 
 ### info section ###
-- id: index_infoheader
-  translation: "细亚可以把传统的储存踢出云端" # TODO: i18n: update translation
+- id: index_info1_title
+  translation: "完全私有"
 
-- id: index_infosubheader
-  translation: "回到你的手上" # TODO: i18n: update translation
+- id: index_info1_content
+  translation: "Sia将你的文件分割，加密，分发到分布式网络。因为你有自己的私钥，所以你拥有你的数据。与传统的数据供应商可能会泄密不同，没有任何公司可以访问或控制你的文件。"
 
-- id: index_infosection3h
-  translation: "经济体" # TODO: i18n: update translation
+- id: index_info2_title
+  translation: "非常便宜"
 
-- id: index_infosection3p
-  translation: "细亚是个共享的经济体。你可以根据你的角色和要求来取得，使用，和交易细亚币。你可以是个用户，耕种者，矿工和节点管理者。" # TODO: i18n: update translation
+- id: index_info2_content
+  translation: "Sia的分布式云价格是现有的存储供应商的1/10。同样存储1TB数据，亚马逊云要$23/一个月，Sia只要$2。在下面计算你节省的费用！"
 
-- id: index_infosection2h
-  translation: "分散的" # TODO: i18n: update translation
+- id: index_info3_title
+  translation: "高度冗余"
 
-- id: index_infosection2p
-  translation: "去中心化意味着你的数据分布储存在多个节点然后由自动智能合约来跟踪。不会有单点崩溃。" # TODO: i18n: update translation
+- id: index_info3_content
+  translation: "Sia将你的文件分成很多小块，存储在世界各地。这样比起其他的存储供应商，可以避免单点失效，并且确保最高的响应速度。"
 
-- id: index_infosection1h
-  translation: "构建" # TODO: i18n: update translation
+- id: index_info4_title
+  translation: "开源"
 
-- id: index_infosection1p
-  translation: "构建和把你自己的应用和细亚相连来利用它的储存能力和功能来以小博大。你所付和你所得到的在第一时间被调整。" # TODO: i18n: update translation
+- id: index_info4_content
+  translation: "Sia完全开源。有很多人为Sia社区贡献，并且有一个活跃的社区在基于Sia API构建有创新的产品。"
 
-### video section ###
-- id: index_videoheader
-  translation: "Sia Introduction" # TODO: i18n: translate this
+- id: index_info5_title
+  translation: "基于区块链"
 
-### explorer stats section ###
-- id: index_statsheader
-  translation: "网络脉搏"
+- id: index_info5_content
+  translation: "使用区块链技术，Sia创建了一个由存储节点竞争的存储市场，这样将由市场竞争产生最便宜的存储价格。租用者可以使用购买或挖矿获得的sc币支付存储费用。"
 
-- id: index_stat1h
-  translation: "所有文件合同"
+### calculation section ###
+- id: index_calculationheader
+  translation: "计算节省"
 
-- id: index_stat2h
-  translation: "所有合同大小" # TODO: update translation
+- id: index_calculationamount
+  translation: "多少TB?"
 
-- id: index_stat2unit
-  translation: "TB" # TODO: i18n: is this translation correct?
+- id: index_calculationprovider
+  translation: "供应商"
 
-- id: index_stat3h
-  translation: "细亚币总数"
+- id: index_calculationcost
+  translation: "月租费用"
 
-- id: index_stat3unit
-  translation: "十亿"
+- id: index_calculationbwcost
+  translation: "下载费用"
 
-- id: index_stat4unit
-  translation: "Million SC" # TODO: translate this
+- id: index_calculationprivate
+  translation: "私有"
 
-- id: index_morestats
-  translation: "更多的数据"
+- id: index_calculationdecentralized
+  translation: "分布式"
+
+- id: index_calculationredundancy
+  translation: "数据跨区域冗余"
+
+### transform your cloud section ###
+- id: index_transformcloudheader
+  translation: "准备好迁移你的云了?"
+
+- id: index_transformcloudgetstarted
+  translation: "入门"
+
+- id: index_transformcloudcontact
+  translation: "联系我们"
+
+- id: index_transformcloudwiki
+  translation: "Wiki"
+
 
 ### mailing list ###
-- id: index_mailheader
-  translation: "登录可以收取细亚的宣告"
+- id: index_mailbutton
+  translation: "加入邮件列表"
 
 - id: index_emailform
-  translation: "电邮"
-
-- id: index_emailbtn
-  translation: "登录"
-
+  translation: "Email"
 
 # URL: /about/index.html
 ### header ###

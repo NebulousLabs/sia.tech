@@ -8,16 +8,15 @@
           <img class="menu-close" src="/img/svg/close.svg" alt="Sia" />
         </button>
         <div class="collapse navbar-toggleable-md" id="sia-nav">
-          <ul class="nav navbar-nav h-box">
-            
+          <ul class="bootstrap-nav navbar-nav h-box">
                 {{ if .IsTranslated }}
-                  <li class="nav-item dropdown language-menu icon">
+                  <li class="bootstrap-nav-item dropdown language-menu bootstrap-icon">
                     <a id="nav-item-locale" class="dropdown-toggle nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
-                      <span class="icon language"></span>
+                      <span class="bootstrap-icon language"></span>
                       {{ i18n .Lang }}<span class="caret"></span>
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="#nav-item-locale">
-                      {{ range .Translations }}
+                    {{ range .Translations }}
                         <li class="dropdown-item ">
                           <a href="{{ .Permalink }}" class="nav-link skip-menu-prefix" >
                             {{ i18n .Lang }}
@@ -28,21 +27,21 @@
                   </li>
                 {{ end }}
               
-                <li class="nav-item flex-1"></li>
+                <li class="bootstrap-nav-item flex-1"></li>
               
-                <li class="nav-item ">
+                <li class="bootstrap-nav-item ">
                   <a href="{{ .LanguagePrefix }}/apps" class="nav-link " >
                     {{ i18n "title_apps" }}
                   </a>
                 </li>
             
-                <li class="nav-item ">
+                <li class="bootstrap-nav-item ">
                   <a href="{{ .LanguagePrefix }}/about" class="nav-link " >
                     {{ i18n "title_about" }}
                   </a>
                 </li>
             
-                <li class="nav-item dropdown ">
+                <li class="bootstrap-nav-item dropdown ">
                   <a id="nav-item-community" class="dropdown-toggle nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
                     
                     {{ i18n "header_community" }}<span class="caret"></span>
@@ -76,12 +75,11 @@
                   </ul>
                 </li>
               
-                <li class="nav-item ">
+                <li class="bootstrap-nav-item ">
                   <a href="{{ .LanguagePrefix }}/get-started" class="nav-link btn btn-reverse" >
                     {{ i18n "title_getstarted" }}
-                  </a>
-                </li>
-            
+               </a>
+            </li>
           </ul>
         </div>
       </nav>

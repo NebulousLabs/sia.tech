@@ -1,0 +1,119 @@
+// sass rules for the sia website
+
+$color-siagreen: rgb(0, 203, 160)
+$color-background: rgb(26, 26, 26)
+$color-background-alt: rgba(26, 26, 26, 0.05)
+
+
+$primary-font: "Gotham A", "Gotham B", Helvetica, Arial, sans-serif
+$size-3: 50px
+$size-5: 24px
+$size-1: 25px
+$size-2: 30px
+
+$size-6: 16px
+
+$primary: $color-background
+$link: #aaa
+$link-hover: #ccc
+
+$background: $color-background
+
+$family-primary: $primary-font
+
+.subtitle.sia-lead-sub
+	padding-top: 0.6rem
+	padding-bottom: 0.1rem
+	letter-spacing: 0.1rem
+
+.hero.is-primary.connected-world
+	background-color: $color-background
+	background: linear-gradient(rgba(26, 26, 26, 0.85), rgba(26, 26, 26, 0.85)), url("/img/connectedworld.jpg")
+	background-position: center top
+
+.title-highlight
+	color: $color-siagreen
+	white-space: nowrap
+
+.nav
+	box-shadow: none !important
+
+.getstarted-button
+	background-color: $color-background !important
+
+#site-nav
+	background-color: $color-background
+	background: $color-background
+
+.siainfo-image
+	max-width: 400px
+	height: auto
+	width: auto
+	margin: auto
+	display: block
+
+
+.siainfo-image-mobile
+	max-width: 100%
+	height: auto
+	width: auto
+	margin: auto
+	display: block
+
+.column > p 
+	font-size: 1.2rem
+
+.section.calculation-section
+	background-color: $color-background-alt
+
+.section.email-section
+	background-color: $color-background-alt
+	padding-top: 3px
+	padding-bottom: 3px
+
+.input.usage-input
+	width: 100px
+	margin-left: auto
+	margin-right: aaa
+
+.fa.fa-check
+	color: $color-siagreen
+
+footer
+	background-color: rgb(32, 32, 32) !important
+
+.sianav
+	background-color: $color-background !important
+
+.non-caps
+	text-transform: none !important
+
+.transform-buttons a
+	width: 200px
+	margin-left: 4px
+	margin-right: 4px
+	border-color: $color-siagreen !important
+
+.announcements-email
+	width: 320px
+	height: 50px !important
+	border: 1px solid $color-siagreen
+	text-indent: 10px
+	font-size: 1.2rem
+
+.signup-button
+	width: 320px
+	background-color: $color-siagreen !important
+	border-color: $color-siagreen !important
+	color: #fff !important
+	height: 50px !important
+	font-size: 1.2rem !important
+	text-align: center !important
+	text-align: -webkit-center !important
+
+#nav-item-locale
+	padding-left: 2.5rem !important
+
+
+@import "bulma/bulma.sass"
+@import "style.css"

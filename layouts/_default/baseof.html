@@ -5,7 +5,11 @@
   <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
   <link rel="stylesheet" type="text/css" href="/css/style.css">
   <script src="/scripts/behaviour.min.js"></script>
-  <meta name="viewport" content="initial-scale=1.0">
+  {{ if eq .Kind "home"}}
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/css/style-homepage.css">
+  {{ end }}
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   {{ template "_internal/google_analytics_async.html" . }}
 </head>
 <body>
@@ -17,11 +21,14 @@
       {{ end }}
     {{ end }}
   {{ end }}
-  {{ partial "header.html" . }}
-  <main>
+  {{ partial "header.html" .}}
+  {{ if eq .Kind "home" }}
     {{ block "main" . }}{{ end }}
-  </main>
+  {{ else }}
+    <main>
+      {{ block "main" . }}{{ end }}
+    </main>
+  {{ end }}
   {{ partial "footer.html" . }}
-  <!-- TODO: cloudflare email obfuscation JS? -->
 </body>
 </html>
