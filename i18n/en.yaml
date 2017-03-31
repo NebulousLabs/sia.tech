@@ -11,6 +11,8 @@
   translation: "繁體中文"
 - id: de
   translation: "Deutsch"
+- id: ha
+  translation: "עברית"
 
 # Titles
 - id: title_lts
