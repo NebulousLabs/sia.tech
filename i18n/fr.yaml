@@ -79,7 +79,7 @@
 # URL: /index.html
 ### big header ###
 - id: index_bigheader1
-  translation: "Votre réseau cloud, privé et<span class=\"title-highlight\"> décentralisé </span>"
+  translation: "Votre cloud privé et<span class=\"title-highlight\"> décentralisé </span>"
 
 - id: index_subtitle
   translation: "Bienvenue dans la nouvelle ère du stockage cloud sur blockchain"
@@ -95,7 +95,7 @@
   translation: "Entièrement privé"
 
 - id: index_info1_content
-  translation: "Sia sépare, crypte et distribue vos fichiers sur un réseau décentralisé. Contrairement aux fournisseurs de stockage en réseau cloud traditionnels, vous contrôlez entièrement vos données puisque êtes le seul à détenir des clés."
+  translation: "Sia découpe, chiffre et distribue vos fichiers sur un réseau décentralisé. Contrairement aux fournisseurs de stockage cloud traditionnels, vous contrôlez entièrement vos données puisque êtes le seul à détenir les clés."
 
 - id: index_info2_title
   translation: "Beaucoup plus avantageux"
@@ -116,10 +116,10 @@
   translation: "Sia est entièrement open source. Beaucoup de personnes contribuent au logiciel Sia, et une communauté active construit des applications innovantes avec l'API Sia."
 
 - id: index_info5_title
-  translation: "Construit sur un blockchain"
+  translation: "Construit sur une blockchain"
 
 - id: index_info5_content
-  translation: "En utilisant son propre blockchain, Sia crée un marché de stockage décentralisé dans lequel les hôtes sont en concurrence pour votre entreprise – conduisant aux prix les plus bas possible. Les locataires payent en utilisant Siacoin, qui peut aussi être miné ou échangé."
+  translation: "En utilisant sa propre blockchain, Sia crée un marché de stockage décentralisé dans lequel les hôtes sont en concurrence – conduisant aux prix les plus bas possible. Les locataires payent en utilisant Siacoin, qui peut aussi être miné ou échangé."
 
 ### calculation section ###
 - id: index_calculationheader
@@ -131,7 +131,7 @@
 - id: index_calculationprovider
   translation: "Fournisseur de stockage"
 
-- id: index_calculationcost
+- id: index_caluclationcost
   translation: "Coût de stockage mensuel"
 
 - id: index_calculationbwcost
@@ -165,7 +165,6 @@
 
 - id: index_emailform
   translation: "Email"
-
 
 # URL: /about/index.html
 ### header ###
