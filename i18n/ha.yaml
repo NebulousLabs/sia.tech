@@ -1,0 +1,91 @@
+# URL: /index.html
+
+### big header ###
+- id: index_bigheader1
+  translation: "הפרטי שלך<span class=\"title-highlight\">המבוזר</span>הענן"
+
+- id: index_subtitle
+  translation: "ברוכים הבאים לעידן חדש של אחסון בענן המבוסס על הבלוקצ'יין"
+
+- id: index_getstartedbtn
+  translation: "התחל"
+
+- id: index_watchvideobtn
+  translation: "ראה סרטון"
+
+### info section ###
+- id: index_info1_title
+  translation: "פרטי לחלוטין"
+
+- id: index_info1_content
+  translation: ".מפצל לחלקים, מקודד ומפזר את קבציך על פני רשת מבוזרת. מכיון ואתה הוא זה שמחזיק במפתחות, אתה הוא הבעלים היחידים של המידע שלך. אין שום חברה חיצונית שיכולה לקבל גישה או לשלוט בקבצים שלך, זאת בניגוד לספקי אחסון ענן מסורתיים Sia"
+
+- id: index_info2_title
+  translation: "הרבה יותר משתלם כלכלית"
+
+- id: index_info2_content
+  translation: "!חשב את חסכונך למטה .Amazon S3 -עולה בערך 2 דולרים לחודש, זאת בהשוואה ל- 23 דולרים ב Sia על גבי TB1 פחות יקר בממוצע פי 10 מספקי אחסון הענן הנוכחיים. אחסון של Sia הענן המבוזר של"
+
+- id: index_info3_title
+  translation: "יתירות גבוהה"
+
+- id: index_info3_content
+  translation: ".מאכסן שברים קטנים של הקבצים שלך על הרבה יחידות איחסון הפזורות ברחבי העולם. דבר זה מבטל כל אפשרות לנקודת כשל בודדת  ומבטיח זמן פעולה תקינה ללא כשל גבוה ביותר, המשתווה לספקי אחסון ענן אחרים Sia"
+
+- id: index_info4_title
+  translation: "קוד פתוח"
+
+- id: index_info4_content
+  translation: ".Sia API כמו כן ישנה קהילה פעילה הבונה אפליקציות חדשניות על גבי ,Sia הינו קוד פתוח. מעל תריסר אנשים תרמו לתוכנת Sia"
+
+- id: index_info5_title
+  translation: "בנה על הבלוקצ'יין"
+
+- id: index_info5_content
+  translation: ".שגם הוא ניתן לכרייה ולמסחר ,Siacoin -יוצר שוק של אחסון מבוזר בו המארחים מתחרים עבור העסק שלך - דבר זה מוביל למחירים נמוכים ככל הניתן. השוכרים משלמים ב Sia ,Sia בשימוש בבלוקצ'ין של "
+
+### calculation section ###
+- id: index_calculationheader
+  translation: "חשב את חסכונך"
+
+- id: index_calculationamount
+  translation: "?TB כמה "
+
+- id: index_calculationprovider
+  translation: "ספק אחסון"
+
+- id: index_caluclationcost
+  translation: "עלות אחסון חודשית"
+
+- id: index_calculationbwcost
+  translation: "הורד את עלות רוחב הפס"
+
+- id: index_calculationprivate
+  translation: "פרטי"
+
+- id: index_calculationdecentralized
+  translation: "מבוזר"
+
+- id: index_calculationredundancy
+  translation: "כולל יתירות רב אזורית"
+
+### transform your cloud section ###
+- id: index_transformcloudheader
+  translation: "?מוכן לשנות את הענן שלך"
+
+- id: index_transformcloudgetstarted
+  translation: "התחל"
+
+- id: index_transformcloudcontact
+  translation: "צור קשר"
+
+- id: index_transformcloudwiki
+  translation: "Wiki"
+
+### mailing list ###
+
+- id: index_mailbutton
+  translation: "הירשם לעדכונים"
+
+- id: index_emailform
+  translation: "דואר אלקטרוני"
