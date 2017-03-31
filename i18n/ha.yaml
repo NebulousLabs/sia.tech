@@ -14,7 +14,6 @@
   translation: "ראה סרטון"
 
 ### info section ###
-
 - id: index_info1_title
   translation: "פרטי לחלוטין"
 
@@ -24,7 +23,7 @@
 - id: index_info2_title
   translation: "הרבה יותר משתלם כלכלית"
 
-- id: index_info2_contentg
+- id: index_info2_content
   translation: "!חשב את חסכונך למטה .Amazon S3 -עולה בערך 2 דולרים לחודש, זאת בהשוואה ל- 23 דולרים ב Sia על גבי TB1 פחות יקר בממוצע פי 10 מספקי אחסון הענן הנוכחיים. אחסון של Sia הענן המבוזר של"
 
 - id: index_info3_title
@@ -71,7 +70,6 @@
   translation: "כולל יתירות רב אזורית"
 
 ### transform your cloud section ###
-
 - id: index_transformcloudheader
   translation: "?מוכן לשנות את הענן שלך"
 
