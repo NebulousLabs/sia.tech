@@ -402,6 +402,9 @@
 - id: getsiacoin_yunbi
   translation: "YUNBI is a future oriented exchange for blockchain assets. Founded in Beijing, 2013, and built with the code released by Peatio Open Source Project, YUNBI adheres to the principles of integrity, transparency and being open-sourced, offering customers a safe and easy trading platform."
 
+- id: getsiacoin_shapeshift
+  translation: "Shapeshift is an innovative new low-friction cryptocurrency exchange that doesn't have a lengthy signup process. Simply set your input to a currency that you have, set the output to Siacoin, put your Siacoin address in the box, and click start."
+
 - id: getsiacoin_btn
   translation: "Get Siacoin"
 
