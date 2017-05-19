@@ -572,13 +572,13 @@
 
 ### farm ###
 - id: getstarted_farmiconh
-  translation: "Agriculturer" # TODO: update translation
+  translation: "Cultiver" # TODO: update translation
 
 - id: getstarted_farmiconp
   translation: "Je veux cultiver mon espace de stockage pour des Siacoins" # TODO: update translation
 
 - id: getstarted_farmh
-  translation: "Agriculturez des Siacoins" # TODO: update translation
+  translation: "Cultivez des Siacoins" # TODO: update translation
 
 - id: getstarted_farmstep1
   translation: "Télécharger <a href=\"../apps/#ui\">Sia-UI</a>"
