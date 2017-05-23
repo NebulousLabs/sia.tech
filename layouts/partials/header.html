@@ -17,7 +17,7 @@
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="#nav-item-locale">
                     {{ range .Translations }}
-                        <li class="dropdown-item ">
+                        <li class="dropdown-item " >
                           <a href="{{ .Permalink }}" class="nav-link skip-menu-prefix" >
                             {{ i18n .Lang }}
                           </a>
@@ -26,34 +26,73 @@
                     </ul>
                   </li>
                 {{ end }}
-              
+
                 <li class="bootstrap-nav-item flex-1"></li>
-              
+
                 <li class="bootstrap-nav-item ">
                   <a href="{{ .LanguagePrefix }}/apps" class="nav-link " >
                     {{ i18n "title_apps" }}
                   </a>
                 </li>
-            
+
                 <li class="bootstrap-nav-item ">
                   <a href="{{ .LanguagePrefix }}/about" class="nav-link " >
                     {{ i18n "title_about" }}
                   </a>
                 </li>
-            
+
                 <li class="bootstrap-nav-item dropdown ">
                   <a id="nav-item-community" class="dropdown-toggle nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
-                    
+
+                    Resources<span class="caret"></span>
+                  </a>
+                  <ul class="dropdown-menu" aria-labelledby="#nav-item-community">
+                    <li class="dropdown-item ">
+                      <a href="{{ .LanguagePrefix }}/get-siacoin" class="nav-link " >
+                        {{ i18n "title_getsiacoin" }}
+                      </a>
+                    </li>
+                    <li class="dropdown-item ">
+                      <a href="{{ .LanguagePrefix }}/faq" class="nav-link " >
+                        {{ i18n "title_faq" }}
+                      </a>
+                    </li>
+                    <li class="dropdown-item ">
+                      <a href="https://trello.com/b/Io1dDyuI/sia-public-roadmap" class="nav-link " target=&#34;_blank&#34; >
+                        {{ i18n "title_roadmap" }}
+                      </a>
+                    </li>
+                    <li class="dropdown-item ">
+                      <a href="https://siawiki.tech" class="nav-link " target=&#34;_blank&#34;>
+                        Wiki
+                      </a>
+                    </li>
+                  </ul>
+                </li>
+
+                <li class="bootstrap-nav-item dropdown ">
+                  <a id="nav-item-community" class="dropdown-toggle nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+
                     {{ i18n "header_community" }}<span class="caret"></span>
                   </a>
                   <ul class="dropdown-menu" aria-labelledby="#nav-item-community">
+                    <li class="dropdown-item ">
+                      <a href="https://blog.sia.tech" class="nav-link " target=&#34;_blank&#34; >
+                        {{ i18n "footer_blog" }}
+                      </a>
+                    </li>
                     <li class="dropdown-item ">
                       <a href="https://forum.sia.tech" class="nav-link " target=&#34;_blank&#34;>
                         {{ i18n "footer_forum" }}
                       </a>
                     </li>
                     <li class="dropdown-item ">
-                      <a href="http://slackin.sia.tech/" class="nav-link " target=&#34;_blank&#34;>
+                      <a href="http://github.com/nebulouslabs" class="nav-link " target=&#34;_blank&#34;>
+                        Github
+                      </a>
+                    </li>
+                    <li class="dropdown-item ">
+                      <a href="http://slackin.sia.tech" class="nav-link " target=&#34;_blank&#34;>
                         Slack
                       </a>
                     </li>
@@ -62,13 +101,9 @@
                         Twitter
                       </a>
                     </li>
-                    <li class="dropdown-item ">
-                      <a href="https://blog.sia.tech" class="nav-link " target=&#34;_blank&#34;>
-                        Blog
-                      </a>
-                    </li>
                   </ul>
                 </li>
+
                 <li class="bootstrap-nav-item ">
                   <a href="{{ .LanguagePrefix }}/get-started" class="nav-link btn btn-reverse" >
                     {{ i18n "title_getstarted" }}
@@ -78,5 +113,5 @@
         </div>
       </nav>
     </div>
-  </section>    
+  </section>
 </header>

@@ -66,7 +66,7 @@
 - id: footer_navheader
   translation: "What is Sia?"
 
-- id: footer_moreheader 
+- id: footer_moreheader
   translation: "More about Sia"
 
 - id: footer_docs
@@ -353,225 +353,37 @@
 - id: faq_subheader
   translation: "THINGS YOU WANT TO KNOW"
 
-### sia ###
-
-- id: faq_siah
-  translation: "Sia"
+### faqs ###
 
 - id: faq_sia1q
-  translation: "How are files securely stored on the Sia network?"
+  translation: "What is Sia?"
 - id: faq_sia1a
-  translation: "Sia uses a combination of erasure coding, encryption, and blockchains to ensure that files are secure on the network. No host can view the files that it is hosting, and files can withstand large network outages without corrupting."
+  translation: "Sia is a decentralized cloud storage platform that uses a blockchain to facilitate payments. On Sia you can rent storage, get paid host files, mine Siacon, or contribute to the project!"
 
 - id: faq_sia2q
-  translation: "What happens if a file host goes offline?"
+  translation: "Why Sia?"
 - id: faq_sia2a
-  translation: "Sia uses Reed Solomon erasure coding, which means that a large percentage of file hosts can go offline without causing file corruption."
+  translation: "Existing cloud storage providers are centralized. Costs are high, data is often unencrypted, and each provider typically runs only several large data centers. Sia, by contrast, allows for private, decentralized, distributed cloud storage at a far lower price."
 
 - id: faq_sia3q
-  translation: "How stable is Sia?"
+  translation: "What’s a Siacoin?"
 - id: faq_sia3a
-  translation: "The Sia consensus protocol has been thoroughly reviewed, and is unlikely to change dramatically in the future. No major vulnerabilities have been found in the Sia consensus protocol since the initial launch on June 7th.The client software is firmly in beta. Most serious bugs have been eliminated, but there are still rough or frustrating elements to the user experience. There may also be lingering bugs that would put coins or files at risk. Use with caution. There is no warranty on the software. Restarting the software is usually a good way to resolve unexpected issues."
+  translation: "Sia uses a cryptocurrency, Siacoin, to enable decentralized payments via file contracts. All payments on the network happen in Siacoin, which is a critical component of our cryptographic SLAs. Siacoin allows us to do things that would not be possible with Bitcoin or traditional online payments."
 
 - id: faq_sia4q
-  translation: "What is a file contract?"
+  translation: "Can I contribute, or build on Sia?"
 - id: faq_sia4a
-  translation: "A file contract enables a host and a renter to make an agreement about a file; the host agrees to store a file for some duration of time, and then gets paid some money for doing so. The renter pays all of the coins up front, and the blockchain acts as escrow. If the host keeps the file and submits a proof of storage at the end, the host will get the payment. Otherwise, (depending on the terms of the contract), the payment is returned to the uploader. All payments need to be made in Sia’s local currency, the siacoin."
+  translation: "Yes! We would love that. All of Sia's code is 100% open sourced and can be found on our <a href=\"https://github.com/NebulousLabs\">Github</a>."
 
 - id: faq_sia5q
-  translation: "Can I contribute, or build on Sia?"
+  translation: "Who created Sia?"
 - id: faq_sia5a
-  translation: "Yes! We would love that. All of Sia's code is 100% open sourced and can be found on our github.Special thanks to bitspill, fornax, autumnalscooter, and pmknutsen for helping out, as well as other devs who have made issues or submitted pull requests."
+  translation: "Sia was created by David Vorick and Luke Champine of Nebulous Inc, a VC-funded startup in Boston. Learn more about the team and company <a href=\"https://sia.tech/about\">here</a>."
 
 - id: faq_sia6q
-  translation: "What's the difference between Sia and Nebulous Labs?"
+  translation: "What if I have more questions?"
 - id: faq_sia6a
-  translation: "Nebulous Labs is the company, Sia is the product."
-
-### siacoins ###
-
-- id: faq_siacoinsh
-  translation: "Siacoins"
-
-- id: faq_siacoins1q
-  translation: "What is the difference between Siacoin and Bitcoin?"
-- id: faq_siacoins1a
-  translation: "Sia uses a cryptocurrency, Siacoin, to enable decentralized payments. Siacoin can be thought of as an extension to Bitcoin that adds support for file contracts. Like Bitcoin, Siacoin uses a blockchain, and is powered by \"proof-of-work\" mining. However, Siacoin and Bitcoin are not in direct competition. Bitcoin is a general-purpose currency, while Siacoin exists only to enable the Sia network."
-
-- id: faq_siacoins2q
-  translation: "Why does Sia need its own currency? Couldn't it use a payment processor like PayPal?"
-- id: faq_siacoins2a
-  translation: "This would make it much harder for clients to pay hosts directly. In addition, Sia creates a large volume of very small transactions (i.e. micropayments; think less than 1¢), which traditional payment processors are not designed to handle. Finally, using a blockchain also makes it possible to enforce contracts in a cryptographically secure way."
-
-- id: faq_siacoins3q
-  translation: "How can I get siacoins?"
-- id: faq_siacoins3a
-  translation: "You will need bitcoins to acquire siacoins. The most common place to get siacoins is Poloniex. There is also a trading thread on bitcoin talk and a trading channel in our slack."
-
-- id: faq_siacoins4q
-  translation: "How many siacoins will exist?"
-- id: faq_siacoins4a
-  translation: "The number of siacoins created each block is (300,000 - height). The genesis block has a height of 0. After height 270,000, all blocks will have a reward of 30,000 siacoins. The current number of siacoins can be found at explore.sia.tech"
-
-- id: faq_siacoins5q
-  translation: "How much does it cost to store data?"
-- id: faq_siacoins5a
-  translation: "The price is determined by a free market of users and providers. As of January 2016, storage is about $2.25/TB/month with 6x redundancy."
-
-- id: faq_siacoins6q
-  translation: "What is the difference between Siacoin and Siafund?"
-- id: faq_siacoins6a
-  translation: "The two are different assets. The Siafund grants you access to a portion of the hosts income. If you buy a siafund for $200, it means that over the lifetime of the Siafund you expect to earn $200 back (plus interest). If Sia achieves its goal of cloud storage domination, each Siafund will earn probably somewhere between $10,000 and $250,000 for their owners each. The discount represents risk that Sia will never grow that large.The Siacoin is used to buy storage on the Sia network, and it's base value is derived from that."
-
-### wallet ###
-
-- id: faq_walleth
-  translation: "Wallet Usage"
-
-- id: faq_wallet1q
-  translation: "How does wallet encryption work?"
-- id: faq_wallet1a
-  translation: "The first time you run Sia, you will need to initialize a wallet. You can click 'Create Wallet' in the app. You will be given a secure 29 word passphrase that will be needed to unlock the wallet in the future. If you ever lose your wallet file, you can use the 29 word phrase to recover siacoins that had been in the wallet."
-
-- id: faq_wallet2q
-  translation: "What is wallet locking?"
-- id: faq_wallet2a
-  translation: "Locking is part of the encryption. When you first open a wallet, it will be locked. Coins cannot be spent while the wallet is locked. The miner, file manager, and host will also be disabled while the wallet is locked."
-
-- id: faq_wallet3q
-  translation: "Can I choose my own password?"
-- id: faq_wallet3a
-  translation: "Currently, you cannot choose your own password. People typically overestimate their ability to create strong passwords, and many people have lost coins due to theft as the result of having a weak password. For this reason, there is no support for user-generated passwords in the default Sia software."
-
-- id: faq_wallet4q
-  translation: "Can a hacker steal my coins?"
-- id: faq_wallet4a
-  translation: "The private keys only exist in memory while the wallet is unlocked. All private data is encrypted using the wallet password before being saved to disk."
-
-- id: faq_wallet5q
-  translation: "Why is there a list of addresses?"
-- id: faq_wallet5a
-  translation: "Most wallets display different addresses to the user one at a time. We simply show them all to you at once. It's good practice to use a new address for every transaction."
-
-- id: faq_wallet6q
-  translation: "Why hasn't my balance updated after a transaction?"
-- id: faq_wallet6a
-  translation: "Your transaction will be included in the next block. The time it takes to mine each block is targeted at 10 minutes. Additionally, if your wallet is new, it may still be behind in downloading block headers."
-
-- id: faq_wallet7q
-  translation: "Are wallet users anonymous?"
-- id: faq_wallet7a
-  translation: "Yes, for the most part. Technically it's permissionless - Sia does not require any personal information for use of any of its services."
-
-- id: faq_wallet8q
-  translation: "How often should I back up my wallet?"
-- id: faq_wallet8a
-  translation: "There's no need to, as long as you have stored your seed / passphrase in a secure location. Don't lose that!"
-
-### host ###
-
-- id: faq_hosth
-  translation: "Host Usage"
-
-- id: faq_host1q
-  translation: "How do I become a host?"
-- id: faq_host1a
-  translation: "The first step is forwarding your ports. Once your ports are forwarded, you can announce the host and begin collecting file contracts. The announcement can take a few hours to propagate the network."
-
-- id: faq_host2q
-  translation: "How do I forward my ports?"
-- id: faq_host2a
-  translation: "The default ports that need to be forwarded are :9981 and :9982. Recent versions of Sia include upnp, which will automatically forward ports for most people but does not work for everyone. portforward.com contains more information."
-
-- id: faq_host3q
-  translation: "Sia says my ports are not forwarded, but they are."
-- id: faq_host3a
-  translation: "Sia sometimes falsely believes that your ports are not forwarded. To get around this, you can use 'siac' to announce a specific url. This announcement does not verify that your ports are forwarded, allowing you to get around the error."
-
-- id: faq_host4q
-  translation: "I am not getting any contracts."
-- id: faq_host4a
-  translation: "If you are not getting any file contracts, it is probably because your price is too high, your wallet is locked, your ports are not forwarded, or you never properly announced the host."
-
-- id: faq_host5q
-  translation: "What price should I use?"
-- id: faq_host5a
-  translation: "There are some crude tools for estimating competitive price of storage on the network. Anything over 100 siacoins per GB per month is unlikely to get storage contracts."
-
-- id: faq_host6q
-  translation: "Will hosts be held responsible for uploaded content?"
-- id: faq_host6a
-  translation: "Because the files are encrypted, hosts cannot know what files they are hosting and thus cannot be held accountable for hosting those files. However, if the host receives a DMCA takedown request then it is the host's responsibility to acquiesce."
-
-### miner ###
-
-- id: faq_minerh
-  translation: "Miner Usage"
-
-- id: faq_miner1q
-  translation: "Is there a mining pool?"
-- id: faq_miner1a
-  translation: "No, but there are at least 2 mining pools in development. An official mining pool is in development, and at least one third party is developing a mining pool for Sia.There is no official ETA for any mining pool."
-
-- id: faq_miner2q
-  translation: "What card should I buy?"
-- id: faq_miner2a
-  translation: "AMD cards tend to perform a lot better than Nvidia cards. The Fury X has been reported as a cost-effective card."
-
-- id: faq_miner3q
-  translation: "How long will it take to solo mine blocks?"
-- id: faq_miner3a
-  translation: "Depending on the card, each video card can expect to mine between 2 and 10 blocks per month, with very high variance."
-
-- id: faq_miner4q
-  translation: "I mined a block but my balance is still 0"
-- id: faq_miner4a
-  translation: "Similar to Bitcoin, coins that you have mined will not be spendable for 144 blocks. Typically, this is 24 hours though hashrate fluctuations can cause confirmations to take longer at times."
-
-- id: faq_miner5q
-  translation: "What hashing algorithm does Sia use?"
-- id: faq_miner5a
-  translation: "Sia uses BLAKE2b, and an implementation of a GPU miner is available for download on our Github."
-
-### files ###
-
-- id: faq_filesh
-  translation: "Files"
-
-- id: faq_files1q
-  translation: "How do I upload a file?"
-- id: faq_files1a
-  translation: "In the GUI, click on the folder icon on the top right corner of your wallet."
-
-- id: faq_files2q
-  translation: "I uploaded some files but they aren't showing up"
-- id: faq_files2a
-  translation: "You can try running 'siac' in the command line. Siac is a command line utility that you can download from the Sia repo. Tutorials on how to use it can be found here as well. https://github.com/NebulousLabs/Sia/releases/latest"
-
-- id: faq_files3q
-  translation: "Can I remove a file after uploading to Sia?"
-- id: faq_files3a
-  translation: "Coming soon!"
-
-- id: faq_files4q
-  translation: "How do I download a file?"
-- id: faq_files4a
-  translation: "Click on the file and a download icon will pop up in the top right corner."
-
-- id: faq_files5q
-  translation: "Can I see how many times a file has been downloaded?"
-- id: faq_files5a
-  translation: "No, as downloads happen outside of the blockchain. Some hosts may report the volume of activity that they get on a file, but the hosts can easily lie about such metrics. Other platforms such as the Sunfish sharing platform may have methods for tracking metrics such as downloads."
-
-- id: faq_files6q
-  translation: "Can others see my files on Sia?"
-- id: faq_files6a
-  translation: "No. All files uploaded by siad are first erasure coded and then encrypted. Only someone with the file metadata will be able to view the original file. As an additional protection, information like the exact filesize is also hidden from someone without the metadata."
-
-- id: faq_files7q
-  translation: "Can I share files with others on Sia?"
-- id: faq_files7a
-  translation: "Yes. Files can be shared publically and privately. All files uploaded to the Sia network are erasure coded and then encrypted. Someone will only be able to decrypt and fetch the files if they have metadata about the files. This metadata is stored in something called a ‘.sia’ or a ‘siafile’. By sharing the siafile associated with a file that’s been uploaded to Sia, you give someone the ability to download that file. To share files privately, you can give the siafiles to people you trust. They will be able to download the file, and as long as they don’t share it, nobody else will. You can share files publicly by putting the associated siafiles in a public place."
+  translation: "Fantastic! Check out our <a href=\"https://forum.sia.tech\">Forum</a> and <a href=\"https://siawiki.tech\">Wiki</a>, and if you still have questions we are happy to answer them in <a href=\"https://slackin.sia.tech\">Slack</a>."
 
 
 # URL: /get-siacoin.html
@@ -589,6 +401,9 @@
 
 - id: getsiacoin_yunbi
   translation: "YUNBI is a future oriented exchange for blockchain assets. Founded in Beijing, 2013, and built with the code released by Peatio Open Source Project, YUNBI adheres to the principles of integrity, transparency and being open-sourced, offering customers a safe and easy trading platform."
+
+- id: getsiacoin_shapeshift
+  translation: "Shapeshift is an innovative new low-friction cryptocurrency exchange that doesn't have a lengthy signup process. Simply set your input to a currency that you have, set the output to Siacoin, put your Siacoin address in the box, and click start."
 
 - id: getsiacoin_btn
   translation: "Get Siacoin"
