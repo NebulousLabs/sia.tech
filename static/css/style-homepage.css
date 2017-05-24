@@ -2,7 +2,7 @@
 .subtitle.sia-lead-sub {
   padding-top: 0.6rem;
   padding-bottom: 0.1rem;
-  letter-spacing: 0.1rem; }
+  letter-spacing: 0.05rem; }
 
 .hero.is-primary.connected-world {
   background-color: #1a1a1a;
@@ -24,7 +24,7 @@
   background: #1a1a1a; }
 
 .siainfo-image {
-  max-width: 400px;
+  max-width: 500px;
   height: auto;
   width: auto;
   margin: auto;
