@@ -36,6 +36,8 @@
 - id: title_roadmap
   translation: "Roadmap"
 
+- id: title_support
+  translation: "Knowledge Base"
 
 
 # Partials
