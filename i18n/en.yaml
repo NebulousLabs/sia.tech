@@ -405,6 +405,9 @@
 - id: getsiacoin_shapeshift
   translation: "Shapeshift is an innovative new low-friction cryptocurrency exchange that doesn't have a lengthy signup process. Simply set your input to a currency that you have, set the output to Siacoin, put your Siacoin address in the box, and click start."
 
+- id: getsiacoin_bittrex
+  translation: "Based and fully regulated in the USA, Bittrex is the go-to spot for traders who demand lightning fast trade execution, stable wallets, and industry-best security practices."
+
 - id: getsiacoin_btn
   translation: "Get Siacoin"
 
