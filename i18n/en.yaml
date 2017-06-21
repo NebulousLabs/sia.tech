@@ -133,13 +133,13 @@
   translation: "Sia stores tiny pieces of your files on dozens of nodes across the globe. This eliminates any single point of failure and ensures highest possible uptime, on par with other cloud storage providers."
 
 - id: index_info4_title
-  translation: "Open Source"
+  translation: "Open source"
 
 - id: index_info4_content
   translation: "Sia is completely open source. Over a dozen individuals have contributed to Sia's software, and there is an active community building innovative applications on top of the Sia API."
 
 - id: index_info5_title
-  translation: "Built on blockchain"
+  translation: "Blockchain marketplace"
 
 - id: index_info5_content
   translation: "Using the Sia blockchain, Sia creates a decentralized storage marketplace in which hosts compete for your business – this leads to the lowest possible prices. Renters pay using Siacoin, which can also be mined and traded."
