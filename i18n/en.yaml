@@ -360,7 +360,7 @@
 - id: faq_sia1q
   translation: "What is Sia?"
 - id: faq_sia1a
-  translation: "Sia is a decentralized cloud storage platform that uses a blockchain to facilitate payments. On Sia you can rent storage, get paid host files, mine Siacon, or contribute to the project!"
+  translation: "Sia is a decentralized cloud storage platform that uses a blockchain to facilitate payments. On Sia you can rent storage, get paid to host files, mine Siacon, or contribute to the project!"
 
 - id: faq_sia2q
   translation: "Why Sia?"
