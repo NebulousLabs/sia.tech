@@ -355,7 +355,7 @@
 - id: faq_siacoins3q
   translation: "Comment puis-je obtenir des siacoins?"
 - id: faq_siacoins3a
-  translation: "Vous aurez besoin d'acquérir des bitcoins pour obtenir des siacoins. L'endroit le plus commun pour obtenir des pièces de monnaie sia est Poloniex. Il y a aussi des négociation possibles sur talk Bitcoin et un canal de négociation dans notre Slack."
+  translation: "Vous aurez besoin d'acquérir des bitcoins pour obtenir des siacoins. L'endroit le plus commun pour obtenir des pièces de monnaie sia est Poloniex. Il y a aussi des négociation possibles sur talk Bitcoin et un canal de négociation dans notre Discord."
 
 - id: faq_siacoins4q
   translation: "Combien de siacoins existera-t-il?"
