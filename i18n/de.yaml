@@ -357,7 +357,7 @@
 - id: faq_siacoins3q
   translation: "Wie kann ich Siacoins erwerben?"
 - id: faq_siacoins3a
-  translation: "Sie brauchen zuerst Bitcoins um Siacoins zu erwerben. Der am häufigsten benutzte Ort um Siacoins zu erwerben ist Poloniex. Es gibt auch einen Handels-Thread auf bitcointalk.org und einen Handels-Kanal auf unserem Slack."
+  translation: "Sie brauchen zuerst Bitcoins um Siacoins zu erwerben. Der am häufigsten benutzte Ort um Siacoins zu erwerben ist Poloniex. Es gibt auch einen Handels-Thread auf bitcointalk.org und einen Handels-Kanal auf unserem Discord."
 
 - id: faq_siacoins4q
   translation: "Wie viele Siacoins werden total existieren?"
@@ -493,7 +493,7 @@
   translation: "Wie lade ich eine Datei hoch?"
 - id: faq_files1a
   translation: "Klicken Sie auf das Ordnersymbol in der rechten oberen Ecke Ihrer Brieftasche."
- 
+
 - id: faq_files2q
   translation: "Ich habe Dateien hochgeladen aber sie werden nicht angezeigt."
 - id: faq_files2a
@@ -508,7 +508,7 @@
   translation: "Wie kann ich eine Datei runterladen?"
 - id: faq_files4a
   translation: "Klicken Sie auf die Datei und ein Dowloadsymbol erscheint in der rechten oberen Ecke Ihrer Brieftasche."
- 
+
 - id: faq_files5q
   translation: "Sehe ich irgendwo wie oft eine Datei runtergeladen wurde?"
 - id: faq_files5a
