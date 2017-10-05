@@ -328,7 +328,7 @@
   translation: "Built on Sia"
 
 - id: apps_explorerh
-  translation: "Block explorer"
+  translation: "Explorer"
 
 - id: apps_explorerp
   translation: "Sia Blockchain Explorer"
@@ -336,14 +336,36 @@
 - id: apps_minebox
   translation: "Next generation NAS powered by Sia"
 
-- id: apps_siacluster
-  translation: "Data farm monitoring and management tool for Sia"
+- id: apps_siadrive
+  translation: "Mount Sia as a drive on your desktop"
 
-- id: apps_gnomeshell
-  translation: "Sia Cloud Storage Extension for GNOME Shell"
+- id: apps_siaberry
+  translation: "OS for using Sia on Raspberry Pi"
 
-- id: apps_siapulse
-  translation: "Analytics tool for Sia"
+- id: apps_siahub
+  translation: "Sia network stats and other tools"
+
+- id: apps_siastats
+  translation: "Charts and metrics for the Sia network"
+
+- id: apps_obelisk
+  translation: "The first ASIC miner for Siacoin"
+
+### integrations ###
+- id: integrations_header
+  translation: "Integrations"
+
+- id: integrations_learn
+  translation: "Learn more"
+
+- id: integrations_duplicati
+  translation: "Automated backup software with friendly UI"
+
+- id: integrations_minio
+  translation: "S3-compatible distributed object storage server"
+
+- id: integrations_nextcloud
+  translation: "Self-hosted Dropbox alternative"
 
 
 # URL: /faq.html
