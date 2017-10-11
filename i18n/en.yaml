@@ -333,6 +333,9 @@
 - id: apps_explorerp
   translation: "Sia Blockchain Explorer"
 
+- id: apps_luxor
+  translation: "Building Sia-centric apps and services"
+
 - id: apps_minebox
   translation: "Next generation NAS powered by Sia"
 
