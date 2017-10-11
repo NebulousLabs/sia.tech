@@ -356,7 +356,7 @@
 
 ### integrations ###
 - id: integrations_header
-  translation: "Integrations"
+  translation: "Integrations (Beta)"
 
 - id: integrations_learn
   translation: "Learn more"
