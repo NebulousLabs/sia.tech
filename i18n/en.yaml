@@ -339,6 +339,9 @@
 - id: apps_minebox
   translation: "Next generation NAS powered by Sia"
 
+- id: apps_pixeldrain
+  translation: "File sharing site powered by Sia"
+
 - id: apps_siadrive
   translation: "Mount Sia as a drive on your desktop"
 
